@@ -4,21 +4,21 @@
     "dateOpen": "2013-07-24",
     "dateClose": "2024-08-06",
     "link": "https://www.theverge.com/2024/8/6/24214471/google-chromecast-line-discontinued",
-    "description": "Chromecast fue una línea de reproductores de medios digitales que permitía a los usuarios reproducir contenido en línea en un televisor.",
+    "description": "Chromecast era una linea di lettori multimediali digitali che permetteva agli utenti di riprodurre contenuti online su un televisore.",
     "type": "hardware"
   },
   {
     "name": "VPN by Google One",
     "dateClose": "2024-06-20",
     "dateOpen": "2020-10-29",
-    "description": "VPN de Google One era un servicio de red privada virtual que proporcionaba a los usuarios tránsito encriptado de sus datos y actividad de red, y les permitía ocultar su dirección IP.",
+    "description": "VPN di Google One era un servizio di rete privata virtuale che forniva agli utenti il transito crittografato dei loro dati e attività di rete e permetteva loro di mascherare il proprio indirizzo IP.",
     "link": "https://9to5google.com/2024/04/11/google-one-vpn-discontinued/",
     "type": "service"
   },
   {
     "dateClose": "2023-06-26",
     "dateOpen": "2017-11-29",
-    "description": "Las Historias de YouTube (originalmente YouTube Reels) permitían a los creadores publicar videos temporales que expirarían después de siete días.",
+    "description": "Le Storie di YouTube (originariamente YouTube Reels) permettevano ai creatori di pubblicare video temporanei che sarebbero scaduti dopo sette giorni.",
     "link": "https://www.theverge.com/2023/5/25/23736246/youtube-ending-stories-shorts-community-posts",
     "name": "YouTube Stories",
     "type": "service"
@@ -26,7 +26,7 @@
   {
     "dateClose": "2023-07-19",
     "dateOpen": "2016-08-05",
-    "description": "Google Album Archive era una plataforma que permitía a los usuarios acceder y gestionar sus fotos y videos archivados de varios servicios de Google, como Hangouts y Picasa Web Albums.",
+    "description": "Google Album Archive era una piattaforma che permetteva agli utenti di accedere e gestire le loro foto e video archiviati da vari servizi Google, come Hangouts e Picasa Web Albums.",
     "link": "https://cordcuttersnews.com/google-is-shutting-down-album-archive/",
     "name": "Google Album Archive",
     "type": "service"
@@ -34,7 +34,7 @@
   {
     "dateClose": "2023-09-30",
     "dateOpen": "2014-06-13",
-    "description": "Google Domains era un registrador de nombres de dominio operado por Google.",
+    "description": "Google Domains era un registrar di nomi di dominio gestito da Google.",
     "link": "https://9to5google.com/2023/06/15/google-domains-squarespace/",
     "name": "Google Domains",
     "type": "service"
@@ -42,7 +42,7 @@
   {
     "dateClose": "2023-03-17",
     "dateOpen": "2014-01-01",
-    "description": "Jacquard era una pequeña etiqueta para facilitar y hacer más intuitiva la interacción de las personas con la tecnología en su vida diaria, sin tener que sacar constantemente sus dispositivos o tocar pantallas.",
+    "description": "Jacquard era una piccola etichetta per rendere più facile e intuitiva l'interazione delle persone con la tecnologia nella loro vita quotidiana, senza dover costantemente tirare fuori i loro dispositivi o toccare gli schermi.",
     "link": "https://www.androidpolice.com/google-project-jacquard-shutting-down/",
     "name": "Jacquard",
     "type": "hardware"
@@ -50,7 +50,7 @@
   {
     "dateClose": "2022-11-01",
     "dateOpen": "2012-03-29",
-    "description": "Google Surveys era un producto comercial de Google destinado a facilitar investigaciones de mercado personalizadas.",
+    "description": "Google Surveys era un prodotto aziendale di Google mirato a facilitare ricerche di mercato personalizzate.",
     "link": "https://www.searchenginejournal.com/google-surveys-is-shutting-down/465287/",
     "name": "Google Surveys",
     "type": "service"
@@ -58,7 +58,7 @@
   {
     "dateClose": "2023-02-23",
     "dateOpen": "2003-10-01",
-    "description": "Google Code Jam, Kick Start y Hash Code eran competiciones de programación competitiva abiertas a programadores de todo el mundo.",
+    "description": "Google Code Jam, Kick Start e Hash Code erano competizioni di programmazione competitiva aperte a programmatori di tutto il mondo.",
     "link": "https://en.wikipedia.org/wiki/Google_Code_Jam",
     "name": "Google Code Competitions",
     "type": "service"
@@ -66,7 +66,7 @@
   {
     "dateClose": "2023-01-18",
     "dateOpen": "2019-11-19",
-    "description": "Google Stadia era un servicio de juegos en la nube que combinaba un controlador de juegos WiFi y permitía a los usuarios transmitir la jugabilidad a través de navegadores web, televisores, aplicaciones móviles y Chromecast.",
+    "description": "Google Stadia era un servizio di cloud gaming che combinava un controller da gioco WiFi e permetteva agli utenti di trasmettere il gameplay attraverso browser web, TV, app mobili e Chromecast.",
     "link": "https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023/",
     "name": "Google Stadia",
     "type": "service"
@@ -74,7 +74,7 @@
   {
     "dateClose": "2022-06-01",
     "dateOpen": "2016-08-16",
-    "description": "Google Duo era una aplicación de videollamadas que permitía a las personas llamar a alguien de su lista de contactos.",
+    "description": "Google Duo era un'app per videochiamate che permetteva alle persone di chiamare qualcuno dalla propria rubrica.",
     "link": "https://en.wikipedia.org/wiki/Google_Duo",
     "name": "Google Duo",
     "type": "service"
@@ -82,7 +82,7 @@
   {
     "dateClose": "2022-06-21",
     "dateOpen": "2019-11-04",
-    "description": "Android Auto para pantallas de teléfono era una aplicación que permitía usar la pantalla del teléfono como una interfaz de Android Auto mientras se conducía, destinada a vehículos que no tenían una pantalla compatible incorporada.",
+    "description": "Android Auto per schermi telefonici era un'app che consentiva di utilizzare lo schermo del telefono come interfaccia Android Auto durante la guida, pensata per i veicoli che non avevano uno schermo compatibile integrato.",
     "link": "https://www.androidpolice.com/google-kills-android-auto-for-phone-screens/",
     "name": "Android Auto for phone screens",
     "type": "app"
@@ -90,7 +90,7 @@
   {
     "dateClose": "2022-07-31",
     "dateOpen": "2018-11-18",
-    "description": "Google My Business era una aplicación que permitía a las empresas gestionar sus perfiles comerciales de Google Maps.",
+    "description": "Google My Business era un'app che permetteva alle aziende di gestire i loro profili aziendali su Google Maps.",
     "link": "https://rizenmetrics.com/news-google-my-business-app-will-be-replaced/",
     "name": "Google My Business (app)",
     "type": "app"
@@ -98,7 +98,7 @@
   {
     "dateClose": "2022-02-17",
     "dateOpen": "2018-08-19",
-    "description": "Los cameos en Google permitían a celebridades y otras figuras públicas grabar respuestas en video a las preguntas más comunes que se les hacían, las cuales se mostrarían a los usuarios en los resultados de búsqueda de Google.",
+    "description": "I cameo su Google hanno permesso a celebrità e altre figure pubbliche di registrare video di risposta alle domande più comuni poste su di loro, che sarebbero stati mostrati agli utenti nei risultati di ricerca di Google.",
     "link": "https://techcrunch.com/2018/08/09/google-launches-cameos-a-video-qa-app-aimed-at-celebs/",
     "name": "Cameos on Google",
     "type": "service"
@@ -106,7 +106,7 @@
   {
     "dateClose": "2022-08-09",
     "dateOpen": "2017-02-15",
-    "description": "YouTube Go era una aplicación diseñada para facilitar el acceso a YouTube en dispositivos móviles en mercados emergentes a través de funciones especiales como la descarga de videos en wifi para ver más tarde.",
+    "description": "YouTube Go era un'applicazione mirata a rendere più facile l'accesso a YouTube su dispositivi mobili nei mercati emergenti attraverso funzionalità speciali come il download di video in wifi per la visione successiva.",
     "link": "https://9to5google.com/2022/05/03/youtube-go-shutting-down/",
     "name": "YouTube Go",
     "type": "app"
@@ -114,7 +114,7 @@
   {
     "dateClose": "2020-04-23",
     "dateOpen": "2014-11-20",
-    "description": "Google Contributor fue un programa dirigido por Google que permitía a los usuarios en la Red de sitios de contenido de Google ver los sitios web sin ningún anuncio que sea administrado, clasificado y mantenido por Google.",
+    "description": "Google Contributor era un programma gestito da Google che permetteva agli utenti della Rete Google di siti di contenuti di visualizzare i siti web senza alcuna pubblicità amministrata, ordinata e mantenuta da Google.",
     "link": "https://en.wikipedia.org/wiki/Google_Contributor",
     "name": "Google Contributor",
     "type": "service"
@@ -122,7 +122,7 @@
   {
     "dateClose": "2016-02-21",
     "dateOpen": "2012-06-21",
-    "description": "Google Maps Coordinate era un servicio para gestionar fuerzas de trabajo móviles con la ayuda de aplicaciones móviles y un panel de control basado en la web.",
+    "description": "Google Maps Coordinate era un servizio per gestire le forze lavoro mobili con l'aiuto di app mobili e un cruscotto basato sul web.",
     "link": "https://techcrunch.com/2015/01/21/google-shuts-down-maps-coordinate-its-mobile-workforce-management-service/",
     "name": "Google Maps Coordinate",
     "type": "service"
@@ -130,7 +130,7 @@
   {
     "dateClose": "2021-07-30",
     "dateOpen": "2013-07-01",
-    "description": "Fitbit Coach (anteriormente Fitstar) era una aplicación de entrenamiento con peso corporal basada en videos que utilizaba inteligencia artificial para personalizar los entrenamientos según la retroalimentación del usuario.",
+    "description": "Fitbit Coach (precedentemente Fitstar) era un'app di allenamento basata su video per esercizi a corpo libero che utilizzava l'IA per personalizzare gli allenamenti in base al feedback dell'utente.",
     "link": "https://help.fitbit.com/articles/en_US/Help_article/2279.htm",
     "name": "Fitbit Coach",
     "type": "app"
@@ -138,7 +138,7 @@
   {
     "dateClose": "2021-07-30",
     "dateOpen": "2014-09-01",
-    "description": "Fitstar Yoga era una aplicación de yoga basada en videos que creaba sesiones de yoga únicas basadas en las preferencias y el nivel de habilidad del usuario.",
+    "description": "Fitstar Yoga era un'app di yoga basata su video che creava sessioni di yoga uniche basate sulle preferenze e sul livello di abilità dell'utente.",
     "link": "https://help.fitbit.com/articles/en_US/Help_article/2279.htm#FitStarY",
     "name": "Fitstar Yoga",
     "type": "app"
@@ -146,7 +146,7 @@
   {
     "dateClose": "2023-01-11",
     "dateOpen": "2015-08-31",
-    "description": "Google OnHub fue una serie de enrutadores inalámbricos residenciales fabricados por Asus y TP-Link que estaban alimentados por software de Google, gestionados por aplicaciones de Google y ofrecían características especiales mejoradas como Google Assistant.",
+    "description": "Google OnHub era una serie di router wireless residenziali prodotti da Asus e TP-Link che erano alimentati da software Google, gestiti da app Google e offrivano funzionalità speciali avanzate come Google Assistant.",
     "link": "https://en.wikipedia.org/wiki/Google_OnHub",
     "name": "Google OnHub",
     "type": "hardware"
@@ -154,7 +154,7 @@
   {
     "dateClose": "2021-09-27",
     "dateOpen": "2017-11-01",
-    "description": "Plataforma de análisis para el chatbot de Dialogflow de Google y otros, iniciada por el incubador financiado por Google, Area120, luego retirada y parcialmente fusionada en Dialogflow en sí.",
+    "description": "Piattaforma di analisi per il chatbot di Dialogflow di Google e altri, avviata dall'incubatore Area120 finanziato da Google, poi ritirata e parzialmente integrata in Dialogflow stesso.",
     "link": "https://web.archive.org/web/20210701153646/https://chatbase.com/documentation/docs-overview",
     "name": "Chatbase",
     "type": "service"
@@ -162,7 +162,7 @@
   {
     "dateClose": "2024-04-08",
     "dateOpen": "2009-01-15",
-    "description": "Dropcam fue una línea de cámaras de transmisión de video Wi-Fi adquirida por Google en 2014.",
+    "description": "Dropcam era una linea di telecamere di streaming video Wi-Fi acquisita da Google nel 2014.",
     "link": "https://en.wikipedia.org/wiki/Dropcam",
     "name": "DropCam",
     "type": "hardware"
@@ -170,7 +170,7 @@
   {
     "dateClose": "2021-12-11",
     "dateOpen": "2000-12-11",
-    "description": "Google Toolbar era una barra de herramientas del navegador web que proporcionaba un cuadro de búsqueda en navegadores web como Internet Explorer y Firefox.",
+    "description": "Google Toolbar era una barra degli strumenti del browser web che forniva una casella di ricerca nei browser web come Internet Explorer e Firefox.",
     "link": "https://en.wikipedia.org/wiki/Google_Toolbar",
     "name": "Google Toolbar",
     "type": "service"
@@ -178,7 +178,7 @@
   {
     "dateClose": "2021-10-15",
     "dateOpen": "2014-10-31",
-    "description": "My Maps era una aplicación de Android que permitía a los usuarios crear mapas personalizados para uso personal o para compartir en su dispositivo móvil.",
+    "description": "My Maps era un'applicazione Android che consentiva agli utenti di creare mappe personalizzate per uso personale o condivisione sul proprio dispositivo mobile.",
     "link": "https://9to5google.com/2021/07/20/google-my-maps-android-shutdown/",
     "name": "Google My Maps",
     "type": "app"
@@ -186,7 +186,7 @@
   {
     "dateClose": "2021-06-01",
     "dateOpen": "2014-08-26",
-    "description": "Zync render fue una plataforma de renderizado en la nube para animación y efectos visuales.",
+    "description": "Zync render era una piattaforma di rendering cloud per animazioni ed effetti visivi.",
     "link": "https://www.reddit.com/r/vfx/comments/gur4lc/zync_render_will_shut_down_june_1_2021/",
     "name": "Zync Render",
     "type": "service"
@@ -194,7 +194,7 @@
   {
     "dateClose": "2012-07-01",
     "dateOpen": "2009-11-05",
-    "description": "Google Commerce Search era un servicio de búsqueda empresarial que impulsaba las tiendas minoristas en línea y sitios web de comercio electrónico, mejorando la velocidad y precisión.",
+    "description": "Google Commerce Search era un servizio di ricerca aziendale che alimentava i negozi al dettaglio online e i siti di e-commerce migliorando la velocità e l'accuratezza.",
     "link": "https://techcrunch.com/2012/07/03/google-shutdowns-continue-igoogle-google-video-google-mini-others-are-killed/",
     "name": "Google Commerce Search",
     "type": "service"
@@ -202,7 +202,7 @@
   {
     "dateClose": "2021-04-09",
     "dateOpen": "2019-05-14",
-    "description": "La aplicación móvil de Google Shopping, que absorbió a Google Express cuando se lanzó, proporcionaba una experiencia de compra nativa con una página de inicio personalizada para usuarios móviles. Ahora está retirada y la funcionalidad continúa en la pestaña de Compras.",
+    "description": "L'app mobile di Google Shopping, che aveva assorbito Google Express al momento del lancio, offriva un'esperienza di shopping nativa con una homepage personalizzata per gli utenti mobili. Ora è stata ritirata e le funzionalità sono state trasferite nella scheda Shopping.",
     "link": "https://9to5google.com/2021/04/09/google-shopping-app/",
     "name": "Google Shopping Mobile App",
     "type": "app"
@@ -210,7 +210,7 @@
   {
     "dateClose": "2021-06-15",
     "dateOpen": "2011-05-10",
-    "description": "Google Play Películas y TV, originalmente Google TV, era una aplicación utilizada para ver medios comprados y alquilados y finalmente fue reemplazada por YouTube.",
+    "description": "Google Play Movies & TV, originariamente Google TV, era un'applicazione utilizzata per visualizzare contenuti multimediali acquistati e noleggiati ed è stata infine sostituita da YouTube.",
     "link": "https://en.wikipedia.org/wiki/Google_TV_(service)",
     "name": "Google Play Movies & TV",
     "type": "app"
@@ -218,7 +218,7 @@
   {
     "dateClose": "2021-04-01",
     "dateOpen": "2012-10-30",
-    "description": "Google Public Alerts era un servicio de notificación en línea propiedad de Google.org que enviaba alertas de seguridad a varios países.",
+    "description": "Google Public Alerts era un servizio di notifiche online di proprietà di Google.org che inviava avvisi di sicurezza a vari paesi.",
     "link": "https://en.wikipedia.org/wiki/Google_Public_Alerts",
     "name": "Google Public Alerts",
     "type": "service"
@@ -226,7 +226,7 @@
   {
     "dateClose": "2021-03-31",
     "dateOpen": "2010-01-01",
-    "description": "(también conocido como Enlaces Cortos de Google) era un servicio de acortamiento de URL. También admitía dominios personalizados para los clientes de Google Workspace (anteriormente G Suite (anteriormente Google Apps)).",
+    "description": "(chiamato anche collegamenti brevi di Google) era un servizio di abbreviazione degli URL. Supportava anche un dominio personalizzato per i clienti di Google Workspace (precedentemente G Suite (precedentemente Google Apps)).",
     "link": "https://github.com/codyogden/killedbygoogle/issues/865",
     "name": "Google Go Links",
     "type": "service"
@@ -234,7 +234,7 @@
   {
     "dateClose": "2021-01-26",
     "dateOpen": "2016-04-05",
-    "description": "Tilt Brush era una aplicación de realidad virtual de pintura 3D a escala de habitación disponible en Google, originalmente desarrollada por Skillman & Hackett.",
+    "description": "Tilt Brush era un'applicazione di realtà virtuale per la pittura 3D su vasta scala disponibile da Google, originariamente sviluppata da Skillman & Hackett.",
     "link": "https://www.tiltbrush.com/",
     "name": "Tilt Brush",
     "type": "app"
@@ -242,7 +242,7 @@
   {
     "dateClose": "2022-01-05",
     "dateOpen": "2015-05-28",
-    "description": "Android Things era un sistema operativo integrado basado en Android (originalmente llamado Brillo) diseñado para funcionar en dispositivos de Internet de las cosas (IoT).",
+    "description": "Android Things era un sistema operativo embedded basato su Android (originariamente chiamato Brillo) progettato per funzionare su dispositivi Internet of Things (IoT).",
     "link": "https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html",
     "name": "Android Things",
     "type": "service"
@@ -250,7 +250,7 @@
   {
     "dateClose": "2020-12-10",
     "dateOpen": "2017-12-14",
-    "description": "YouTube VR te permitía encontrar y ver fácilmente videos en 360 grados y contenido de realidad virtual con auriculares compatibles con SteamVR.",
+    "description": "YouTube VR ti permetteva di trovare e guardare facilmente video a 360 gradi e contenuti di realtà virtuale con visori compatibili con SteamVR.",
     "link": "https://steamdb.info/app/755770/history/",
     "name": "YouTube VR (SteamVR)",
     "type": "app"
@@ -258,7 +258,7 @@
   {
     "dateClose": "2021-06-08",
     "dateOpen": "2016-06-01",
-    "description": "La aplicación permitía a los usuarios tomar medidas de objetos cotidianos con la cámara de su dispositivo utilizando la tecnología ARCore.",
+    "description": "Measure ha permesso agli utenti di misurare oggetti di uso quotidiano utilizzando la fotocamera del proprio dispositivo, sfruttando la tecnologia ARCore.",
     "link": "https://www.androidpolice.com/2021/06/08/google-kills-measure-its-ar-based-measurement-taking-app/",
     "name": "Measure",
     "type": "app"
@@ -266,7 +266,7 @@
   {
     "dateClose": "2021-03-31",
     "dateOpen": "2011-09-25",
-    "description": "Google Crisis Map era un sitio web que permitía crear, publicar y compartir mapas combinando capas de cualquier lugar en la web.",
+    "description": "Google Crisis Map era un sito web che permetteva di creare, pubblicare e condividere mappe combinando livelli da qualsiasi parte del web.",
     "link": "https://web.archive.org/web/20211209021628/https://support.google.com/maps/answer/10394155",
     "name": "Google Crisis Map",
     "type": "service"
@@ -274,7 +274,7 @@
   {
     "dateClose": "2020-06-24",
     "dateOpen": "2018-09-01",
-    "description": "Pigeon Transit fue una aplicación de tránsito que utilizaba información colaborativa sobre retrasos, trenes llenos, averías en escaleras mecánicas, entretenimiento en vivo, condiciones sucias o inseguras.",
+    "description": "Pigeon Transit era un'applicazione di trasporto che utilizzava informazioni provenienti dalla folla riguardanti ritardi, treni affollati, guasti alle scale mobili, intrattenimento dal vivo, condizioni sporche o pericolose.",
     "link": "https://www.slashgear.com/pigeon-crowdsourced-transit-app-experiment-is-shutting-down-11624401/",
     "name": "Pigeon Transit",
     "type": "app"
@@ -282,7 +282,7 @@
   {
     "dateClose": "2020-05-13",
     "dateOpen": "2008-08-19",
-    "description": "Enhanced 404 Pages era una biblioteca de JavaScript que añadía URLs sugeridas y un cuadro de búsqueda a la página de error 404 No Encontrado de un sitio web.",
+    "description": "Le pagine 404 potenziate erano una libreria JavaScript che aggiungeva URL suggeriti e una casella di ricerca alla pagina di errore 404 Not Found di un sito web.",
     "link": "https://webmasters.googleblog.com/2008/08/make-your-404-pages-more-useful.html",
     "name": "Enhanced 404 Pages",
     "type": "service"
@@ -290,7 +290,7 @@
   {
     "dateClose": "2010-02-28",
     "dateOpen": "2006-12-01",
-    "description": "YouTube Streams permitía a los usuarios ver un video de YouTube juntos mientras chateaban sobre el video en tiempo real.",
+    "description": "YouTube Streams permetteva agli utenti di guardare un video di YouTube insieme mentre chattavano in tempo reale riguardo al video.",
     "link": "https://mashable.com/archive/youtube-test-tube",
     "name": "YouTube Streams",
     "type": "service"
@@ -298,7 +298,7 @@
   {
     "dateClose": "2020-08-31",
     "dateOpen": "2019-02-05",
-    "description": "Password Checkup proporcionó una advertencia a los usuarios si estaban utilizando una combinación de nombre de usuario y contraseña verificada contra más de 4 mil millones de credenciales que Google sabía que eran inseguras.",
+    "description": "Password Checkup fornisce un avviso agli utenti se stanno utilizzando una combinazione di nome utente e password controllata contro oltre 4 miliardi di credenziali che Google sa essere non sicure.",
     "link": "https://9to5google.com/2020/07/30/password-checkup-chrome-extension/",
     "name": "Password Checkup extension",
     "type": "app"
@@ -306,7 +306,7 @@
   {
     "dateClose": "2020-06-30",
     "dateOpen": "2020-02-01",
-    "description": "Google Photos Print era un servicio de suscripción que seleccionaba automáticamente las diez mejores fotos de los últimos treinta días, las cuales eran enviadas por correo a los hogares de los usuarios.",
+    "description": "Google Photos Print era un servizio a abbonamento che selezionava automaticamente le dieci migliori foto degli ultimi trenta giorni e le inviava per posta alle case degli utenti.",
     "link": "https://www.forbes.com/sites/paulmonckton/2020/06/20/google-photos-featue-cancellation-auto-print-selection/#19631af66294",
     "name": "Google Photos Print",
     "type": "service"
@@ -314,7 +314,7 @@
   {
     "dateClose": "2020-10-22",
     "dateOpen": "2011-11-16",
-    "description": "Google Play Music era un servicio de transmisión de música y podcasts, y un almacenamiento en línea de música.",
+    "description": "Google Play Music era un servizio di streaming musicale e podcast, e un deposito online di musica.",
     "link": "https://youtube.googleblog.com/2020/05/youtube-music-transfer-google-play-music-library.html",
     "name": "Google Play Music",
     "type": "service"
@@ -322,7 +322,7 @@
   {
     "dateClose": "2020-05-12",
     "dateOpen": "2019-06-10",
-    "description": "Shoelace era una aplicación utilizada para encontrar actividades en grupo con otras personas que comparten tus intereses.",
+    "description": "Shoelace era un'applicazione utilizzata per trovare attività di gruppo con altre persone che condividono i tuoi interessi.",
     "link": "https://9to5google.com/2020/04/28/shoelace-area-120-shutdown/",
     "name": "Shoelace",
     "type": "app"
@@ -330,7 +330,7 @@
   {
     "dateClose": "2020-05-12",
     "dateOpen": "2018-05-31",
-    "description": "Neighbourly era una aplicación móvil diseñada para ayudarte a conocer tu vecindario al preguntar a otros residentes, y descubrir servicios locales e instalaciones en tu área de personas que viven cerca de ti.",
+    "description": "Neighbourly era un'applicazione mobile progettata per aiutarti a conoscere il tuo quartiere chiedendo ad altri residenti e scoprire i servizi locali e le strutture nella tua zona da persone che vivono vicino a te.",
     "link": "https://thenextweb.com/google/2020/04/02/google-is-shutting-down-its-neighbourly-app/",
     "name": "Neighbourly",
     "type": "app"
@@ -338,7 +338,7 @@
   {
     "dateClose": "2020-03-19",
     "dateOpen": "2018-05-09",
-    "description": "Material Theme Editor era un complemento para Sketch App que te permitía crear un sistema de diseño basado en material para tu aplicación.",
+    "description": "Material Theme Editor era un plugin per Sketch App che ti permetteva di creare un sistema di design basato su materiali per la tua app.",
     "link": "https://medium.com/google-design/whats-next-for-material-design-s-theming-tools-f65014ffcce7",
     "name": "Material Theme Editor",
     "type": "app"
@@ -346,7 +346,7 @@
   {
     "dateClose": "2020-02-17",
     "dateOpen": "2015-09-27",
-    "description": "Google Station fue un servicio que brindaba a los socios un conjunto fácil de herramientas para implementar puntos de acceso Wi-Fi en lugares públicos. Google Station proporcionaba software y orientación sobre hardware para convertir conexiones de fibra en zonas Wi-Fi rápidas, confiables y seguras.",
+    "description": "Google Station era un servizio che forniva ai partner un set di strumenti semplici per implementare hotspot Wi-Fi in luoghi pubblici. Google Station forniva software e indicazioni sull'hardware per trasformare le connessioni in fibra in zone Wi-Fi veloci, affidabili e sicure.",
     "link": "https://india.googleblog.com/2020/02/five-years-400-stations-and-thousands.html",
     "name": "Google Station",
     "type": "service"
@@ -354,7 +354,7 @@
   {
     "dateClose": "2020-02-06",
     "dateOpen": "2013-04-18",
-    "description": "One Today era una aplicación que permitía a los usuarios donar $1 a diferentes organizaciones y descubrir cómo se utilizaría su donación.",
+    "description": "One Today era un'app che permetteva agli utenti di donare 1 dollaro a diverse organizzazioni e scoprire come sarebbe stata utilizzata la loro donazione.",
     "link": "https://techcrunch.com/2013/04/18/googles-one-today-app-aims-to-make-charitable-donations-a-more-social-and-frequent-experience/",
     "name": "One Today",
     "type": "app"
@@ -362,7 +362,7 @@
   {
     "dateClose": "2021-01-19",
     "dateOpen": "2016-11-30",
-    "description": "App Maker era una herramienta que permitía a sus usuarios construir e implementar aplicaciones empresariales personalizadas de forma fácil y segura en la web sin necesidad de escribir mucho código.",
+    "description": "App Maker era uno strumento che permetteva ai suoi utenti di creare e distribuire facilmente e in modo sicuro app personalizzate per le aziende sul web senza dover scrivere molto codice.",
     "link": "https://en.wikipedia.org/wiki/Google_App_Maker",
     "name": "App Maker",
     "type": "service"
@@ -370,7 +370,7 @@
   {
     "dateClose": "2018-01-12",
     "dateOpen": "2016-06-30",
-    "description": "SoundStage era un sandbox de música de realidad virtual construido específicamente para VR a escala de habitación.",
+    "description": "SoundStage era una sandbox musicale di realtà virtuale costruita appositamente per la realtà virtuale a scala di stanza.",
     "link": "https://github.com/googlearchive/soundstagevr",
     "name": "SoundStage",
     "type": "service"
@@ -378,7 +378,7 @@
   {
     "dateClose": "2020-12-31",
     "dateOpen": "2010-04-16",
-    "description": "Google Cloud Print permitía a los usuarios 'imprimir desde cualquier lugar;' para imprimir desde la web, el escritorio o el móvil a cualquier impresora conectada a Google Cloud Print.",
+    "description": "Google Cloud Print ha permesso agli utenti di 'stampare ovunque;' per stampare da web, desktop o mobile su qualsiasi stampante connessa a Google Cloud Print.",
     "link": "https://9to5google.com/2019/11/21/google-cloud-print-dead-2020/",
     "name": "Google Cloud Print",
     "type": "service"
@@ -386,7 +386,7 @@
   {
     "dateClose": "2019-03-13",
     "dateOpen": "2013-10-01",
-    "description": "Google Spotlight Stories fue un proyecto de aplicación y estudio de contenido que creó historias inmersivas para dispositivos móviles y realidad virtual.",
+    "description": "Google Spotlight Stories era un progetto di app e studio di contenuti che creava storie immersive per dispositivi mobili e VR.",
     "link": "https://variety.com/2019/digital/news/google-spotlight-stories-shutting-down-1203163117/",
     "name": "Google Spotlight Stories",
     "type": "service"
@@ -394,7 +394,7 @@
   {
     "dateClose": "2019-10-17",
     "dateOpen": "2017-06-01",
-    "description": "Datally (anteriormente Triangle) era una aplicación inteligente de Google que te ayudaba a ahorrar, gestionar y compartir tus datos móviles.",
+    "description": "Datally (precedentemente noto come Triangle) era un'applicazione intelligente di Google che ti aiutava a risparmiare, gestire e condividere i tuoi dati mobili.",
     "link": "https://thenextweb.com/google/2019/10/17/googles-datally-app-for-saving-on-mobile-data-is-dead/",
     "name": "Datally",
     "type": "app"
@@ -402,7 +402,7 @@
   {
     "dateClose": "2011-06-05",
     "dateOpen": "1997-09-15",
-    "description": "La Búsqueda Especializada de Google permitía a los usuarios buscar en un índice limitado de la web temas especializados como Linux, Microsoft y 'Uncle Sam'.",
+    "description": "La Ricerca Specializzata di Google permetteva agli utenti di cercare in un indice limitato del web argomenti specializzati come Linux, Microsoft e 'Uncle Sam'.",
     "link": "https://www.seroundtable.com/google-uncle-sam-13518.html",
     "name": "Google Specialized Search",
     "type": "service"
@@ -410,7 +410,7 @@
   {
     "dateClose": "2019-10-15",
     "dateOpen": "2017-10-04",
-    "description": "Google Clips era una cámara miniatura que se podía sujetar con un clip y que podía capturar automáticamente videoclips interesantes o relevantes determinados por algoritmos de aprendizaje automático.",
+    "description": "Google Clips era una mini telecamera da agganciare che poteva catturare automaticamente video interessanti o rilevanti determinati da algoritmi di apprendimento automatico.",
     "link": "https://en.wikipedia.org/wiki/Google_Clips",
     "name": "Google Clips",
     "type": "hardware"
@@ -418,7 +418,7 @@
   {
     "dateClose": "2019-10-15",
     "dateOpen": "2016-11-10",
-    "description": "Google Daydream era una plataforma de realidad virtual y un conjunto de dispositivos de hardware que funcionaban con ciertos teléfonos Android.",
+    "description": "Google Daydream era una piattaforma di realtà virtuale e un insieme di dispositivi hardware che funzionavano con alcuni telefoni Android specifici.",
     "link": "https://en.wikipedia.org/wiki/Google_Daydream",
     "name": "Google Daydream",
     "type": "hardware"
@@ -426,7 +426,7 @@
   {
     "dateClose": "2019-11-22",
     "dateOpen": "2018-01-26",
-    "description": "Google Bulletin era un servicio de noticias hiperlocal donde los usuarios podían publicar noticias de su vecindario y permitir que otros en las mismas áreas escucharan esas historias.",
+    "description": "Google Bulletin era un servizio di notizie iperlocali in cui gli utenti potevano pubblicare notizie dal loro quartiere e permettere ad altri nella stessa zona di ascoltare quelle storie.",
     "link": "https://www.androidpolice.com/2019/09/26/googles-hyperlocal-news-app-bulletin-is-shutting-down/",
     "name": "Google Bulletin",
     "type": "service"
@@ -434,7 +434,7 @@
   {
     "dateClose": "2019-11-17",
     "dateOpen": "2018-09-18",
-    "description": "Touring Bird fue un proyecto de incubadora del Área 120 que ayudó a los usuarios a comparar precios, reservar tours, entradas y experiencias, y aprender sobre los principales destinos alrededor del mundo.",
+    "description": "Touring Bird era un progetto dell'incubatore Area 120 che aiutava gli utenti a confrontare i prezzi, prenotare tour, biglietti ed esperienze, e scoprire le migliori destinazioni in tutto il mondo.",
     "link": "https://9to5google.com/2019/10/22/google-touring-bird/",
     "name": "Touring Bird",
     "type": "service"
@@ -442,7 +442,7 @@
   {
     "dateClose": "2019-10-02",
     "dateOpen": "2010-07-07",
-    "description": "YouTube Leanback era una versión optimizada de YouTube utilizada para navegadores web de televisión y envoltorios de aplicaciones WebView.",
+    "description": "YouTube Leanback era una versione ottimizzata di YouTube utilizzata per i browser web televisivi e gli wrapper delle applicazioni WebView.",
     "link": "https://9to5google.com/2019/09/16/youtube-leanback-tv-interface-disabled-soon/",
     "name": "YouTube Leanback",
     "type": "service"
@@ -450,7 +450,7 @@
   {
     "dateClose": "2019-09-03",
     "dateOpen": "2013-11-29",
-    "description": "YouTube para Nintendo 3DS permitía a los usuarios transmitir videos de YouTube en la consola de juegos portátil.",
+    "description": "YouTube per Nintendo 3DS permetteva agli utenti di guardare video di YouTube sulla console per videogiochi portatile.",
     "link": "https://9to5google.com/2019/08/26/youtube-nintendo-3ds-app-shut-down/",
     "name": "YouTube for Nintendo 3DS",
     "type": "app"
@@ -458,7 +458,7 @@
   {
     "dateClose": "2020-09-01",
     "dateOpen": "2017-07-18",
-    "description": "Google Hire era un sistema de seguimiento de solicitantes para ayudar a las pequeñas y medianas empresas a distribuir empleos, identificar y atraer candidatos, construir relaciones sólidas con los candidatos y gestionar eficientemente el proceso de entrevistas.",
+    "description": "Google Hire era un sistema di tracciamento dei candidati per aiutare le piccole e medie imprese a distribuire offerte di lavoro, identificare e attrarre candidati, costruire relazioni solide con i candidati e gestire in modo efficiente il processo di colloquio.",
     "link": "https://www.theverge.com/2019/8/28/20837004/google-hire-next-tool-shut-down-service-jobs-hiring-recruiting-inbox-allo",
     "name": "Hire by Google",
     "type": "service"
@@ -466,7 +466,7 @@
   {
     "dateClose": "2019-12-15",
     "dateOpen": "2011-05-25",
-    "description": "Google Correlate fue un servicio que proporcionaba a los usuarios información sobre qué tan fuerte es la frecuencia de múltiples términos de búsqueda correlacionados entre sí durante un intervalo de tiempo especificado.",
+    "description": "Google Correlate era un servizio che forniva agli utenti informazioni su quanto fortemente la frequenza di più termini di ricerca correlasse tra loro su un intervallo di tempo specificato.",
     "link": "https://de.wikipedia.org/wiki/Google_Correlate",
     "name": "Google Correlate",
     "type": "service"
@@ -474,7 +474,7 @@
   {
     "dateClose": "2019-09-18",
     "dateOpen": "2017-08-07",
-    "description": "YouTube Messages era una función de mensajería directa que permitía a los usuarios compartir y discutir videos de manera individual y en grupos en YouTube.",
+    "description": "YouTube Messages era una funzionalità di messaggistica diretta che permetteva agli utenti di condividere e discutere video singolarmente e in gruppi su YouTube.",
     "link": "https://9to5google.com/2019/08/20/youtube-killing-messages",
     "name": "YouTube Messages",
     "type": "service"
@@ -482,7 +482,7 @@
   {
     "dateClose": "2019-09-30",
     "dateOpen": "2011-01-27",
-    "description": "Follow Your World permitía a los usuarios registrar puntos de interés en Google Maps y recibir actualizaciones por correo electrónico cada vez que las imágenes se actualizaban.",
+    "description": "Follow Your World permetteva agli utenti di registrare punti di interesse su Google Maps e ricevere aggiornamenti via email ogni volta che le immagini venivano aggiornate.",
     "link": "https://maps.googleblog.com/2011/01/sign-up-for-imagery-update-alert.html",
     "name": "Follow Your World",
     "type": "service"
@@ -490,7 +490,7 @@
   {
     "dateClose": "2019-06-15",
     "dateOpen": "2018-09-07",
-    "description": "Blog Compass era una herramienta de gestión de blogs que se integraba con WordPress y Blogger, disponible solo en India.",
+    "description": "Blog Compass era uno strumento di gestione dei blog che si integrava con WordPress e Blogger disponibile solo in India.",
     "link": "https://9to5google.com/2019/07/15/google-kills-blog-compass/",
     "name": "Blog Compass",
     "type": "app"
@@ -498,7 +498,7 @@
   {
     "dateClose": "2009-08-05",
     "dateOpen": "2007-01-01",
-    "description": "Google Radio Automation era un servicio de hardware y software utilizado por operadores de radio para automatizar la reproducción de canciones, entre otras funciones de la estación de radio.",
+    "description": "Google Radio Automation era un servizio hardware e software utilizzato dagli operatori radio per automatizzare la riproduzione delle canzoni tra le altre funzioni della stazione radio.",
     "link": "https://en.wikipedia.org/wiki/List_of_Google_products#2018",
     "name": "Google Radio Automation",
     "type": "hardware"
@@ -506,7 +506,7 @@
   {
     "dateClose": "2021-03-03",
     "dateOpen": "2014-06-25",
-    "description": "Google Cardboard era una plataforma de realidad virtual (VR) de bajo costo, llamada así por su visor de cartón plegado en el que se insertaba un teléfono inteligente.",
+    "description": "Google Cardboard era una piattaforma di realtà virtuale (VR) a basso costo chiamata così dal suo visualizzatore di cartone piegato in cui veniva inserito uno smartphone.",
     "link": "https://en.wikipedia.org/wiki/Google_Cardboard",
     "name": "Google Cardboard",
     "type": "hardware"
@@ -514,7 +514,7 @@
   {
     "dateClose": "2017-09-20",
     "dateOpen": "2010-06-15",
-    "description": "El Editor de Videos de YouTube era una herramienta basada en la web para editar, fusionar y agregar efectos especiales al contenido de video.",
+    "description": "YouTube Video Editor era uno strumento basato sul web per modificare, unire e aggiungere effetti speciali ai contenuti video.",
     "link": "https://mashable.com/2017/07/23/youtube-kills-video-editor-tool/",
     "name": "YouTube Video Editor",
     "type": "service"
@@ -522,7 +522,7 @@
   {
     "dateClose": "2016-05-15",
     "dateOpen": "2012-05-02",
-    "description": "Revolv era un sistema de monitoreo y control que permitía a los usuarios controlar sus dispositivos conectados desde un único concentrador.",
+    "description": "Revolv era un sistema di monitoraggio e controllo che permetteva agli utenti di controllare i propri dispositivi connessi da un unico hub.",
     "link": "https://www.zdnet.com/article/revolv-is-dead-google-killed-it-long-live-innovation/",
     "name": "Revolv",
     "type": "hardware"
@@ -530,7 +530,7 @@
   {
     "dateClose": "2019-01-11",
     "dateOpen": "2015-09-29",
-    "description": "Chromecast Audio era un dispositivo que permitía a los usuarios transmitir audio desde cualquier dispositivo a cualquier altavoz con una entrada de audio.",
+    "description": "Chromecast Audio era un dispositivo che permetteva agli utenti di trasmettere audio da qualsiasi dispositivo a qualsiasi altoparlante con un ingresso audio.",
     "link": "https://en.wikipedia.org/wiki/Chromecast#Chromecast_Audio",
     "name": "Chromecast Audio",
     "type": "hardware"
@@ -538,7 +538,7 @@
   {
     "dateClose": "2019-03-13",
     "dateOpen": "2016-09-21",
-    "description": "Google Allo fue una aplicación de mensajería instantánea para dispositivos móviles Android, iOS y Web con características especiales como un asistente virtual y modo encriptado.",
+    "description": "Google Allo era un'applicazione di messaggistica istantanea per dispositivi mobili Android, iOS e Web con funzionalità speciali come un assistente virtuale e la modalità crittografata.",
     "link": "https://en.wikipedia.org/wiki/Google_Allo",
     "name": "Google Allo",
     "type": "app"
@@ -546,7 +546,7 @@
   {
     "dateClose": "2020-07-22",
     "dateOpen": "2019-05-01",
-    "description": "CallJoy fue un proyecto de Area 120 que proporcionaba automatización telefónica para pequeñas y medianas empresas, permitiéndoles entrenar al agente de chatbot con respuestas a preguntas comunes de los clientes.",
+    "description": "CallJoy era un progetto di Area 120 che forniva automazione telefonica per le piccole e medie imprese consentendo loro di addestrare l'agente bot con risposte alle domande comuni dei clienti.",
     "link": "https://techcrunch.com/2019/05/01/google-launches-calljoy-a-virtual-customer-service-phone-agent-for-small-businesses/",
     "name": "CallJoy",
     "type": "app"
@@ -554,7 +554,7 @@
   {
     "dateClose": "2015-12-21",
     "dateOpen": "2005-09-14",
-    "description": "La API de Búsqueda de Blogs de Google era una forma de buscar blogs utilizando Google.",
+    "description": "L'API di Google Blog Search era un modo per cercare blog utilizzando Google.",
     "link": "https://en.wikipedia.org/wiki/Google_Blog_Search",
     "name": "Google Blog Search API",
     "type": "service"
@@ -562,7 +562,7 @@
   {
     "dateClose": "2011-07-02",
     "dateOpen": "2009-12-07",
-    "description": "Google Real-Time Search proporcionaba resultados de búsqueda en tiempo real de Twitter, Facebook y sitios web de noticias.",
+    "description": "Google Real-Time Search forniva risultati di ricerca in tempo reale da Twitter, Facebook e siti di notizie.",
     "link": "https://en.wikipedia.org/wiki/Google_Real-Time_Search",
     "name": "Google Real-Time Search",
     "type": "service"
@@ -570,7 +570,7 @@
   {
     "dateClose": "2019-04-02",
     "dateOpen": "2015-05-28",
-    "description": "Inbox by Gmail tenía como objetivo mejorar el correo electrónico a través de varias características clave.",
+    "description": "Inbox by Gmail mirava a migliorare l'email attraverso diverse funzionalità chiave.",
     "link": "https://en.wikipedia.org/wiki/Inbox_by_Gmail",
     "name": "Inbox by Gmail",
     "type": "service"
@@ -578,7 +578,7 @@
   {
     "dateClose": "2012-10-05",
     "dateOpen": "2011-02-09",
-    "description": "Sparrow era un cliente de correo electrónico para OS X e iOS. Google lo adquirió y luego lo eliminó.",
+    "description": "Sparrow era un client di posta elettronica per OS X e iOS. Google lo ha acquisito e poi lo ha chiuso.",
     "link": "https://en.wikipedia.org/wiki/Sparrow_(email_client)",
     "name": "Sparrow",
     "type": "app"
@@ -586,7 +586,7 @@
   {
     "dateClose": "2006-12-01",
     "dateOpen": "2002-04-18",
-    "description": "Google Answers fue un mercado en línea de conocimientos.",
+    "description": "Google Answers era un mercato online della conoscenza.",
     "link": "https://en.wikipedia.org/wiki/Google_Answers",
     "name": "Google Answers",
     "type": "service"
@@ -594,7 +594,7 @@
   {
     "dateClose": "2006-05-08",
     "dateOpen": "2003-11-10",
-    "description": "Google Deskbar era una pequeña ventana incrustada en la barra de herramientas de Windows y permitía a los usuarios realizar búsquedas sin salir del escritorio.",
+    "description": "Google Deskbar era una piccola finestra inserita nella barra delle applicazioni di Windows e permetteva agli utenti di effettuare ricerche senza dover lasciare il desktop.",
     "link": "https://web.archive.org/web/20210225060348/https://www.computerweekly.com/news/2240053391/Google-launches-Deskbar-software",
     "name": "Google Deskbar",
     "type": "service"
@@ -602,7 +602,7 @@
   {
     "dateClose": "2006-10-10",
     "dateOpen": "2005-08-01",
-    "description": "Writely era un procesador de texto basado en la web.",
+    "description": "Writely era un elaboratore di testi basato sul Web.",
     "link": "https://en.wikipedia.org/wiki/Writely",
     "name": "Writely",
     "type": "service"
@@ -610,7 +610,7 @@
   {
     "dateClose": "2007-12-01",
     "dateOpen": "2004-01-01",
-    "description": "Google Click-to-Call permitió a un usuario hablar directamente por teléfono con empresas encontradas en los resultados de búsqueda.",
+    "description": "Google Click-to-Call ha permesso a un utente di parlare direttamente al telefono con le aziende trovate nei risultati di ricerca.",
     "link": "https://en.wikipedia.org/wiki/AdWords#Google_Click-to-Call",
     "name": "Google Click-to-Call",
     "type": "service"
@@ -618,7 +618,7 @@
   {
     "dateClose": "2013-07-01",
     "dateOpen": "2005-10-07",
-    "description": "Google Reader fue un agregador de feeds RSS/Atom.",
+    "description": "Google Reader era un aggregatore di feed RSS/Atom.",
     "link": "https://en.wikipedia.org/wiki/Google_Reader",
     "name": "Google Reader",
     "type": "service"
@@ -626,7 +626,7 @@
   {
     "dateClose": "2012-04-30",
     "dateOpen": "2009-09-01",
-    "description": "Google Wave fue una herramienta en línea de comunicación y edición colaborativa en tiempo real.",
+    "description": "Google Wave era uno strumento di comunicazione online e di editing collaborativo in tempo reale.",
     "link": "https://en.wikipedia.org/wiki/Google_Wave",
     "name": "Google Wave",
     "type": "service"
@@ -634,7 +634,7 @@
   {
     "dateClose": "2011-11-11",
     "dateOpen": "2008-08-10",
-    "description": "Google Notebook permitía a los usuarios guardar y organizar fragmentos de información mientras realizaban investigaciones en línea.",
+    "description": "Google Notebook permetteva agli utenti di salvare e organizzare ritagli di informazioni durante la ricerca online.",
     "link": "https://en.wikipedia.org/wiki/Google_Notebook",
     "name": "Google Notebook",
     "type": "service"
@@ -642,7 +642,7 @@
   {
     "dateClose": "2016-08-31",
     "dateOpen": "2012-11-28",
-    "description": "El alojamiento web en Google Drive permitía a los usuarios publicar sitios web en vivo subiendo archivos HTML, CSS y otros.",
+    "description": "L'hosting web su Google Drive permetteva agli utenti di pubblicare siti web in diretta caricando file HTML, CSS e altri file.",
     "link": "https://gsuite-developers.googleblog.com/2015/08/deprecating-web-hosting-support-in.html",
     "name": "Web Hosting in Google Drive",
     "type": "service"
@@ -650,7 +650,7 @@
   {
     "dateClose": "2018-04-30",
     "dateOpen": "2010-05-31",
-    "description": "La Búsqueda Encriptada proporcionaba a los usuarios búsquedas anónimas en internet.",
+    "description": "La Ricerca Criptata forniva agli utenti la possibilità di effettuare ricerche su internet in modo anonimo.",
     "link": "https://en.wikipedia.org/wiki/Google_Search#Dedicated_encrypted_search_page",
     "name": "Encrypted Search",
     "type": "service"
@@ -658,7 +658,7 @@
   {
     "dateClose": "2018-08-20",
     "dateOpen": "2010-10-05",
-    "description": "Google Goggles se utilizaba para búsquedas basadas en imágenes tomadas por dispositivos portátiles.",
+    "description": "Google Goggles è stato utilizzato per ricerche basate su immagini scattate da dispositivi portatili.",
     "link": "https://en.wikipedia.org/wiki/Google_Goggles",
     "name": "Google Goggles",
     "type": "service"
@@ -666,7 +666,7 @@
   {
     "dateClose": "2013-11-01",
     "dateOpen": "2005-05-19",
-    "description": "iGoogle era una página de inicio personalizable basada en Ajax o un portal web personal.",
+    "description": "iGoogle era una pagina iniziale personalizzabile basata su Ajax o un portale web personale.",
     "link": "https://en.wikipedia.org/wiki/IGoogle",
     "name": "iGoogle",
     "type": "service"
@@ -674,7 +674,7 @@
   {
     "dateClose": "2017-02-16",
     "dateOpen": "2016-05-16",
-    "description": "Google Spaces era una aplicación para discusiones en grupo y mensajería.",
+    "description": "Google Spaces era un'app per discussioni di gruppo e messaggistica.",
     "link": "https://en.wikipedia.org/wiki/Google_Spaces_(service)",
     "name": "Google Spaces",
     "type": "service"
@@ -682,7 +682,7 @@
   {
     "dateClose": "2017-03-31",
     "dateOpen": "2008-06-23",
-    "description": "Google Map Maker era un servicio de mapeo y edición de mapas donde los usuarios podían dibujar características directamente en un mapa.",
+    "description": "Google Map Maker era un servizio di mappatura e modifica delle mappe in cui gli utenti potevano disegnare direttamente le caratteristiche su una mappa.",
     "link": "https://en.wikipedia.org/wiki/Google_Map_Maker",
     "name": "Google Map Maker",
     "type": "service"
@@ -690,7 +690,7 @@
   {
     "dateClose": "2017-09-01",
     "dateOpen": "2007-03-01",
-    "description": "Trendalyzer era una plataforma de visualización de tendencias de datos.",
+    "description": "Trendalyzer era una piattaforma per la visualizzazione delle tendenze dei dati.",
     "link": "https://en.wikipedia.org/wiki/Trendalyzer",
     "name": "Trendalyzer",
     "type": "service"
@@ -698,7 +698,7 @@
   {
     "dateClose": "2015-10-09",
     "dateOpen": "2002-10-15",
-    "description": "Picasa era un organizador de imágenes y visor de imágenes para organizar y editar fotos digitales.",
+    "description": "Picasa era un organizzatore di immagini e un visualizzatore di immagini per organizzare e modificare foto digitali.",
     "link": "https://en.wikipedia.org/wiki/Picasa",
     "name": "Picasa",
     "type": "service"
@@ -706,7 +706,7 @@
   {
     "dateClose": "2016-01-15",
     "dateOpen": "2005-03-17",
-    "description": "Google Code fue un servicio que proporcionaba control de revisiones, un rastreador de problemas y una wiki para la documentación de código.",
+    "description": "Google Code era un servizio che forniva controllo delle revisioni, un tracker di problemi e una wiki per la documentazione del codice.",
     "link": "https://en.wikipedia.org/wiki/Google_Developers#Google_Code",
     "name": "Google Code",
     "type": "service"
@@ -714,7 +714,7 @@
   {
     "dateClose": "2016-07-01",
     "dateOpen": "2011-07-01",
-    "description": "Google Swiffy era una herramienta basada en la web que convertía archivos SWF a HTML5.",
+    "description": "Google Swiffy era un tool basato sul web che convertiva file SWF in HTML5.",
     "link": "https://en.wikipedia.org/wiki/Google_Swiffy",
     "name": "Google Swiffy",
     "type": "service"
@@ -722,7 +722,7 @@
   {
     "dateClose": "2016-11-04",
     "dateOpen": "2005-10-23",
-    "description": "Panoramio era un producto de etiquetado de ubicación geográfica y compartición de fotos.",
+    "description": "Panoramio era un prodotto per il geolocalizzazione, il tagging e la condivisione di foto.",
     "link": "https://en.wikipedia.org/wiki/Panoramio",
     "name": "Panoramio",
     "type": "service"
@@ -730,7 +730,7 @@
   {
     "dateClose": "2015-04-20",
     "dateOpen": "2013-11-15",
-    "description": "Google Helpouts era un servicio de colaboración en línea donde los usuarios podían compartir su experiencia a través de video en vivo.",
+    "description": "Google Helpouts era un servizio di collaborazione online in cui gli utenti potevano condividere la propria esperienza tramite video in diretta.",
     "link": "https://en.wikipedia.org/wiki/Google_Helpouts",
     "name": "Google Helpouts",
     "type": "service"
@@ -738,7 +738,7 @@
   {
     "dateClose": "2015-06-30",
     "dateOpen": "2008-09-01",
-    "description": "Google Moderator era un servicio que utilizaba la colaboración en masa para clasificar preguntas, sugerencias e ideas enviadas por los usuarios.",
+    "description": "Google Moderator era un servizio che utilizzava il crowdsourcing per classificare domande, suggerimenti e idee inviate dagli utenti.",
     "link": "https://en.wikipedia.org/wiki/Google_Moderator",
     "name": "Google Moderator",
     "type": "service"
@@ -746,7 +746,7 @@
   {
     "dateClose": "2014-06-23",
     "dateOpen": "2007-06-28",
-    "description": "Google Preguntas y Respuestas era un mercado de conocimiento gratuito que permitía a los usuarios encontrar respuestas de forma colaborativa a sus preguntas.",
+    "description": "Google Domande e Risposte era un mercato del sapere gratuito che permetteva agli utenti di trovare collaborativamente risposte alle proprie domande.",
     "link": "https://en.wikipedia.org/wiki/Google_Questions_and_Answers",
     "name": "Google Questions and Answers",
     "type": "service"
@@ -754,7 +754,7 @@
   {
     "dateClose": "2014-09-30",
     "dateOpen": "2004-01-24",
-    "description": "Orkut era una red social diseñada para ayudar a los usuarios a conocer nuevos y viejos amigos y mantener relaciones existentes.",
+    "description": "Orkut era una rete sociale progettata per aiutare gli utenti a incontrare nuovi e vecchi amici e mantenere le relazioni esistenti.",
     "link": "https://en.wikipedia.org/wiki/Orkut",
     "name": "Orkut",
     "type": "service"
@@ -762,7 +762,7 @@
   {
     "dateClose": "2014-06-25",
     "dateOpen": "2013-09-19",
-    "description": "Quickoffice era un conjunto de productividad para dispositivos móviles que permitía ver, crear y editar documentos, presentaciones y hojas de cálculo.",
+    "description": "Quickoffice era una suite di produttività per dispositivi mobili che permetteva la visualizzazione, la creazione e la modifica di documenti, presentazioni e fogli di calcolo.",
     "link": "https://en.wikipedia.org/wiki/Quickoffice",
     "name": "Quickoffice",
     "type": "app"
@@ -770,7 +770,7 @@
   {
     "dateClose": "2014-01-31",
     "dateOpen": "2005-01-01",
-    "description": "Google Notifier alertó a los usuarios sobre nuevos correos electrónicos en su cuenta de Gmail.",
+    "description": "Google Notifier avvisava gli utenti dei nuovi messaggi di posta elettronica nel loro account Gmail.",
     "link": "https://www.theverge.com/2014/1/16/5316748/google-quietly-kills-off-its-notifier-service-for-mail-and-calendar",
     "name": "Google Notifier",
     "type": "service"
@@ -778,7 +778,7 @@
   {
     "dateClose": "2012-07-11",
     "dateOpen": "2005-09-14",
-    "description": "Meebo era una aplicación de mensajería instantánea basada en el navegador que admitía varios servicios de mensajería instantánea.",
+    "description": "Meebo era un'applicazione di messaggistica istantanea basata sul browser che supportava diversi servizi di messaggistica istantanea.",
     "link": "https://en.wikipedia.org/wiki/Meebo",
     "name": "Meebo",
     "type": "service"
@@ -786,7 +786,7 @@
   {
     "dateClose": "2012-12-31",
     "dateOpen": "2007-12-06",
-    "description": "Google Chart API era un servicio web interactivo que creaba gráficos a partir de datos proporcionados por el usuario.",
+    "description": "Google Chart API era un servizio Web interattivo che creava grafici grafici dai dati forniti dall'utente.",
     "link": "https://en.wikipedia.org/wiki/Google_Chart_API",
     "name": "Google Chart API",
     "type": "service"
@@ -794,7 +794,7 @@
   {
     "dateClose": "2012-12-31",
     "dateOpen": "2007-12-06",
-    "description": "Google Mini era una versión más pequeña del Google Search Appliance.",
+    "description": "Google Mini era una versione più piccola del Google Search Appliance.",
     "link": "https://en.wikipedia.org/wiki/Google_Search_Appliance#Google_Mini",
     "name": "Google Mini",
     "type": "hardware"
@@ -802,7 +802,7 @@
   {
     "dateClose": "2018-12-31",
     "dateOpen": "2002-01-01",
-    "description": "Google Search Appliance era un dispositivo montado en rack que proporcionaba funcionalidad de indexación de documentos.",
+    "description": "Google Search Appliance era un dispositivo montato su rack che forniva la funzionalità di indicizzazione dei documenti.",
     "link": "https://en.wikipedia.org/wiki/Google_Search_Appliance",
     "name": "Google Search Appliance",
     "type": "hardware"
@@ -810,7 +810,7 @@
   {
     "dateClose": "2019-03-30",
     "dateOpen": "2009-12-01",
-    "description": "El acortador de URL de Google, también conocido como goo.gl, era un servicio de acortamiento de URL.",
+    "description": "Il servizio di abbreviazione degli URL di Google, noto anche come goo.gl, era un servizio di abbreviazione degli URL.",
     "link": "https://en.wikipedia.org/wiki/Google_URL_Shortener",
     "name": "Google URL Shortener",
     "type": "service"
@@ -818,7 +818,7 @@
   {
     "dateClose": "2011-12-15",
     "dateOpen": "2010-02-09",
-    "description": "Google Buzz era una herramienta de redes sociales, microblogging y mensajería que se integraba con Gmail.",
+    "description": "Google Buzz era uno strumento di social networking, microblogging e messaggistica che si integrava con Gmail.",
     "link": "https://en.wikipedia.org/wiki/Google_Buzz",
     "name": "Google Buzz",
     "type": "service"
@@ -826,7 +826,7 @@
   {
     "dateClose": "2011-09-01",
     "dateOpen": "2008-01-01",
-    "description": "Google Desktop permitía búsquedas locales de correos electrónicos, archivos de computadora, música, fotos, chats y páginas web visitadas por el usuario.",
+    "description": "Google Desktop permetteva ricerche locali delle email dell'utente, file del computer, musica, foto, chat e pagine web visualizzate.",
     "link": "https://en.wikipedia.org/wiki/Google_Desktop",
     "name": "Google Desktop",
     "type": "service"
@@ -834,7 +834,7 @@
   {
     "dateClose": "2022-06-30",
     "dateOpen": "2010-12-06",
-    "description": "Las aplicaciones de Google Chrome eran aplicaciones web alojadas o empaquetadas que se ejecutaban en el navegador Google Chrome.",
+    "description": "Le app di Google Chrome erano applicazioni web ospitate o confezionate che funzionavano sul browser Google Chrome.",
     "link": "https://en.wikipedia.org/wiki/Google_Chrome_App",
     "name": "Google Chrome Apps",
     "type": "service"
@@ -842,7 +842,7 @@
   {
     "dateClose": "2006-09-15",
     "dateOpen": "2002-01-01",
-    "description": "Google Public Service Search proporcionaba resultados de búsqueda de organizaciones gubernamentales, sin fines de lucro y académicas sin anuncios.",
+    "description": "Google Public Service Search forniva risultati di ricerca di organizzazioni governative, non-profit e accademiche senza pubblicità.",
     "link": "https://webmasters.googleblog.com/2006/09/for-those-wondering-about-public.html",
     "name": "Google Public Service Search",
     "type": "service"
@@ -850,7 +850,7 @@
   {
     "dateClose": "2007-08-11",
     "dateOpen": "2006-01-07",
-    "description": "Google Video Marketplace era un servicio que incluía una tienda donde se podían comprar y alquilar videos.",
+    "description": "Google Video Marketplace era un servizio che includeva un negozio dove i video potevano essere acquistati e noleggiati.",
     "link": "https://www.hexus.net/tech/news/software/4324-google-video-marketplace/",
     "name": "Google Video Marketplace",
     "type": "service"
@@ -858,7 +858,7 @@
   {
     "dateClose": "2008-06-30",
     "dateOpen": "2006-06-08",
-    "description": "Google Browser Sync era una extensión de Firefox que sincronizaba información como contraseñas e historial de navegación.",
+    "description": "Google Browser Sync era un'estensione di Firefox che sincronizzava informazioni come password e cronologia di navigazione.",
     "link": "https://en.wikipedia.org/wiki/Google_Browser_Sync",
     "name": "Google Browser Sync",
     "type": "service"
@@ -866,7 +866,7 @@
   {
     "dateClose": "2008-12-31",
     "dateOpen": "2008-07-08",
-    "description": "Google Lively era un entorno virtual basado en la web que proporcionaba una nueva forma de acceder a la información.",
+    "description": "Google Lively era un ambiente virtuale basato sul web che forniva un nuovo modo per accedere alle informazioni.",
     "link": "https://en.wikipedia.org/wiki/Google_Lively",
     "name": "Google Lively",
     "type": "service"
@@ -874,7 +874,7 @@
   {
     "dateClose": "2008-05-15",
     "dateOpen": "2002-08-01",
-    "description": "Hola era un servicio de Picasa que permitía a los usuarios compartir fotos \"como si estuvieran sentados uno al lado del otro\".",
+    "description": "Ciao era un servizio di Picasa che permetteva agli utenti di condividere foto \"come se stessi seduto accanto\".",
     "link": "https://en.wikipedia.org/wiki/Picasa#Hello",
     "name": "Hello",
     "type": "service"
@@ -882,7 +882,7 @@
   {
     "dateClose": "2008-11-24",
     "dateOpen": "2006-10-01",
-    "description": "SearchMash era un motor de búsqueda experimental y sin marca que Google utilizaba para probar nuevas tecnologías de búsqueda, conceptos e interfaces.",
+    "description": "SearchMash era un motore di ricerca sperimentale e senza marchio che Google utilizzava per sperimentare nuove tecnologie di ricerca, concetti e interfacce.",
     "link": "https://techcrunch.com/2008/11/24/why-did-google-discontinue-searchmash/",
     "name": "SearchMash",
     "type": "service"
@@ -890,7 +890,7 @@
   {
     "dateClose": "2009-02-28",
     "dateOpen": "2003-06-30",
-    "description": "Dodgeball era una red social basada en la ubicación donde los usuarios enviaban su ubicación al servicio, y este les notificaba sobre amigos y puntos de interés cercanos.",
+    "description": "Dodgeball era una rete sociale basata sulla posizione in cui gli utenti inviavano via messaggio la propria posizione al servizio, che li avvisava degli amici e dei punti di interesse nelle vicinanze.",
     "link": "https://en.wikipedia.org/wiki/Dodgeball_(service)",
     "name": "Dodgeball",
     "type": "service"
@@ -898,7 +898,7 @@
   {
     "dateClose": "2009-07-31",
     "dateOpen": "2007-05-30",
-    "description": "Google Mashup Editor era un servicio en línea de creación de mashups web con funciones de publicación, resaltado de sintaxis y depuración.",
+    "description": "Google Mashup Editor era un servizio online di creazione di mashup web con pubblicazione, evidenziazione della sintassi e debug.",
     "link": "https://en.wikipedia.org/wiki/Google_Mashup_Editor",
     "name": "Google Mashup Editor",
     "type": "service"
@@ -906,7 +906,7 @@
   {
     "dateClose": "2009-10-31",
     "dateOpen": "2005-05-01",
-    "description": "Google Ride Finder era un servicio que utilizaba datos de GPS para ubicar y mapear la ubicación de taxis, limusinas y vehículos de transporte disponibles para alquilar en 10 áreas metropolitanas de los Estados Unidos.",
+    "description": "Google Ride Finder era un servizio che utilizzava i dati GPS per individuare e mappare la posizione di taxi, limousine e veicoli navetta disponibili per il noleggio in 10 aree metropolitane degli Stati Uniti.",
     "link": "https://searchenginewatch.com/sew/news/2062429/new-from-google-labs-google-ride-finder#",
     "name": "Google Ride Finder",
     "type": "service"
@@ -914,7 +914,7 @@
   {
     "dateClose": "2012-01-01",
     "dateOpen": "2008-05-20",
-    "description": "Google Health era un servicio de centralización de información de salud personal que proporcionaba a los usuarios un registro de salud combinado de múltiples fuentes.",
+    "description": "Google Health era un servizio di centralizzazione delle informazioni sulla salute personale che forniva agli utenti un record sanitario unificato da diverse fonti.",
     "link": "https://en.wikipedia.org/wiki/Google_Health",
     "name": "Google Health",
     "type": "service"
@@ -922,7 +922,7 @@
   {
     "dateClose": "2012-08-21",
     "dateOpen": "1999-07-01",
-    "description": "Postini era un servicio de correo electrónico, seguridad web y archivado que filtraba spam y malware de correo electrónico (antes de ser entregado al servidor de correo de un cliente), archivado de correo electrónico.",
+    "description": "Postini era un servizio di posta elettronica, sicurezza web e archiviazione che filtrava lo spam e il malware via e-mail (prima che fosse consegnato al server di posta del cliente), archiviazione delle e-mail.",
     "link": "https://en.wikipedia.org/wiki/Postini",
     "name": "Postini",
     "type": "service"
@@ -930,7 +930,7 @@
   {
     "dateClose": "2010-02-19",
     "dateOpen": "1998-11-30",
-    "description": "Marratech era una empresa sueca que desarrollaba software para reuniones virtuales (por ejemplo, videoconferencias, conferencias web).",
+    "description": "Marratech era un'azienda svedese che produceva software per riunioni online (ad esempio, videoconferenze, conferenze web).",
     "link": "https://en.wikipedia.org/wiki/Marratech",
     "name": "Marratech e-meetings",
     "type": "service"
@@ -938,7 +938,7 @@
   {
     "dateClose": "2010-03-03",
     "dateOpen": "2008-11-20",
-    "description": "SearchWiki fue una característica de Búsqueda de Google que permitía a los usuarios conectados hacer anotaciones y reorganizar los resultados de búsqueda.",
+    "description": "SearchWiki era una funzionalità di ricerca di Google che consentiva agli utenti connessi di annotare e riordinare i risultati della ricerca.",
     "link": "https://en.wikipedia.org/wiki/Google_SearchWiki",
     "name": "Google SearchWiki",
     "type": "service"
@@ -946,7 +946,7 @@
   {
     "dateClose": "2010-11-12",
     "dateOpen": "2007-04-06",
-    "description": "GOOG-411 (o Búsqueda Local de Google Voice) era un servicio telefónico que proporcionaba una búsqueda de directorio de negocios basada en reconocimiento de voz.",
+    "description": "GOOG-411 (o Google Voice Local Search) era un servizio telefonico che forniva una ricerca di elenchi commerciali basata sul riconoscimento vocale.",
     "link": "https://en.wikipedia.org/wiki/GOOG-411",
     "name": "GOOG-411",
     "type": "service"
@@ -954,7 +954,7 @@
   {
     "dateClose": "2021-07-15",
     "dateOpen": "2013-06-30",
-    "description": "Tour Builder permitía a los usuarios crear y compartir recorridos interactivos dentro de Google Earth con fotos y videos de lugares.",
+    "description": "Tour Builder permetteva agli utenti di creare e condividere tour interattivi all'interno di Google Earth con foto e video di luoghi.",
     "link": "https://knowledgequest.aasl.org/so-long-google-tour-builder-hello-google-earth/",
     "name": "Tour Builder",
     "type": "service"
@@ -962,7 +962,7 @@
   {
     "dateClose": "2010-12-17",
     "dateOpen": "2005-10-25",
-    "description": "Google Base era una base de datos proporcionada por Google en la que cualquier usuario podía agregar casi cualquier tipo de contenido, como texto, imágenes e información estructurada.",
+    "description": "Google Base era un database fornito da Google in cui qualsiasi utente poteva aggiungere quasi qualsiasi tipo di contenuto, come testo, immagini e informazioni strutturate.",
     "link": "https://en.wikipedia.org/wiki/Google_Base",
     "name": "Google Base",
     "type": "service"
@@ -970,7 +970,7 @@
   {
     "dateClose": "2011-07-31",
     "dateOpen": "2002-05-20",
-    "description": "Google Labs era un patio de recreo tecnológico utilizado por Google para demostrar y probar nuevos proyectos.",
+    "description": "Google Labs era un parco giochi tecnologico utilizzato da Google per dimostrare e testare nuovi progetti.",
     "link": "https://en.wikipedia.org/wiki/Google_Labs",
     "name": "Google Labs",
     "type": "service"
@@ -978,7 +978,7 @@
   {
     "dateClose": "2011-09-16",
     "dateOpen": "2009-10-05",
-    "description": "Google PowerMeter fue un proyecto de software del brazo filantrópico de Google que ayudaba a los consumidores a rastrear el uso de electricidad en sus hogares.",
+    "description": "Google PowerMeter era un progetto software del braccio filantropico di Google che aiutava i consumatori a monitorare il consumo di elettricità domestica.",
     "link": "https://en.wikipedia.org/wiki/Google_PowerMeter",
     "name": "Google PowerMeter",
     "type": "service"
@@ -986,7 +986,7 @@
   {
     "dateClose": "2019-04-02",
     "dateOpen": "2011-06-28",
-    "description": "Google+ era una red social basada en Internet.",
+    "description": "Google+ era una rete sociale basata su Internet.",
     "link": "https://en.wikipedia.org/wiki/Google%2B",
     "name": "Google+",
     "type": "service"
@@ -994,7 +994,7 @@
   {
     "dateClose": "2014-02-07",
     "dateOpen": "2011-07-01",
-    "description": "Google Schemer fue un servicio de Google para compartir y descubrir cosas para hacer.",
+    "description": "Google Schemer era un servizio di Google per condividere e scoprire cose da fare.",
     "link": "https://en.wikipedia.org/wiki/Google_Schemer",
     "name": "Google Schemer",
     "type": "service"
@@ -1002,7 +1002,7 @@
   {
     "dateClose": "2013-08-09",
     "dateOpen": "2009-02-05",
-    "description": "Google Latitude era una función con conciencia de ubicación de Google Maps, sucesora de un servicio anterior basado en SMS llamado Dodgeball.",
+    "description": "Google Latitude era una funzionalità basata sulla posizione di Google Maps, successore di un precedente servizio basato su SMS chiamato Dodgeball.",
     "link": "https://en.wikipedia.org/wiki/Google_Latitude",
     "name": "Google Latitude",
     "type": "service"
@@ -1010,7 +1010,7 @@
   {
     "dateClose": "2013-04-13",
     "dateOpen": "2007-01-01",
-    "description": "Picnik era un servicio en línea de edición de fotos que permitía a los usuarios editar, dar estilo, recortar y redimensionar imágenes.",
+    "description": "Picnik era un servizio di modifica foto online che permetteva agli utenti di modificare, stilizzare, ritagliare e ridimensionare le immagini.",
     "link": "https://en.wikipedia.org/wiki/Picnik",
     "name": "Picnik",
     "type": "service"
@@ -1018,7 +1018,7 @@
   {
     "dateClose": "2016-11-01",
     "dateOpen": "2005-09-23",
-    "description": "Google Showtimes era una página independiente de resultados de búsqueda de películas.",
+    "description": "Google Showtimes era una pagina di risultati di ricerca di film indipendente.",
     "link": "https://techcrunch.com/2016/11/07/google-quietly-shutters-standalone-google-showtimes-movie-site/",
     "name": "Google Showtimes",
     "type": "service"
@@ -1026,7 +1026,7 @@
   {
     "dateClose": "2014-01-31",
     "dateOpen": "2009-03-27",
-    "description": "Bump! fue una aplicación móvil para iOS y Android que permitía a los usuarios de teléfonos inteligentes transferir información de contacto, fotos y archivos entre dispositivos.",
+    "description": "Bump! era un'app mobile per iOS e Android che permetteva agli utenti di smartphone di trasferire informazioni di contatto, foto e file tra dispositivi.",
     "link": "https://en.wikipedia.org/wiki/Bump_(application)",
     "name": "Bump!",
     "type": "app"
@@ -1034,7 +1034,7 @@
   {
     "dateClose": "2016-10-04",
     "dateOpen": "2010-01-05",
-    "description": "Google Nexus fue la línea de teléfonos, tabletas y accesorios insignia de Google en Android.",
+    "description": "Google Nexus era la linea di telefoni Android, tablet e accessori di punta di Google.",
     "link": "https://en.wikipedia.org/wiki/Google_Nexus",
     "name": "Google Nexus",
     "type": "hardware"
@@ -1042,7 +1042,7 @@
   {
     "dateClose": "2012-01-15",
     "dateOpen": "2006-02-01",
-    "description": "Jaiku era un servicio de redes sociales, microblogging y transmisión de vida comparable a Twitter.",
+    "description": "Jaiku era un servizio di social networking, micro-blogging e lifestreaming comparabile a Twitter.",
     "link": "https://en.wikipedia.org/wiki/Jaiku",
     "name": "Jaiku",
     "type": "service"
@@ -1050,7 +1050,7 @@
   {
     "dateClose": "2012-05-01",
     "dateOpen": "2008-07-23",
-    "description": "Knol fue un proyecto de Google que tenía como objetivo incluir artículos escritos por usuarios sobre una variedad de temas.",
+    "description": "Knol era un progetto di Google che mirava a includere articoli scritti dagli utenti su una vasta gamma di argomenti.",
     "link": "https://en.wikipedia.org/wiki/Knol",
     "name": "Knol",
     "type": "service"
@@ -1058,7 +1058,7 @@
   {
     "dateClose": "2015-01-18",
     "dateOpen": "2013-05-15",
-    "description": "Los dispositivos Google Play Edition eran una serie de teléfonos inteligentes y tabletas Android vendidos por Google.",
+    "description": "I dispositivi Google Play Edition erano una serie di smartphone e tablet Android venduti da Google.",
     "link": "https://arstechnica.com/gadgets/2015/01/dont-cry-for-the-google-play-edition-program-it-was-already-dead/",
     "name": "Google Play Edition",
     "type": "hardware"
@@ -1066,7 +1066,7 @@
   {
     "dateClose": "2016-03-01",
     "dateOpen": "2015-01-01",
-    "description": "Google Compare permitió a los consumidores comparar varias ofertas que van desde seguros, hipotecas y tarjetas de crédito.",
+    "description": "Google Compare permetteva ai consumatori di confrontare diverse offerte che spaziavano dall'assicurazione, al mutuo e alle carte di credito.",
     "link": "https://www.gadgetsnow.com/year-in-review-2016/Google-Compare/yearendershow2016/55617272.cms",
     "name": "Google Compare",
     "type": "service"
@@ -1074,7 +1074,7 @@
   {
     "dateClose": "2011-04-03",
     "dateOpen": "2009-11-12",
-    "description": "Gizmo5 era una red de comunicaciones VOIP y un teléfono suave freeware propietario para esa red.",
+    "description": "Gizmo5 era una rete di comunicazioni VOIP e un softphone freeware proprietario per quella rete.",
     "link": "https://en.wikipedia.org/wiki/Gizmo5",
     "name": "Gizmo5",
     "type": "service"
@@ -1082,7 +1082,7 @@
   {
     "dateClose": "2012-01-15",
     "dateOpen": "2006-10-05",
-    "description": "Google Code Search era un producto beta gratuito que permitía a los usuarios buscar código de código abierto en Internet.",
+    "description": "Google Code Search era un prodotto beta gratuito che consentiva agli utenti di cercare codice open source su Internet.",
     "link": "https://en.wikipedia.org/wiki/Google_Code_Search",
     "name": "Google Code Search",
     "type": "service"
@@ -1090,7 +1090,7 @@
   {
     "dateClose": "2014-02-17",
     "dateOpen": "2013-07-13",
-    "description": "SlickLogin fue una empresa emergente israelí que desarrolló alternativas de contraseñas basadas en sonido, fue adquirida por Google y no ha lanzado nada desde entonces.",
+    "description": "SlickLogin era una società start-up israeliana che ha sviluppato alternative di password basate su suoni, è stata acquisita da Google e non ha rilasciato nulla da allora.",
     "link": "https://en.wikipedia.org/wiki/SlickLogin",
     "name": "SlickLogin",
     "type": "service"
@@ -1098,7 +1098,7 @@
   {
     "dateClose": "2008-08-31",
     "dateOpen": "2006-07-13",
-    "description": "Google Page Creator fue un servicio de creación y alojamiento de sitios web que permitía a los usuarios construir sitios web básicos sin conocimientos de HTML.",
+    "description": "Google Page Creator era un servizio di creazione e hosting di siti web che permetteva agli utenti di costruire siti web di base senza conoscenze di HTML.",
     "link": "https://en.wikipedia.org/wiki/Google_Page_Creator",
     "name": "Google Page Creator",
     "type": "service"
@@ -1106,7 +1106,7 @@
   {
     "dateClose": "2017-12-15",
     "dateOpen": "2014-12-01",
-    "description": "Project Tango fue una API para aplicaciones de realidad aumentada que fue descontinuada y reemplazada por ARCore.",
+    "description": "Project Tango era un'API per le app di realtà aumentata che è stata soppressa e sostituita da ARCore.",
     "link": "https://en.wikipedia.org/wiki/Tango_(platform)",
     "name": "Project Tango",
     "type": "service"
@@ -1114,7 +1114,7 @@
   {
     "dateClose": "2020-05-04",
     "dateOpen": "2014-10-01",
-    "description": "Fabric era una plataforma que ayudaba a los equipos móviles a construir mejores aplicaciones, comprender a sus usuarios y hacer crecer su negocio.",
+    "description": "Fabric era una piattaforma che aiutava i team mobili a costruire app migliori, capire i propri utenti e far crescere il proprio business.",
     "link": "https://get.fabric.io/roadmap",
     "name": "Fabric",
     "type": "service"
@@ -1122,7 +1122,7 @@
   {
     "dateClose": "2013-07-01",
     "dateOpen": "2012-06-27",
-    "description": "Nexus Q era un reproductor de medios digital que permitía a los usuarios con dispositivos Android transmitir contenido desde servicios compatibles a un televisor o altavoces conectados a través de un amplificador integrado.",
+    "description": "Nexus Q era un lettore multimediale digitale che consentiva agli utenti con dispositivi Android di trasmettere contenuti da servizi supportati su una televisione o altoparlanti collegati tramite un amplificatore integrato.",
     "link": "https://en.wikipedia.org/wiki/Nexus_Q",
     "name": "Nexus Q",
     "type": "hardware"
@@ -1130,7 +1130,7 @@
   {
     "dateClose": "2015-08-04",
     "dateOpen": "2011-08-16",
-    "description": "Google Catalogs era una aplicación de compras que entregaba los catálogos virtuales de grandes minoristas a los usuarios.",
+    "description": "Google Catalogs era un'applicazione di shopping che forniva i cataloghi virtuali dei grandi rivenditori agli utenti.",
     "link": "https://en.wikipedia.org/wiki/Google_Catalogs",
     "name": "Google Catalogs",
     "type": "service"
@@ -1138,7 +1138,7 @@
   {
     "dateClose": "2011-04-08",
     "dateOpen": "2010-11-15",
-    "description": "Google Hotpot era un motor de recomendaciones local que permitía a las personas calificar restaurantes, hoteles, etc. y compartirlos con amigos.",
+    "description": "Google Hotpot era un motore di raccomandazioni locali che permetteva alle persone di valutare ristoranti, hotel, ecc. e condividerli con gli amici.",
     "link": "https://mashable.com/2011/04/08/google-hotpot-goes-cold/",
     "name": "Google Hotpot",
     "type": "service"
@@ -1146,7 +1146,7 @@
   {
     "dateClose": "2011-09-02",
     "dateOpen": "2009-09-23",
-    "description": "Google Sidewiki era una herramienta de barra lateral del navegador que permitía a los usuarios contribuir información a cualquier página web.",
+    "description": "Google Sidewiki era uno strumento a barra laterale del browser che permetteva agli utenti di contribuire informazioni a qualsiasi pagina web.",
     "link": "https://en.wikipedia.org/wiki/Google_Sidewiki",
     "name": "Google Sidewiki",
     "type": "service"
@@ -1154,7 +1154,7 @@
   {
     "dateClose": "2012-12-03",
     "dateOpen": "2008-08-05",
-    "description": "AdSense for Feeds fue un servicio basado en RSS para AdSense que permitía a los editores publicitar en sus feeds RSS.",
+    "description": "AdSense for Feeds era un servizio basato su RSS per AdSense che permetteva ai publisher di inserire pubblicità nei loro Feed RSS.",
     "link": "https://adsenseforfeeds.blogspot.com/",
     "name": "AdSense for Feeds",
     "type": "service"
@@ -1162,7 +1162,7 @@
   {
     "dateClose": "2011-09-02",
     "dateOpen": "2009-03-14",
-    "description": "Aardvark era un servicio de búsqueda social que conectaba a los usuarios en vivo con amigos o amigos de amigos que podían responder sus preguntas.",
+    "description": "Aardvark era un servizio di ricerca sociale che metteva in contatto gli utenti in tempo reale con amici o amici di amici in grado di rispondere alle loro domande.",
     "link": "https://en.wikipedia.org/wiki/Aardvark_(search_engine)",
     "name": "Aardvark",
     "type": "service"
@@ -1170,7 +1170,7 @@
   {
     "dateClose": "2009-03-30",
     "dateOpen": "2007-09-30",
-    "description": "Google Shared Stuff era un sistema de intercambio de páginas web que permitía a los usuarios marcar páginas y compartirlas.",
+    "description": "Google Shared Stuff era un sistema di condivisione di pagine web che permetteva agli utenti di segnalibriare le pagine e condividerle.",
     "link": "https://web.archive.org/web/20080904000312/https://www.google.com/s2/sharing/stuff",
     "name": "Google Shared Stuff",
     "type": "service"
@@ -1178,7 +1178,7 @@
   {
     "dateClose": "2007-12-31",
     "dateOpen": "2001-01-01",
-    "description": "Google Zeitgeist era una instantánea semanal, mensual y anual en el tiempo de lo que la gente estaba buscando en Google en todo el mundo.",
+    "description": "Google Zeitgeist era uno snapshot settimanale, mensile e annuale di ciò che le persone cercavano su Google in tutto il mondo.",
     "link": "https://web.archive.org/web/20210312230138/https://www.lifewire.com/google-zeitgeist-3481903",
     "name": "Zeitgeist",
     "type": "service"
@@ -1186,7 +1186,7 @@
   {
     "dateClose": "2016-09-02",
     "dateOpen": "2013-10-29",
-    "description": "Project Ara fue un proyecto de teléfono inteligente modular en desarrollo por Google.",
+    "description": "Project Ara era un progetto di smartphone modulare in fase di sviluppo da parte di Google.",
     "link": "https://en.wikipedia.org/wiki/Project_Ara",
     "name": "Project Ara",
     "type": "hardware"
@@ -1194,7 +1194,7 @@
   {
     "dateClose": "2013-05-15",
     "dateOpen": "2005-08-22",
-    "description": "A menudo recordado como 'Gchat', Google Talk era un servicio de mensajería para texto y voz que utilizaba XMPP.",
+    "description": "Spesso ricordato come 'Gchat', Google Talk era un servizio di messaggistica per testo e voce che utilizzava XMPP.",
     "link": "https://en.wikipedia.org/wiki/Google_Talk",
     "name": "Google Talk",
     "type": "service"
@@ -1202,7 +1202,7 @@
   {
     "dateClose": "2015-03-15",
     "dateOpen": "2013-04-30",
-    "description": "BebaPay era una forma de plataforma de emisión de boletos electrónicos en Nairobi, Kenia que fue desarrollada por Google en colaboración con Equity Bank.",
+    "description": "BebaPay era una forma di piattaforma di bigliettazione elettronica a Nairobi, in Kenya, sviluppata da Google in collaborazione con Equity Bank.",
     "link": "https://en.wikipedia.org/wiki/BebaPay",
     "name": "BebaPay",
     "type": "service"
@@ -1210,7 +1210,7 @@
   {
     "dateClose": "2011-09-01",
     "dateOpen": "2009-09-14",
-    "description": "Google Fast Flip era un agregador de noticias en línea, algo así como un microfilm de alta tecnología.",
+    "description": "Google Fast Flip era un aggregatore di notizie online, qualcosa di simile a un microfiche ad alta tecnologia.",
     "link": "https://en.wikipedia.org/wiki/Google_Fast_Flip",
     "name": "Google Fast Flip",
     "type": "service"
@@ -1218,7 +1218,7 @@
   {
     "dateClose": "2008-01-20",
     "dateOpen": "2005-05-04",
-    "description": "Google Web Accelerator era un software del lado del cliente que aumentaba la velocidad de carga de las páginas web.",
+    "description": "Google Web Accelerator era un software lato client che aumentava la velocità di caricamento delle pagine web.",
     "link": "https://en.wikipedia.org/wiki/Google_Web_Accelerator",
     "name": "Google Web Accelerator",
     "type": "service"
@@ -1226,7 +1226,7 @@
   {
     "dateClose": "2018-10-11",
     "dateOpen": "2018-02-01",
-    "description": "Reply era una aplicación móvil que permitía a los usuarios insertar Respuestas Inteligentes (respuestas predefinidas) en conversaciones en aplicaciones de mensajería.",
+    "description": "Reply era un'app mobile che permetteva agli utenti di inserire Risposte Intelligenti (risposte predefinite) nelle conversazioni su app di messaggistica.",
     "link": "https://en.wikipedia.org/wiki/Reply_(Google)",
     "name": "Reply",
     "type": "app"
@@ -1234,7 +1234,7 @@
   {
     "dateClose": "2011-09-05",
     "dateOpen": "2009-06-03",
-    "description": "Google Squared era un producto de extracción de información y relaciones que compilaba datos estructurados en un formato similar a una hoja de cálculo.",
+    "description": "Google Squared era un prodotto di estrazione delle informazioni ed estrazione delle relazioni che compilava dati strutturati in un formato simile a un foglio di calcolo.",
     "link": "https://en.wikipedia.org/wiki/Google_Squared",
     "name": "Google Squared",
     "type": "service"
@@ -1242,7 +1242,7 @@
   {
     "dateClose": "2015-01-15",
     "dateOpen": "2013-04-15",
-    "description": "Google Glass Explorer Edition era un ordenador portátil con una pantalla óptica montada en la cabeza y una cámara que permitía al usuario interactuar con varias aplicaciones e Internet a través de comandos de voz en lenguaje natural.",
+    "description": "Google Glass Explorer Edition era un computer indossabile con un display ottico montato sulla testa e una fotocamera che permetteva all'utente di interagire con varie applicazioni e Internet tramite comandi vocali in linguaggio naturale.",
     "link": "https://en.wikipedia.org/wiki/Google_Glass",
     "name": "Google Glass Explorer Edition",
     "type": "hardware"
@@ -1250,7 +1250,7 @@
   {
     "dateClose": "2014-02-21",
     "dateOpen": "2012-11-30",
-    "description": "BufferBox fue una startup canadiense que ofrecía a los consumidores la conveniencia de recoger sus compras en línea las 24 horas del día, los 7 días de la semana.",
+    "description": "BufferBox era una startup canadese che offriva ai consumatori la comodità 24 ore su 24, 7 giorni su 7 di ritirare i loro acquisti online.",
     "link": "https://en.wikipedia.org/wiki/BufferBox",
     "name": "BufferBox",
     "type": "service"
@@ -1258,7 +1258,7 @@
   {
     "dateClose": "2009-03-11",
     "dateOpen": "2005-01-01",
-    "description": "Grand Central fue un servicio de Voz sobre IP que fue adquirido por Google y convertido en Google Voice.",
+    "description": "Grand Central era un servizio di Voice over IP acquisito da Google e trasformato in Google Voice.",
     "link": "https://en.wikipedia.org/wiki/Google_Voice",
     "name": "Grand Central",
     "type": "service"
@@ -1266,7 +1266,7 @@
   {
     "dateClose": "2016-05-24",
     "dateOpen": "2014-11-03",
-    "description": "Nexus Player era un reproductor de medios digitales que permitía a los usuarios reproducir música, ver videos provenientes de servicios de Internet o una red local, y jugar juegos.",
+    "description": "Nexus Player era un lettore multimediale digitale che permetteva agli utenti di ascoltare musica, guardare video provenienti da servizi Internet o da una rete locale, e giocare.",
     "link": "https://en.wikipedia.org/wiki/Nexus_Player",
     "name": "Nexus Player",
     "type": "hardware"
@@ -1274,7 +1274,7 @@
   {
     "dateClose": "2012-11-01",
     "dateOpen": "2009-08-20",
-    "description": "Google Listen era una aplicación de Android que te permitía buscar, suscribirte, descargar y transmitir podcasts y audio web.",
+    "description": "Google Listen era un'applicazione Android che ti permetteva di cercare, iscriverti, scaricare e riprodurre podcast e audio web.",
     "link": "https://googleblog.blogspot.com/2012/08/giving-you-better-google.html",
     "name": "Google Listen",
     "type": "app"
@@ -1282,7 +1282,7 @@
   {
     "dateClose": "2011-07-20",
     "dateOpen": "2000-04-07",
-    "description": "Google Directory era un directorio de sitios web de Internet organizado en 14 categorías principales que permitía a los usuarios explorar la web.",
+    "description": "Google Directory era un elenco di siti web su Internet organizzato in 14 categorie principali che permetteva agli utenti di esplorare il web.",
     "link": "https://en.wikipedia.org/wiki/Google_Directory",
     "name": "Google Directory",
     "type": "service"
@@ -1290,7 +1290,7 @@
   {
     "dateClose": "2011-11-22",
     "dateOpen": "2007-05-31",
-    "description": "Gears (también conocido como Google Gears) era un software de utilidad que tenía como objetivo crear aplicaciones web más potentes al agregar almacenamiento sin conexión y otras funciones adicionales a los navegadores web.",
+    "description": "Gears (noto anche come Google Gears) era un software di utilità che mirava a creare app web più potenti aggiungendo archiviazione offline e altre funzionalità aggiuntive ai browser web.",
     "link": "https://en.wikipedia.org/wiki/Gears_(software)",
     "name": "Gears",
     "type": "service"
@@ -1298,7 +1298,7 @@
   {
     "dateClose": "2013-06-04",
     "dateOpen": "2009-10-13",
-    "description": "Building Maker permitió a los usuarios crear modelos 3D de edificios para Google Earth en el navegador.",
+    "description": "Building Maker ha permesso agli utenti di creare modelli 3D di edifici per Google Earth sul browser.",
     "link": "https://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html",
     "name": "Building Maker",
     "type": "service"
@@ -1306,7 +1306,7 @@
   {
     "dateClose": "2011-08-05",
     "dateOpen": "2009-12-01",
-    "description": "Google Dictionary era un servicio de diccionario en línea independiente.",
+    "description": "Google Dictionary era un servizio di dizionario online autonomo.",
     "link": "https://en.wikipedia.org/wiki/Google_Dictionary",
     "name": "Google Dictionary",
     "type": "service"
@@ -1314,7 +1314,7 @@
   {
     "dateClose": "2012-03-01",
     "dateOpen": "2008-05-28",
-    "description": "Google Friend Connect fue un sitio de redes sociales gratuito desde 2008 hasta 2012.",
+    "description": "Google Friend Connect era un sito di social networking gratuito dal 2008 al 2012.",
     "link": "https://en.wikipedia.org/wiki/Google_Friend_Connect",
     "name": "Google Friend Connect",
     "type": "service"
@@ -1322,7 +1322,7 @@
   {
     "dateClose": "2017-06-20",
     "dateOpen": "2013-04-11",
-    "description": "Glass OS (Google XE) fue una versión del sistema operativo Android de Google diseñada para Google Glass.",
+    "description": "Glass OS (Google XE) era una versione del sistema operativo Android di Google progettata per Google Glass.",
     "link": "https://en.wikipedia.org/wiki/Glass_OS",
     "name": "Glass OS",
     "type": "service"
@@ -1330,7 +1330,7 @@
   {
     "dateClose": "2018-08-28",
     "dateOpen": "2017-09-19",
-    "description": "Tez fue un servicio de pagos móviles de Google, dirigido a usuarios en India. Fue renombrado como Google Pay.",
+    "description": "Tez era un servizio di pagamenti mobili di Google, rivolto agli utenti in India. È stato rinominato Google Pay.",
     "link": "https://en.wikipedia.org/wiki/Tez_(software)",
     "name": "Tez",
     "type": "service"
@@ -1338,7 +1338,7 @@
   {
     "dateClose": "2014-01-01",
     "dateOpen": "2011-05-26",
-    "description": "Google Offers era un servicio que ofrecía descuentos y cupones. Inicialmente, era un sitio web de oferta del día similar a Groupon.",
+    "description": "Google Offers era un servizio che offriva sconti e buoni sconto. Inizialmente, era un sito web dell'offerta del giorno simile a Groupon.",
     "link": "https://en.wikipedia.org/wiki/Google_Offers",
     "name": "Google Offers",
     "type": "service"
@@ -1346,7 +1346,7 @@
   {
     "dateClose": "2016-04-30",
     "dateOpen": "2009-02-12",
-    "description": "MyTracks era una aplicación de seguimiento GPS para Android que permitía a los usuarios rastrear su ruta, velocidad, distancia y elevación.",
+    "description": "MyTracks era un'applicazione di tracciamento GPS per Android che permetteva agli utenti di registrare il loro percorso, la velocità, la distanza e l'altitudine.",
     "link": "https://en.wikipedia.org/wiki/MyTracks",
     "name": "MyTracks",
     "type": "app"
@@ -1354,7 +1354,7 @@
   {
     "dateClose": "2016-02-18",
     "dateOpen": "2013-06-01",
-    "description": "Pie era un sitio web y aplicación de chat grupal centrado en el trabajo comparable a Slack.",
+    "description": "Pie era un sito web e un'app di chat di gruppo incentrati sul lavoro, paragonabile a Slack.",
     "link": "https://www.pie.co",
     "name": "Pie",
     "type": "service"
@@ -1362,7 +1362,7 @@
   {
     "dateClose": "2017-11-15",
     "dateOpen": "2006-03-21",
-    "description": "Portfolios era una función disponible en Google Finance para hacer un seguimiento de los valores financieros personales.",
+    "description": "I portafogli erano una funzionalità disponibile in Google Finance per tracciare titoli finanziari personali.",
     "link": "https://en.wikipedia.org/wiki/Google_Finance",
     "name": "Google Portfolios",
     "type": "service"
@@ -1370,7 +1370,7 @@
   {
     "dateClose": "2018-04-01",
     "dateOpen": "2008-11-13",
-    "description": "El Site Search de Google era un servicio que permitía a cualquier sitio web agregar un campo de búsqueda personalizado impulsado por Google.",
+    "description": "Il Google Site Search era un servizio che consentiva a qualsiasi sito web di aggiungere un campo di ricerca personalizzato alimentato da Google.",
     "link": "https://web.archive.org/web/20180804001326/https://enterprise.google.com/search/products/gss.html",
     "name": "Google Site Search",
     "type": "service"
@@ -1378,7 +1378,7 @@
   {
     "dateClose": "2013-11-20",
     "dateOpen": "2011-12-08",
-    "description": "Google Currents era una aplicación de revista social de Google, la cual fue reemplazada por Google Play Newsstand.",
+    "description": "Google Currents era un'applicazione di riviste sociali di Google, che è stata sostituita da Google Play Newsstand.",
     "link": "https://en.wikipedia.org/wiki/Google_Currents_(2011-2013)",
     "name": "Google Currents",
     "type": "app"
@@ -1386,7 +1386,7 @@
   {
     "dateClose": "2010-04-30",
     "dateOpen": "2008-04-13",
-    "description": "BumpTop era una aplicación de entorno de escritorio skeuomórfico que simula el comportamiento normal y las propiedades físicas de un escritorio del mundo real y lo mejora con herramientas automáticas para organizar su contenido.",
+    "description": "BumpTop era un'applicazione per l'ambiente desktop skeuomorfico che simula il comportamento normale e le proprietà fisiche di una scrivania del mondo reale e la potenzia con strumenti automatici per organizzare i suoi contenuti.",
     "link": "https://github.com/BumpTop/BumpTop",
     "name": "BumpTop",
     "type": "service"
@@ -1394,7 +1394,7 @@
   {
     "dateClose": "2013-11-20",
     "dateOpen": "2006-06-28",
-    "description": "Google Checkout fue un servicio de procesamiento de pagos en línea que tenía como objetivo simplificar el proceso de pago de compras en línea.",
+    "description": "Google Checkout era un servizio di elaborazione dei pagamenti online che mirava a semplificare il processo di pagamento per gli acquisti online.",
     "link": "https://en.wikipedia.org/wiki/Google_Checkout",
     "name": "Google Checkout",
     "type": "service"
@@ -1402,7 +1402,7 @@
   {
     "dateClose": "2011-09-02",
     "dateOpen": "2006-01-06",
-    "description": "Google Pack fue una colección de herramientas de software ofrecidas por Google para descargar en un solo archivo. Fue anunciado en la Feria de Electrónica de Consumo de 2006, el 6 de enero. Google Pack solo estaba disponible para Windows XP, Windows Vista y Windows 7.",
+    "description": "Google Pack era una raccolta di strumenti software offerti da Google per il download in un unico archivio. È stato annunciato al Consumer Electronics Show del 2006, il 6 gennaio. Google Pack era disponibile solo per Windows XP, Windows Vista e Windows 7.",
     "link": "https://en.wikipedia.org/wiki/Google_Pack",
     "name": "Google Pack",
     "type": "service"
@@ -1410,7 +1410,7 @@
   {
     "dateClose": "2015-12-11",
     "dateOpen": "2012-01-01",
-    "description": "Timeful fue una aplicación de lista de tareas y calendario para iOS, desarrollada para reinventar la forma en que las personas gestionan su recurso más preciado: el tiempo.",
+    "description": "Timeful era un'applicazione per la lista delle cose da fare e il calendario per iOS, sviluppata per reinventare il modo in cui le persone gestiscono la loro risorsa più preziosa: il tempo.",
     "link": "https://www.crunchbase.com/organization/timeful#section-overview",
     "name": "Timeful",
     "type": "app"
@@ -1418,7 +1418,7 @@
   {
     "dateClose": "2011-07-31",
     "dateOpen": "2007-02-28",
-    "description": "Rebang era un servicio similar a Zeitgeist centrado en brindar servicio a una audiencia china. Se incorporó al Laboratorio de Google a finales de 2010 y posteriormente se discontinuó junto con su proyecto principal.",
+    "description": "Rebang era un servizio simile allo Zeitgeist centrato sulla fornitura di servizi per un pubblico cinese. È stato incorporato nei Google Labs alla fine del 2010 e successivamente interrotto insieme al suo progetto principale.",
     "link": "https://www.zdnet.com/article/google-rebang-now-live/",
     "name": "Google Rebang",
     "type": "service"
@@ -1426,7 +1426,7 @@
   {
     "dateClose": "2012-03-06",
     "dateOpen": "2005-05-01",
-    "description": "Slide era un software de intercambio de fotos para servicios de redes sociales como MySpace y Facebook. Más tarde, Slide comenzó a crear aplicaciones y se convirtió en el mayor desarrollador de aplicaciones de terceros para Facebook.",
+    "description": "Slide era un software di condivisione di foto per servizi di social networking come MySpace e Facebook. Successivamente, Slide ha iniziato a creare applicazioni ed è diventato il più grande sviluppatore di applicazioni di terze parti per Facebook.",
     "link": "https://en.wikipedia.org/wiki/Slide.com",
     "name": "Slide",
     "type": "service"
@@ -1434,7 +1434,7 @@
   {
     "dateClose": "2011-02-10",
     "dateOpen": "2009-07-01",
-    "description": "Bienes raíces en Google Maps permitió a los usuarios encontrar lugares en venta o alquiler en un área de su interés.",
+    "description": "Immobili su Google Maps consentiva agli utenti di trovare luoghi in vendita o in affitto in un'area di loro interesse.",
     "link": "https://maps.googleblog.com/2011/01/retiring-real-estate-on-google-maps.html",
     "name": "Real Estate On Google Maps",
     "type": "service"
@@ -1442,7 +1442,7 @@
   {
     "dateClose": "2012-06-01",
     "dateOpen": "2011-04-01",
-    "description": "Needlebase era una herramienta de clic y arrastre para extraer, ordenar y visualizar datos de diferentes páginas web.",
+    "description": "Needlebase era uno strumento point-and-click per estrarre, ordinare e visualizzare dati da varie pagine web.",
     "link": "https://techcrunch.com/2012/01/20/google-trims-the-fat/",
     "name": "Needlebase",
     "type": "service"
@@ -1450,7 +1450,7 @@
   {
     "dateClose": "2013-04-30",
     "dateOpen": "2008-04-07",
-    "description": "Google Cloud Connect era un complemento gratuito de computación en la nube para múltiples versiones de Microsoft Office que almacenaba y sincronizaba automáticamente archivos en Google Docs.",
+    "description": "Google Cloud Connect era un plugin di cloud computing gratuito per diverse versioni di Microsoft Office che memorizzava e sincronizzava automaticamente i file su Google Docs.",
     "link": "https://en.wikipedia.org/wiki/Google_Cloud_Connect",
     "name": "Google Cloud Connect",
     "type": "service"
@@ -1458,7 +1458,7 @@
   {
     "dateClose": "2013-05-10",
     "dateOpen": "2004-10-01",
-    "description": "Google SMS te permite enviar mensajes de texto con preguntas, incluyendo el clima, resultados deportivos, definiciones de palabras y más, al 466453 y recibir una respuesta.",
+    "description": "Google SMS ti permette di inviare messaggi di testo con domande - inclusi meteo, risultati sportivi, definizioni di parole e altro ancora - al numero 466453 e ricevere una risposta.",
     "link": "https://techcrunch.com/2013/05/12/google-kills-sms-search/",
     "name": "Google SMS",
     "type": "service"
@@ -1466,7 +1466,7 @@
   {
     "dateClose": "2018-10-16",
     "dateOpen": "2016-09-12",
-    "description": "Google News & Weather era una aplicación agregadora de noticias disponible en los sistemas operativos Android e iOS.",
+    "description": "Google News & Weather era un'applicazione aggregatore di notizie disponibile sui sistemi operativi Android e iOS.",
     "link": "https://en.wikipedia.org/wiki/Google_News_%26_Weather",
     "name": "Google News & Weather",
     "type": "app"
@@ -1474,7 +1474,7 @@
   {
     "dateClose": "2011-07-01",
     "dateOpen": "2009-11-01",
-    "description": "Google Script Converter era una herramienta de transliteración en línea para la conversión de scripts entre hindi, romanagari y varios otros scripts. Ha finalizado porque Google cerró Google Labs y todos los proyectos asociados.",
+    "description": "Google Script Converter era uno strumento di traslitterazione online per la traslitterazione (conversione di script) tra l'hindi, il romanagari e vari altri script. È stato chiuso perché Google ha chiuso Google Labs e tutti i progetti associati.",
     "link": "https://en.wikipedia.org/wiki/Google_Script_Converter",
     "name": "Google Script Converter",
     "type": "service"
@@ -1482,7 +1482,7 @@
   {
     "dateClose": "2012-08-20",
     "dateOpen": "2005-01-25",
-    "description": "Google Video era un servicio gratuito de alojamiento de videos de Google, similar a YouTube, que permitía que los clips de video se alojaran en los servidores de Google y se incrustaran en otros sitios web.",
+    "description": "Google Video era un servizio di hosting video gratuito di Google, simile a YouTube, che permetteva di ospitare video su server Google e incorporarli in altri siti web.",
     "link": "https://en.wikipedia.org/wiki/Google_Video",
     "name": "Google Video",
     "type": "service"
@@ -1490,7 +1490,7 @@
   {
     "dateClose": "2011-10-13",
     "dateOpen": "2010-12-15",
-    "description": "ZygoteBody, anteriormente Google Body, era una aplicación web de Zygote Media Group que mostraba modelos anatómicos 3D manipulables del cuerpo humano.",
+    "description": "ZygoteBody, precedentemente Google Body, era un'applicazione web sviluppata da Zygote Media Group che visualizzava modelli anatomici tridimensionali del corpo umano manipolabili.",
     "link": "https://en.wikipedia.org/wiki/ZygoteBody",
     "name": "ZygoteBody",
     "type": "service"
@@ -1498,7 +1498,7 @@
   {
     "dateClose": "2009-08-05",
     "dateOpen": "2008-11-01",
-    "description": "Flix Cloud era un servicio de codificación de video en línea de alta capacidad.",
+    "description": "Flix Cloud era un servizio di codifica video online ad alta capacità.",
     "link": "https://en.wikipedia.org/wiki/On2_Technologies#Acquisition_by_Google",
     "name": "On2 Flix Cloud",
     "type": "service"
@@ -1506,7 +1506,7 @@
   {
     "dateClose": "2011-12-31",
     "dateOpen": "2009-01-01",
-    "description": "Noop fue un proyecto de los ingenieros de Google Alex Eagle y Christian Gruber que tenía como objetivo desarrollar un nuevo lenguaje de programación que intentaba combinar las mejores características de los lenguajes 'antiguos' y 'nuevos' y las mejores prácticas.",
+    "description": "Noop era un progetto degli ingegneri di Google Alex Eagle e Christian Gruber che mirava a sviluppare un nuovo linguaggio di programmazione che cercava di combinare le migliori caratteristiche dei linguaggi \"vecchi\" e \"nuovi\" e le migliori pratiche.",
     "link": "https://en.wikipedia.org/wiki/Noop",
     "name": "Noop Programming Language",
     "type": "service"
@@ -1514,7 +1514,7 @@
   {
     "dateClose": "2016-02-01",
     "dateOpen": "2013-07-01",
-    "description": "Google Maps Engine era una herramienta en línea para la creación de mapas. Te permitía crear mapas en capas utilizando tus datos, así como los datos de Google Maps.",
+    "description": "Google Maps Engine era uno strumento online per la creazione di mappe. Ti permetteva di creare mappe stratificate utilizzando i tuoi dati oltre ai dati di Google Maps.",
     "link": "https://mangomap.com/blog/the-end-of-google-maps-engine-causes-mass-confusion/",
     "name": "Google Maps Engine",
     "type": "service"
@@ -1522,7 +1522,7 @@
   {
     "dateClose": "2018-08-15",
     "dateOpen": "2016-04-14",
-    "description": "La extensión Save to Google Chrome te permite guardar rápidamente un enlace de página con imagen y etiquetas en una aplicación similar a Pocket.",
+    "description": "Salva con l'estensione Save to Google Chrome ti consente di salvare rapidamente un link della pagina con immagine e tag in un'app simile a Pocket.",
     "link": "https://9to5google.com/2018/07/22/google-kills-save-to-google-chrome-material-theme/",
     "name": "Save to Google Chrome Extension",
     "type": "service"
@@ -1530,7 +1530,7 @@
   {
     "dateClose": "2012-04-20",
     "dateOpen": "2009-11-10",
-    "description": "Google Flu Vaccine Finder era una combinación de mapas que mostraba lugares de vacunación cercanos en todo Estados Unidos.",
+    "description": "Google Flu Vaccine Finder era una combinazione di mappe che mostrava i luoghi di vaccinazione vicini in tutti gli Stati Uniti.",
     "link": "https://googleblog.blogspot.com/2012/04/spring-cleaning-in-spring.html",
     "name": "Google Flu Vaccine Finder",
     "type": "service"
@@ -1538,7 +1538,7 @@
   {
     "dateClose": "2012-04-20",
     "dateOpen": "2011-03-16",
-    "description": "Google One Pass fue una tienda en línea desarrollada por Google para editores de medios que buscan vender suscripciones a su contenido.",
+    "description": "Google One Pass era un negozio online sviluppato da Google per editori di media che cercavano di vendere abbonamenti ai loro contenuti.",
     "link": "https://en.wikipedia.org/wiki/Google_One_Pass",
     "name": "Google One Pass",
     "type": "service"
@@ -1546,7 +1546,7 @@
   {
     "dateClose": "2011-07-20",
     "dateOpen": "2009-11-17",
-    "description": "Google Image Swirl fue una mejora a la herramienta de búsqueda de imágenes que surgió de Google Labs. Se construyó sobre la búsqueda de imágenes agrupando imágenes con cualidades visuales y semánticas similares.",
+    "description": "Google Image Swirl è stato un potenziamento dello strumento di ricerca di immagini che è nato dai Google Labs. È stato costruito sopra la ricerca di immagini raggruppando immagini con qualità visive e semantiche simili.",
     "link": "https://en.wikipedia.org/wiki/Google_Image_Swirl",
     "name": "Google Image Swirl",
     "type": "service"
@@ -1554,7 +1554,7 @@
   {
     "dateClose": "2017-02-08",
     "dateOpen": "2016-03-02",
-    "description": "Google Hands Free era un sistema de pago móvil que permitía a los usuarios pagar su factura utilizando Bluetooth para conectarse a terminales de pago diciendo 'Pagaré con Google'.",
+    "description": "Google Hands Free era un sistema di pagamento mobile che permetteva agli utenti di pagare il conto utilizzando il Bluetooth per connettersi ai terminali di pagamento dicendo 'Pagherò con Google'.",
     "link": "https://www.slashgear.com/google-shutting-down-hands-free-next-week-02473609/",
     "name": "Google Hands Free",
     "type": "service"
@@ -1562,7 +1562,7 @@
   {
     "dateClose": "2016-05-02",
     "dateOpen": "2007-03-03",
-    "description": "Freebase fue una gran base de conocimiento colaborativa compuesta principalmente por datos estructurados creados por sus miembros de la comunidad, desarrollada por Metaweb (adquirida por Google).",
+    "description": "Freebase era una grande base di conoscenza collaborativa composta principalmente da dati strutturati creati dai membri della sua comunità, sviluppata da Metaweb (acquisita da Google).",
     "link": "https://en.wikipedia.org/wiki/Freebase",
     "name": "Freebase",
     "type": "service"
@@ -1570,7 +1570,7 @@
   {
     "dateClose": "2014-03-14",
     "dateOpen": "2012-07-31",
-    "description": "Wildfire de Google era una aplicación de marketing social que permitía a las empresas crear, optimizar y medir su presencia en las redes sociales.",
+    "description": "Wildfire di Google era un'applicazione di marketing sociale che consentiva alle aziende di creare, ottimizzare e misurare la propria presenza sui social network.",
     "link": "https://en.wikipedia.org/wiki/Wildfire_Interactive",
     "name": "Wildfire Interactive",
     "type": "service"
@@ -1578,7 +1578,7 @@
   {
     "dateClose": "2016-05-02",
     "dateOpen": "2012-07-09",
-    "description": "Google Now era una característica de la Búsqueda de Google que ofrecía tarjetas predictivas con información y actualizaciones diarias en Chrome y la aplicación de Google para Android e iOS.",
+    "description": "Google Now era una funzione di Ricerca Google che offriva carte predittive con informazioni e aggiornamenti giornalieri su Chrome e sull'app Google per Android e iOS.",
     "link": "https://en.wikipedia.org/wiki/Google_Now",
     "name": "Google Now",
     "type": "service"
@@ -1586,7 +1586,7 @@
   {
     "dateClose": "2015-08-20",
     "dateOpen": "2008-11-01",
-    "description": "Google Flu Trends era un servicio que intentaba hacer predicciones precisas sobre la actividad de la gripe.",
+    "description": "Google Flu Trends era un servizio che cercava di fare previsioni accurate sull'attività influenzale.",
     "link": "https://en.wikipedia.org/wiki/Google_Flu_Trends",
     "name": "Google Flu Trends",
     "type": "service"
@@ -1594,7 +1594,7 @@
   {
     "dateClose": "2012-09-27",
     "dateOpen": "2008-08-06",
-    "description": "Google Insights for Search era un servicio utilizado para proporcionar datos sobre los términos que la gente buscaba en Google y fue fusionado en Google Trends.",
+    "description": "Google Insights for Search era un servizio utilizzato per fornire dati sui termini cercati dalle persone su Google ed è stato incorporato in Google Trends.",
     "link": "https://en.wikipedia.org/wiki/Google_Insights_for_Search",
     "name": "Google Insights for Search",
     "type": "service"
@@ -1602,7 +1602,7 @@
   {
     "dateClose": "2008-08-28",
     "dateOpen": "2006-10-24",
-    "description": "Google Send to Phone era un complemento para enviar enlaces y otra información desde Firefox a su teléfono mediante mensajes de texto.",
+    "description": "Google Send to Phone era un componente aggiuntivo per inviare link e altre informazioni da Firefox al proprio telefono tramite messaggio di testo.",
     "link": "https://en.wikipedia.org/wiki/List_of_Google_products",
     "name": "Send to Phone",
     "type": "service"
@@ -1610,7 +1610,7 @@
   {
     "dateClose": "2012-03-28",
     "dateOpen": "2005-04-30",
-    "description": "Urchin fue un programa de análisis de estadísticas web desarrollado por Urchin Software Corporation. Analizaba el contenido de los archivos de registro del servidor web y mostraba la información de tráfico en ese sitio web basándose en los datos del registro.",
+    "description": "Urchin era un programma di analisi delle statistiche web sviluppato da Urchin Software Corporation. Analizzava i contenuti dei file di log del server web e visualizzava le informazioni sul traffico di quel sito web basandosi sui dati di log.",
     "link": "https://en.wikipedia.org/wiki/Urchin_(software)",
     "name": "Urchin",
     "type": "service"
@@ -1618,7 +1618,7 @@
   {
     "dateClose": "2017-03-01",
     "dateOpen": "2013-02-21",
-    "description": "Chromebook Pixel fue una laptop única en su tipo construida por Google que funcionaba con Chrome OS, un sistema operativo basado en el kernel de Linux.",
+    "description": "Chromebook Pixel è stato un laptop unico nel suo genere costruito da Google che eseguiva Chrome OS, un sistema operativo basato sul kernel Linux.",
     "link": "https://en.wikipedia.org/wiki/Chromebook_Pixel",
     "name": "Chromebook Pixel",
     "type": "hardware"
@@ -1626,7 +1626,7 @@
   {
     "dateClose": "2007-08-17",
     "dateOpen": "2006-08-22",
-    "description": "El reproductor de video de Google reproduce archivos en el propio formato de medios de Google, llamado Google Video File (.gvi), y listas de reproducción compatibles en formato 'Google Video Pointer' (.gvp).",
+    "description": "Il riproduttore video di Google riproduce file nel proprio formato multimediale Google Video File (.gvi) di Google e playlist supportate nel formato 'Google Video Pointer' (.gvp).",
     "link": "https://en.wikipedia.org/wiki/Google_Video#Google_Video_Player",
     "name": "Google Video Player",
     "type": "service"
@@ -1634,7 +1634,7 @@
   {
     "dateClose": "2018-04-10",
     "dateOpen": "2010-07-01",
-    "description": "Un servicio que Google desarrolló para clientes de viajes de larga cola. ITA Software creará una nueva forma más fácil para que los usuarios encuentren mejor información de vuelos en línea, lo que debería animar a más usuarios a realizar sus compras de vuelos en línea.",
+    "description": "Un servizio che Google ha sviluppato per i clienti che cercano viaggi di lunga distanza. ITA Software creerà un nuovo modo più semplice per gli utenti di trovare migliori informazioni sui voli online, il che dovrebbe incoraggiare più utenti a effettuare i loro acquisti di voli online.",
     "link": "https://web.archive.org/web/20190402190950/https://developers.google.com/qpx-express/",
     "name": "qpx-express-API",
     "type": "service"
@@ -1642,7 +1642,7 @@
   {
     "dateClose": "2016-01-31",
     "dateOpen": "2007-11-08",
-    "description": "Songza era un servicio gratuito de transmisión de música que recomendaba a sus usuarios varias listas de reproducción basadas en la hora del día y el estado de ánimo o actividad.",
+    "description": "Songza era un servizio gratuito di streaming musicale che consigliava ai suoi utenti varie playlist in base all'orario della giornata e all'umore o all'attività.",
     "link": "https://en.wikipedia.org/wiki/Songza",
     "name": "Songza",
     "type": "service"
@@ -1650,7 +1650,7 @@
   {
     "dateClose": "2014-02-01",
     "dateOpen": "2010-09-22",
-    "description": "Google Chrome Frame era un complemento para Internet Explorer que permitía que las páginas web se mostraran utilizando WebKit y el motor de JavaScript V8.",
+    "description": "Google Chrome Frame era un plugin per Internet Explorer che consentiva alle pagine web di essere visualizzate utilizzando WebKit e il motore JavaScript V8.",
     "link": "https://en.wikipedia.org/wiki/Google_Chrome_Frame",
     "name": "Google Chrome Frame",
     "type": "service"
@@ -1658,7 +1658,7 @@
   {
     "dateClose": "2011-12-20",
     "dateOpen": "2007-07-01",
-    "description": "Apture era un servicio que permitía a editores y blogueros enlazar e incorporar multimedia en una capa dinámica sobre sus páginas.",
+    "description": "Apture era un servizio che permetteva agli editori e ai blogger di collegare e incorporare contenuti multimediali in uno strato dinamico sopra le loro pagine.",
     "link": "https://www.huffingtonpost.com/rory-oconnor/apture-web-30-is-now_b_161608.html",
     "name": "Apture",
     "type": "service"
@@ -1666,7 +1666,7 @@
   {
     "dateClose": "2011-01-31",
     "dateOpen": "2010-08-01",
-    "description": "fflick era un sitio web de reseñas, información y noticias que utilizaba información de Tweets agregados para calificar las películas como positivas o negativas.",
+    "description": "fflick era un sito web di recensioni, informazioni e notizie che utilizzava informazioni dai Tweet aggregati per valutare i film come positivi o negativi.",
     "link": "https://en.wikipedia.org/wiki/Fflick",
     "name": "fflick",
     "type": "service"
@@ -1674,7 +1674,7 @@
   {
     "dateClose": "2014-06-30",
     "dateOpen": "2010-10-06",
-    "description": "Google TV era una plataforma de smart TV que integraba Android y Chrome para crear una superposición de televisión interactiva.",
+    "description": "Google TV era una piattaforma per smart TV che integrava Android e Chrome per creare un overlay televisivo interattivo.",
     "link": "https://en.wikipedia.org/wiki/Google_TV_(smart_TV_platform)",
     "name": "Google TV",
     "type": "hardware"
@@ -1682,7 +1682,7 @@
   {
     "dateClose": "2012-10-31",
     "dateOpen": "2010-11-10",
-    "description": "Google Refine era una aplicación de escritorio independiente para la limpieza y transformación de datos a otros formatos.",
+    "description": "Google Refine era un'applicazione desktop autonoma per la pulizia e la trasformazione dei dati in altri formati.",
     "link": "https://en.wikipedia.org/wiki/Google_Refine",
     "name": "Google Refine",
     "type": "service"
@@ -1690,7 +1690,7 @@
   {
     "dateClose": "2019-12-03",
     "dateOpen": "2009-06-09",
-    "description": "Google Fusion Tables era un servicio web para la gestión de datos que proporcionaba un medio para visualizar datos en diferentes gráficos, mapas y diagramas.",
+    "description": "Google Fusion Tables era un servizio web per la gestione dei dati che forniva un modo per visualizzare i dati in diversi grafici, mappe e grafici.",
     "link": "https://en.wikipedia.org/wiki/Google_Fusion_Tables",
     "name": "Google Fusion Tables",
     "type": "service"
@@ -1698,7 +1698,7 @@
   {
     "dateClose": "2009-12-05",
     "dateOpen": "2002-04-11",
-    "description": "Las Google Web APIs eran un servicio SOAP gratuito para realizar búsquedas en Google, de modo que los desarrolladores pudieran usar los resultados de casi cualquier manera que desearan.",
+    "description": "Le API Web di Google erano un servizio SOAP gratuito per effettuare ricerche su Google in modo che gli sviluppatori potessero utilizzare i risultati in quasi qualsiasi modo desiderassero.",
     "link": "https://web.archive.org/web/20021105033319/http://www.google.com/apis/",
     "name": "Google Web APIs",
     "type": "service"
@@ -1706,7 +1706,7 @@
   {
     "dateClose": "2011-07-01",
     "dateOpen": "2002-07-01",
-    "description": "Google Sets genera una lista de elementos cuando los usuarios ingresan algunos ejemplos. Por ejemplo, al ingresar \"Verde, Morado, Rojo\" emite la lista \"Verde, Morado, Rojo, Azul, Negro, Blanco, Amarillo, Naranja, Marrón\".",
+    "description": "Google Sets genera una lista di elementi quando gli utenti inseriscono alcuni esempi. Ad esempio, inserendo \"Verde, Viola, Rosso\" emette la lista \"Verde, Viola, Rosso, Blu, Nero, Bianco, Giallo, Arancione, Marrone\".",
     "link": "https://web.archive.org/web/20021105033319/http://www.google.com/apis/",
     "name": "Google Sets",
     "type": "service"
@@ -1714,7 +1714,7 @@
   {
     "dateClose": "2015-05-22",
     "dateOpen": "2011-05-10",
-    "description": "Android @ Home permitió que el dispositivo de un usuario descubriera, se conectara y se comunicara con dispositivos y electrodomésticos en el hogar.",
+    "description": "Android @ Home ha permesso al dispositivo dell'utente di scoprire, connettersi e comunicare con dispositivi ed elettrodomestici in casa.",
     "link": "https://bgr.com/2011/05/10/google-announces-android-home/",
     "name": "Android @ Home",
     "type": "service"
@@ -1722,7 +1722,7 @@
   {
     "dateClose": "2016-10-31",
     "dateOpen": "2012-05-01",
-    "description": "Pixate era una plataforma para crear animaciones e interacciones sofisticadas, y perfeccionar tus diseños a través de prototipos nativos al 100% para iOS y Android.",
+    "description": "Pixate era una piattaforma per creare animazioni sofisticate e interazioni, e per perfezionare i tuoi design attraverso prototipi nativi al 100% per iOS e Android.",
     "link": "https://techcrunch.com/2015/07/21/google-acquires-mobile-app-prototyping-tool-pixate/",
     "name": "Pixate",
     "type": "app"
@@ -1730,7 +1730,7 @@
   {
     "dateClose": "2015-12-12",
     "dateOpen": "2008-05-28",
-    "description": "El complemento del navegador de Google Earth permitía a los desarrolladores incrustar Google Earth en páginas web e incluía una API de JavaScript para dibujo 3D personalizado e interacción.",
+    "description": "Il plug-in del browser di Google Earth permetteva agli sviluppatori di incorporare Google Earth nelle pagine web e includeva un'API JavaScript per disegni 3D personalizzati e interazioni.",
     "link": "https://en.wikipedia.org/wiki/Google_Earth#Google_Earth_Plug-in",
     "name": "Google Earth Browser Plug-in",
     "type": "service"
@@ -1738,7 +1738,7 @@
   {
     "dateClose": "2009-09-01",
     "dateOpen": "2005-07-19",
-    "description": "Barra de herramientas de Google para Firefox",
+    "description": "Barra degli strumenti di Google per Firefox",
     "link": "https://en.wikipedia.org/wiki/Google_Toolbar",
     "name": "Google Toolbar for Firefox",
     "type": "service"
@@ -1746,7 +1746,7 @@
   {
     "dateClose": "2019-03-07",
     "dateOpen": "2015-06-01",
-    "description": "El Sr. Jingles (también conocido como Widget de Notificaciones de Google) mostraba alertas y notificaciones de varios servicios de Google.",
+    "description": "Mr. Jingles (alias Google Notification Widget) visualizzava avvisi e notifiche da diversi servizi Google.",
     "link": "https://www.engadget.com/2019/02/06/google-is-killing-its-notifications-widget/",
     "name": "Google Notification Widget (Mr. Jingles)",
     "type": "service"
@@ -1754,7 +1754,7 @@
   {
     "dateClose": "2019-01-15",
     "dateOpen": "2008-06-04",
-    "description": "Las anotaciones de video de YouTube permitieron a los creadores de video agregar comentarios interactivos a sus videos que contenían información de fondo, historias ramificadas (al estilo \"elige tu propia aventura\") o enlaces a cualquier video de YouTube, canal o página de resultados de búsqueda.",
+    "description": "Le annotazioni dei video di YouTube permettevano ai creatori di video di aggiungere commenti interattivi ai loro video contenenti informazioni di sfondo, storie a diramazioni (in stile \"scegli la tua avventura\") o collegamenti a qualsiasi video di YouTube, canale o pagina dei risultati di ricerca.",
     "link": "https://www.theverge.com/2018/11/27/18114581/youtube-annotations-discontinued-january-2019",
     "name": "YouTube Video Annotations",
     "type": "service"
@@ -1762,7 +1762,7 @@
   {
     "dateClose": "2018-12-06",
     "dateOpen": "2015-04-01",
-    "description": "Las Notificaciones Cercanas de Google eran una herramienta de marketing de proximidad que utilizaba balizas Bluetooth y datos basados en la ubicación para ofrecer contenido relevante a la ubicación del mundo real de un usuario de Android.",
+    "description": "Le notifiche di Google Nearby erano uno strumento di marketing di prossimità che utilizzava i beacon Bluetooth e i dati basati sulla posizione per fornire contenuti pertinenti alla posizione reale di un utente Android.",
     "link": "https://android-developers.googleblog.com/2018/10/discontinuing-support-for-android.html",
     "name": "Google Nearby Notifications",
     "type": "service"
@@ -1770,7 +1770,7 @@
   {
     "dateClose": "2009-02-12",
     "dateOpen": "2008-07-08",
-    "description": "El servicio de Google Audio Ads permitía a los anunciantes ejecutar campañas en estaciones de radio AM/FM en los Estados Unidos utilizando la interfaz de AdWords.",
+    "description": "Il servizio Google Audio Ads consentiva agli inserzionisti di lanciare campagne su stazioni radio AM/FM negli Stati Uniti utilizzando l'interfaccia di AdWords.",
     "link": "http://google-tvads.blogspot.com/2009/02/google-exits-radio-but-will-explore.html",
     "name": "Google Audio Ads",
     "type": "service"
@@ -1778,7 +1778,7 @@
   {
     "dateClose": "2015-01-14",
     "dateOpen": "2010-12-06",
-    "description": "Word Lens traducía texto en tiempo real en imágenes utilizando el visor de la cámara de un dispositivo sin necesidad de una conexión a internet; La tecnología fue incorporada en Google Translate.",
+    "description": "Word Lens traduceva il testo in tempo reale sulle immagini utilizzando il mirino della fotocamera di un dispositivo senza la necessità di una connessione internet; La tecnologia è stata integrata in Google Translate.",
     "link": "https://en.wikipedia.org/wiki/Word_Lens",
     "name": "Word Lens",
     "type": "app"
@@ -1786,7 +1786,7 @@
   {
     "dateClose": "2019-05-29",
     "dateOpen": "2012-06-27",
-    "description": "Google Cloud Messaging (GCM) era un servicio de notificaciones que permitía a los desarrolladores enviar mensajes entre servidores y aplicaciones de clientes que se ejecutaban en Android o Chrome.",
+    "description": "Google Cloud Messaging (GCM) era un servizio di notifiche che consentiva agli sviluppatori di inviare messaggi tra server e app client in esecuzione su Android o Chrome.",
     "link": "https://en.wikipedia.org/wiki/Google_Cloud_Messaging",
     "name": "Google Cloud Messaging (GCM)",
     "type": "service"
@@ -1794,7 +1794,7 @@
   {
     "dateClose": "2019-01-15",
     "dateOpen": "2013-03-19",
-    "description": "La API en tiempo real de Google proporcionaba formas de sincronizar recursos entre dispositivos. Funcionaba con archivos almacenados en Google Drive.",
+    "description": "L'API in tempo reale di Google forniva modi per sincronizzare risorse tra dispositivi. Funzionava su file memorizzati su Google Drive.",
     "link": "https://web.archive.org/web/20181220223930/https://developers.google.com/realtime/deprecation",
     "name": "Google Realtime API",
     "type": "service"
@@ -1802,7 +1802,7 @@
   {
     "dateClose": "2019-04-23",
     "dateOpen": "2015-03-23",
-    "description": "Data Saver era una extensión para Chrome que dirigía las páginas web a través de servidores de Google para comprimir y reducir el ancho de banda del usuario.",
+    "description": "Data Saver era un'estensione per Chrome che instradava le pagine web attraverso i server di Google per comprimere e ridurre la larghezza di banda dell'utente.",
     "link": "https://blog.chromium.org/2019/04/data-saver-is-now-lite-mode.html",
     "name": "Data Saver Extension for Chrome",
     "type": "service"
@@ -1810,7 +1810,7 @@
   {
     "dateClose": "2013-11-11",
     "dateOpen": "2010-12-09",
-    "description": "Google Trader fue un servicio de clasificados administrado por Google en Ghana, Uganda, Kenia y Nigeria para ayudar a los clientes a comerciar bienes y servicios en línea.",
+    "description": "Google Trader era un servizio di annunci classificati gestito da Google in Ghana, Uganda, Kenya e Nigeria per aiutare i clienti a scambiare beni e servizi online.",
     "link": "https://web.archive.org/web/20130313193605/https://www.google.com.gh/local/trader/",
     "name": "Google Trader",
     "type": "service"
@@ -1818,7 +1818,7 @@
   {
     "dateClose": "2019-08-31",
     "dateOpen": "2014-06-23",
-    "description": "Works with Nest fue una API que permitía a servicios externos acceder y controlar dispositivos Nest. Esto permitió que los dispositivos se utilizaran con plataformas de automatización del hogar y dispositivos de terceros.",
+    "description": "Works with Nest era un'API che permetteva ai servizi esterni di accedere e controllare i dispositivi Nest. Questo ha permesso ai dispositivi di essere utilizzati con piattaforme e dispositivi di automazione domestica di terze parti.",
     "link": "https://nest.com/works-with-nest/",
     "name": "Works with Nest API",
     "type": "service"
@@ -1826,7 +1826,7 @@
   {
     "dateClose": "2019-06-28",
     "dateOpen": "2015-05-28",
-    "description": "Google Jump era una solución de medios de realidad virtual basada en la nube que permitía la producción de medios 3D-360 al integrar soluciones de captura personalizadas con un cosido automatizado de primera clase.",
+    "description": "Google Jump era una soluzione media VR basata su cloud che consentiva la produzione di media 3D-360 integrando soluzioni di cattura personalizzate con un'eccezionale cucitura automatica.",
     "link": "https://en.wikipedia.org/wiki/Google_Jump",
     "name": "Google Jump",
     "type": "service"
@@ -1834,7 +1834,7 @@
   {
     "dateClose": "2018-03-31",
     "dateOpen": "2010-04-01",
-    "description": "reCAPTCHA Mailhide permitió a los usuarios ocultar su dirección de correo electrónico detrás de un captcha para evitar que los robots recopilaran el correo electrónico y enviaran spam.",
+    "description": "reCAPTCHA Mailhide permetteva agli utenti di mascherare il proprio indirizzo email dietro un captcha per impedire ai robot di estrarre l'email e inviare spam.",
     "link": "https://github.com/google/recaptcha/issues/221#issuecomment-409586455",
     "name": "reCAPTCHA Mailhide",
     "type": "service"
@@ -1842,7 +1842,7 @@
   {
     "dateClose": "2019-05-30",
     "dateOpen": "2015-08-26",
-    "description": "YouTube Gaming era un servicio y aplicación orientados a los videojuegos para videos y transmisiones en vivo.",
+    "description": "YouTube Gaming era un servizio e un'applicazione orientati al gioco video e allo streaming di video in diretta.",
     "link": "https://www.androidpolice.com/2018/09/18/youtube-gaming-standalone-app-shut-march-2019-features-migrate-main-app/",
     "name": "YouTube Gaming",
     "type": "service"
@@ -1850,7 +1850,7 @@
   {
     "dateClose": "2019-08-05",
     "dateOpen": "2016-09-19",
-    "description": "Google Trips era una aplicación móvil que permitía a los usuarios planificar viajes futuros al facilitar reservas de vuelos, hoteles, coches y restaurantes a partir de correos electrónicos del usuario, junto con información resumida sobre el destino del usuario.",
+    "description": "Google Trips era un'app mobile che permetteva agli utenti di pianificare i viaggi futuri facilitando prenotazioni di voli, hotel, auto e ristoranti dalle email dell'utente insieme a informazioni riassuntive sulla destinazione dell'utente.",
     "link": "https://en.wikipedia.org/wiki/Google_Trips",
     "name": "Google Trips",
     "type": "app"
@@ -1858,7 +1858,7 @@
   {
     "dateClose": "2019-06-14",
     "dateOpen": "2017-04-12",
-    "description": "Areo era una aplicación móvil que permitía a los usuarios en Bangalore, Mumbai, Delhi, Gurgaon y Pune pedir comidas de restaurantes cercanos o programar citas con profesionales de servicios locales, incluyendo electricistas, pintores, limpiadores, fontaneros y más.",
+    "description": "Areo era un'applicazione mobile che permetteva agli utenti di Bangalore, Mumbai, Delhi, Gurgaon e Pune di ordinare pasti da ristoranti vicini o di prenotare appuntamenti con professionisti locali del servizio, tra cui elettricisti, pittori, addetti alle pulizie, idraulici e altri ancora.",
     "link": "https://techcrunch.com/2017/04/13/google-areo-is-a-new-app-for-ordering-food-or-home-services-in-india/",
     "name": "Areo",
     "type": "app"
@@ -1866,7 +1866,7 @@
   {
     "dateClose": "2019-08-01",
     "dateOpen": "2011-09-20",
-    "description": "Hangouts on Air permitía a los usuarios organizar una videollamada multiusuario mientras grababan y transmitían la llamada en YouTube.",
+    "description": "Hangouts on Air permetteva agli utenti di ospitare una videochiamata multiutente registrando e trasmettendo la chiamata su YouTube.",
     "link": "https://arstechnica.com/gadgets/2019/06/google-is-killing-youtubes-hangouts-on-air-this-year/",
     "name": "Hangouts on Air",
     "type": "service"
@@ -1874,7 +1874,7 @@
   {
     "dateClose": "2019-12-04",
     "dateOpen": "2009-06-08",
-    "description": "Google Translator Toolkit era una aplicación web que permitía a los traductores editar y gestionar traducciones generadas por Google Translate.",
+    "description": "Google Translator Toolkit era un'applicazione web che permetteva ai traduttori di modificare e gestire le traduzioni generate da Google Translate.",
     "link": "https://web.archive.org/web/20191115163453/https://support.google.com/translatortoolkit/answer/9462068",
     "name": "Google Translator Toolkit",
     "type": "service"
@@ -1882,7 +1882,7 @@
   {
     "dateClose": "2019-09-30",
     "dateOpen": "2013-04-18",
-    "description": "G Suite Training (anteriormente conocido como Synergyse) proporcionaba capacitación interactiva y basada en videos para 20 productos de Google G Suite en nueve idiomas a través de un sitio web y una extensión de Chrome.",
+    "description": "G Suite Training (precedentemente noto come Synergyse) forniva formazione interattiva e basata su video per 20 prodotti di Google G Suite in nove lingue attraverso un sito web e un'estensione Chrome.",
     "link": "https://web.archive.org/web/20190929005809/https://support.google.com/a/answer/7039472",
     "name": "G Suite Training",
     "type": "service"
@@ -1890,7 +1890,7 @@
   {
     "dateClose": "2016-04-01",
     "dateOpen": "2015-12-07",
-    "description": "uWeave (pronunciado \"micro weave\") era una implementación del protocolo Weave destinada para ser utilizada en dispositivos basados en microcontroladores.",
+    "description": "uWeave (pronunciato \"micro weave\") era un'implementazione del protocollo Weave destinata all'uso su dispositivi basati su microcontrollori.",
     "link": "https://weave.googlesource.com/weave/libweave/+log/master/third_party/libuweave",
     "name": "uWeave",
     "type": "app"
@@ -1898,7 +1898,7 @@
   {
     "dateClose": "2016-06-30",
     "dateOpen": "2013-11-01",
-    "description": "La tarjeta Google Wallet era una tarjeta de débito prepagada que permitía a los usuarios pagar en persona y en línea utilizando su saldo de Wallet en cualquier comercio que aceptara MasterCard.",
+    "description": "La Google Wallet Card era una carta di debito prepagata che permetteva agli utenti di pagare beni di persona e online utilizzando il saldo del loro Wallet presso qualsiasi rivenditore che accettava MasterCard.",
     "link": "https://www.androidauthority.com/google-wallet-cards-stop-working-june-30-683270/",
     "name": "Google Wallet Card",
     "type": "hardware"
@@ -1906,7 +1906,7 @@
   {
     "dateClose": "2021-12-31",
     "dateOpen": "2010-10-20",
-    "description": "AngularJS era un marco web de front-end de código abierto basado en JavaScript que utilizaba el patrón MVC y la técnica de inyección de dependencias.",
+    "description": "AngularJS era un framework web front-end open-source basato su JavaScript, che utilizzava il pattern MVC e la tecnica di injection delle dipendenze.",
     "link": "https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a",
     "name": "AngularJS",
     "type": "service"
@@ -1914,7 +1914,7 @@
   {
     "dateClose": "2019-12-31",
     "dateOpen": "2012-09-27",
-    "description": "Field Trip era una aplicación móvil que actuaba como una guía turística virtual al cruzar múltiples fuentes de información para proporcionar a los usuarios información sobre puntos de interés cercanos a ellos.",
+    "description": "Field Trip era un'applicazione mobile che fungeva da guida turistica virtuale incrociando diverse fonti di informazioni per fornire agli utenti informazioni sui punti di interesse vicini a loro.",
     "link": "https://en.wikipedia.org/wiki/Field_Trip_(application)",
     "name": "Field Trip",
     "type": "app"
@@ -1922,7 +1922,7 @@
   {
     "dateClose": "2020-07-31",
     "dateOpen": "2019-01-24",
-    "description": "Focals eran un producto de gafas inteligentes personalizadas con una pantalla transparente y holográfica que permitía a los usuarios leer y responder a mensajes de texto, navegar con indicaciones paso a paso, verificar el clima e integrarse con servicios de terceros como Uber y Amazon Alexa.",
+    "description": "I Focals erano un prodotto di occhiali intelligenti costruiti su misura con un display trasparente e olografico che permetteva agli utenti di leggere e rispondere ai messaggi di testo, navigare con indicazioni passo dopo passo, controllare il meteo e integrarsi con servizi di terze parti come Uber e Amazon Alexa.",
     "link": "https://techcrunch.com/2020/06/30/google-acquires-smart-glasses-company-north-whose-focals-2-0-wont-ship/",
     "name": "Focals by North",
     "type": "hardware"
@@ -1930,7 +1930,7 @@
   {
     "dateClose": "2019-07-05",
     "dateOpen": "2018-08-01",
-    "description": "Dragonfly era un motor de búsqueda diseñado para ser compatible con las disposiciones de censura estatal de China.",
+    "description": "Dragonfly era un motore di ricerca progettato per essere compatibile con le disposizioni sulla censura dello stato cinese.",
     "link": "https://en.wikipedia.org/wiki/Dragonfly_(search_engine)",
     "name": "Dragonfly",
     "type": "service"
@@ -1938,7 +1938,7 @@
   {
     "dateClose": "2012-04-20",
     "dateOpen": "2011-08-17",
-    "description": "Google Related fue introducido como un asistente de navegación experimental lanzado para ayudar a las personas a encontrar información útil e interesante mientras navegan por la web.",
+    "description": "Google Related è stato introdotto come assistente alla navigazione sperimentale lanciato per aiutare le persone a trovare informazioni utili e interessanti mentre navigano in rete.",
     "link": "https://googleblog.blogspot.com/2012/04/spring-cleaning-in-spring.html",
     "name": "Google Related",
     "type": "service"
@@ -1946,7 +1946,7 @@
   {
     "dateClose": "2020-02-04",
     "dateOpen": "2012-12-12",
-    "description": "Google Fiber TV era un servicio de IPTV que se ofrecía junto con Google Fiber.",
+    "description": "Google Fiber TV era un servizio IPTV incluso nel pacchetto Google Fiber.",
     "link": "https://www.theverge.com/2020/2/4/21123050/google-fiber-tv-package-removed-internet-service-high-speed",
     "name": "Google Fiber TV",
     "type": "service"
@@ -1954,7 +1954,7 @@
   {
     "dateClose": "2019-10-01",
     "dateOpen": "2013-11-21",
-    "description": "Message Center era una consola web donde los usuarios de Gmail podían ver y gestionar mensajes de correo no deseado.",
+    "description": "Message Center era una console web in cui gli utenti di Gmail potevano visualizzare e gestire i messaggi di posta elettronica indesiderata.",
     "link": "https://web.archive.org/web/20200806193905/https://support.google.com/a/answer/9275489",
     "name": "Message Center",
     "type": "service"
@@ -1962,7 +1962,7 @@
   {
     "dateClose": "2018-05-08",
     "dateOpen": "2013-11-20",
-    "description": "Google Play Newsstand era un servicio de agregador de noticias y quiosco digital de noticias.",
+    "description": "Google Play Newsstand era un servizio di aggregazione di notizie e edicola digitale.",
     "link": "https://en.wikipedia.org/wiki/Google_Play_Newsstand",
     "name": "Google Play Newsstand",
     "type": "app"
@@ -1970,7 +1970,7 @@
   {
     "dateClose": "2016-09-30",
     "dateOpen": "2015-08-20",
-    "description": "Together era una esfera de reloj para Android Wear que permitía a dos usuarios vincular sus relojes para compartir pequeños mensajes visuales.",
+    "description": "Insieme era un quadrante per Android Wear che permetteva a due utenti di collegare i loro orologi per condividere piccoli messaggi visivi.",
     "link": "http://web.archive.org/web/20160417063132/https://www.android.com/wear/together/",
     "name": "Together",
     "type": "app"
@@ -1978,7 +1978,7 @@
   {
     "dateClose": "2013-06-07",
     "dateOpen": "2011-07-11",
-    "description": "Punchd era una aplicación y servicio de tarjeta de fidelidad digital dirigido a pequeñas empresas que se originó como un proyecto estudiantil en Cal Poly en 2009 y fue adquirido por Google en 2011.",
+    "description": "Punchd era un'applicazione e servizio di carta fedeltà digitale rivolto alle piccole imprese che è nato come progetto studentesco a Cal Poly nel 2009 ed è stato acquisito da Google nel 2011.",
     "link": "http://getpunchd.com/",
     "name": "Punchd",
     "type": "service"
@@ -1986,7 +1986,7 @@
   {
     "dateClose": "2020-02-06",
     "dateOpen": "2011-02-08",
-    "description": "Androidify permitía a los usuarios crear un avatar personalizado de Android para ellos mismos y otros.",
+    "description": "Androidify permetteva agli utenti di creare un avatar personalizzato di Android per sé stessi e per gli altri.",
     "link": "https://9to5google.com/2020/02/06/google-removes-androidify-app/",
     "name": "Androidify",
     "type": "app"
@@ -1994,7 +1994,7 @@
   {
     "dateClose": "2020-12-01",
     "dateOpen": "2016-12-05",
-    "description": "Trusted Contacts era una aplicación que permitía a los usuarios compartir su ubicación y ver la ubicación de usuarios específicos.",
+    "description": "Trusted Contacts era un'app che permetteva agli utenti di condividere la propria posizione e visualizzare la posizione di utenti specifici.",
     "link": "https://arstechnica.com/gadgets/2020/10/google-shuts-down-trusted-contacts-its-emergency-location-sharing-app/",
     "name": "Trusted Contacts",
     "type": "app"
@@ -2002,7 +2002,7 @@
   {
     "dateClose": "2017-01-01",
     "dateOpen": "2010-03-03",
-    "description": "Google Gesture Search permitía a los usuarios buscar contactos, aplicaciones, ajustes, música y marcadores en su dispositivo Android dibujando letras o números en la pantalla.",
+    "description": "Google Gesture Search permetteva agli utenti di cercare contatti, applicazioni, impostazioni, musica e segnalibri sul loro dispositivo Android disegnando lettere o numeri sullo schermo.",
     "link": "https://en.wikipedia.org/wiki/Google_Gesture_Search",
     "name": "Gesture Search",
     "type": "app"
@@ -2010,7 +2010,7 @@
   {
     "dateClose": "2020-10-19",
     "dateOpen": "2017-11-15",
-    "description": "Nest Secure era un sistema de seguridad con una alarma, teclado y sensor de movimiento con un micrófono incorporado.",
+    "description": "Nest Secure era un sistema di sicurezza con un allarme, tastierino e sensore di movimento con microfono incorporato.",
     "link": "https://www.androidpolice.com/2020/10/19/google-confirms-the-nest-secure-has-been-discontinued/",
     "name": "Nest Secure",
     "type": "hardware"
@@ -2018,7 +2018,7 @@
   {
     "dateClose": "2021-06-30",
     "dateOpen": "2015-08-01",
-    "description": "Expeditions fue un programa para proporcionar experiencias de realidad virtual a las aulas escolares a través de visores de Google Cardboard, permitiendo a los educadores llevar a sus estudiantes en excursiones virtuales.",
+    "description": "Le spedizioni era un programma per fornire esperienze di realtà virtuale alle classi scolastiche attraverso i visori Google Cardboard, permettendo agli educatori di portare i loro studenti in gite virtuali.",
     "link": "https://en.wikipedia.org/wiki/Google_Expeditions",
     "name": "Expeditions",
     "type": "app"
@@ -2026,7 +2026,7 @@
   {
     "dateClose": "2020-12-11",
     "dateOpen": "2016-05-23",
-    "description": "Science Journal era una aplicación móvil que te ayudaba a realizar experimentos científicos con tu teléfono inteligente utilizando los sensores integrados del dispositivo.",
+    "description": "Science Journal era un'applicazione mobile che ti aiutava a eseguire esperimenti scientifici con il tuo smartphone utilizzando i sensori integrati nel dispositivo.",
     "link": "https://sciencejournal.withgoogle.com",
     "name": "Science Journal",
     "type": "app"
@@ -2034,7 +2034,7 @@
   {
     "dateClose": "2021-06-30",
     "dateOpen": "2018-05-09",
-    "description": "Tour Creator permitía a los usuarios crear recorridos inmersivos de 360° que podían ser visualizados con dispositivos de realidad virtual.",
+    "description": "Tour Creator ha permesso agli utenti di creare tour guidati immersivi a 360° che potevano essere visualizzati con dispositivi VR.",
     "link": "https://www.theverge.com/2020/11/13/21564279/google-expeditions-vr-cardboard-tours-shutdown-arts-culture-app-migration",
     "name": "Tour Creator",
     "type": "app"
@@ -2042,7 +2042,7 @@
   {
     "dateClose": "2019-11-07",
     "dateOpen": "2019-06-13",
-    "description": "Game Builder era un entorno de juego en 3D multijugador para crear nuevos juegos sin experiencia en programación.",
+    "description": "Game Builder era un ambiente di gioco multiplayer in 3D per creare nuovi giochi senza esperienza di codifica.",
     "link": "https://steamcommunity.com/games/929860/announcements/detail/1608276251516057010",
     "name": "Game Builder",
     "type": "app"
@@ -2050,7 +2050,7 @@
   {
     "dateClose": "2021-06-30",
     "dateOpen": "2017-11-01",
-    "description": "Poly era una plataforma de distribución para creadores para compartir objetos en 3D.",
+    "description": "Poly era una piattaforma di distribuzione per creatori per condividere oggetti in 3D.",
     "link": "https://web.archive.org/web/20201202153708/https://support.google.com/poly/answer/10192635",
     "name": "Poly",
     "type": "service"
@@ -2058,7 +2058,7 @@
   {
     "dateClose": "2020-12-14",
     "dateOpen": "2017-12-11",
-    "description": "Google Home Max era un altavoz inteligente estéreo grande con dos tweeters y subwoofers, entrada auxiliar y una entrada USB-C (para ethernet cableado) que incluía la tecnología de aprendizaje automático Smart Sound.",
+    "description": "Google Home Max era un grande altoparlante stereo intelligente con due tweeter e subwoofer, ingresso aux e un ingresso USB-C (per ethernet cablata) dotato di tecnologia Smart Sound machine learning.",
     "link": "https://9to5google.com/2020/12/14/google-home-max-discontinued/",
     "name": "Google Home Max",
     "type": "hardware"
@@ -2066,7 +2066,7 @@
   {
     "dateClose": "2021-05-31",
     "dateOpen": "2013-08-18",
-    "description": "Timely Alarm Clock era una aplicación de Android que proporcionaba una funcionalidad de alarma, cronómetro y temporizador con sincronización entre dispositivos.",
+    "description": "Timely Alarm Clock era un'applicazione Android che forniva una funzionalità di sveglia, cronometro e timer con sincronizzazione tra dispositivi.",
     "link": "http://www.bitspin.ch/google",
     "name": "Timely",
     "type": "app"
@@ -2074,7 +2074,7 @@
   {
     "dateClose": "2021-01-22",
     "dateOpen": "2014-06-14",
-    "description": "Loon era un servicio para proporcionar acceso a internet a través de una serie de globos de gran altitud que se encontraban en la estratosfera de la Tierra.",
+    "description": "Loon era un servizio per fornire accesso a internet tramite un'array di palloni ad alta quota che si trovavano nella stratosfera terrestre.",
     "link": "https://www.theverge.com/2021/1/21/22243484/alphabet-google-shutting-down-loon-internet-balloon-company-x",
     "name": "Loon",
     "type": "service"
@@ -2082,7 +2082,7 @@
   {
     "dateClose": "2021-02-12",
     "dateOpen": "2018-04-22",
-    "description": "Swift for TensorFlow (S4TF) fue una plataforma de próxima generación para el aprendizaje automático con un enfoque en la programación diferenciable.",
+    "description": "Swift for TensorFlow (S4TF) era una piattaforma di prossima generazione per l'apprendimento automatico con un focus sulla programmazione differenziabile.",
     "link": "https://github.com/tensorflow/swift",
     "name": "Swift for TensorFlow",
     "type": "service"
@@ -2090,7 +2090,7 @@
   {
     "dateClose": "2021-09-30",
     "dateOpen": "2005-10-10",
-    "description": "Google Bookmarks era un servicio de marcadores basado en la web privado que no estaba integrado con ningún otro servicio de Google.",
+    "description": "Google Bookmarks era un servizio di segnalibri basato sul web privato non integrato con altri servizi Google.",
     "link": "https://en.wikipedia.org/wiki/Google_Bookmarks",
     "name": "Google Bookmarks",
     "type": "service"
@@ -2098,7 +2098,7 @@
   {
     "dateClose": "2021-12-16",
     "dateOpen": "2018-05-08",
-    "description": "Material Gallery fue una herramienta de colaboración para diseñadores de interfaz de usuario, optimizada para el Material Design de Google, con aplicaciones de vista previa móvil y un complemento para Sketch.",
+    "description": "Material Gallery era uno strumento di collaborazione per designer UI, ottimizzato per il Material Design di Google, con app di anteprima mobile e un plugin per Sketch.",
     "link": "https://web.archive.org/web/20230706151910/https://support.google.com/materialgallery/answer/11044972",
     "name": "Material Gallery",
     "type": "service"
@@ -2106,7 +2106,7 @@
   {
     "dateClose": "2022-05-01",
     "dateOpen": "2006-08-28",
-    "description": "G Suite (Legacy Free Edition) era una oferta gratuita que incluía algunos de los servicios de la suite de productividad de Google.",
+    "description": "G Suite (Legacy Free Edition) era un livello gratuito che offriva alcuni dei servizi inclusi nella suite di produttività di Google.",
     "link": "https://9to5google.com/2022/01/19/g-suite-legacy-free-edition/",
     "name": "G Suite (Legacy Free Edition)",
     "type": "service"
@@ -2114,7 +2114,7 @@
   {
     "dateClose": "2021-10-01",
     "dateOpen": "2017-07-01",
-    "description": "Backup and Sync era una herramienta de software de escritorio para Windows y macOS que permitía a los usuarios sincronizar archivos desde Google Drive a su computadora local.",
+    "description": "Backup and Sync era un software desktop per Windows e macOS che consentiva agli utenti di sincronizzare i file da Google Drive al proprio computer locale.",
     "link": "https://9to5google.com/2021/02/04/google-drive-for-desktop-replace/",
     "name": "Backup and Sync",
     "type": "app"
@@ -2122,7 +2122,7 @@
   {
     "dateClose": "2021-12-31",
     "dateOpen": "2017-12-01",
-    "description": "Streams era una \"aplicación de apoyo clínico\" que tenía como objetivo mejorar la toma de decisiones clínicas y la seguridad del paciente en hospitales del Reino Unido.",
+    "description": "Streams era un \"clinician support app\" che mirava a migliorare la presa di decisioni cliniche e la sicurezza dei pazienti negli ospedali del Regno Unito.",
     "link": "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/",
     "name": "Streams",
     "type": "app"
@@ -2130,7 +2130,7 @@
   {
     "dateClose": "2022-12-31",
     "dateOpen": "2016-09-01",
-    "description": "YouTube Originals era una variedad de contenido original que incluía series de guion, videos educativos y programación de música y celebridades.",
+    "description": "YouTube Originals era una varietà di contenuti originali tra cui serie sceneggiate, video educativi e programmi musicali e di celebrità.",
     "link": "https://arstechnica.com/gadgets/2022/01/google-kills-youtube-originals-its-original-video-content-group/",
     "name": "YouTube Originals",
     "type": "service"
@@ -2138,7 +2138,7 @@
   {
     "dateClose": "2021-11-05",
     "dateOpen": "2019-11-19",
-    "description": "Tu Actualización de Noticias era un servicio que ofrecía un resumen auditivo de una mezcla de noticias cortas elegidas en ese momento en función de los intereses del usuario, ubicación, historial del usuario y preferencias, así como las principales noticias del momento.",
+    "description": "Il tuo aggiornamento notizie era un servizio che offriva un riepilogo audio di una miscela di brevi storie di attualità scelte in quel momento in base agli interessi dell'utente, alla sua posizione, alla sua cronologia e preferenze, nonché alle principali notizie del momento.",
     "link": "https://9to5google.com/2021/11/05/google-assistant-your-news-update/",
     "name": "Your News Update",
     "type": "service"
@@ -2148,7 +2148,7 @@
     "dateOpen": "2007-04-04",
     "dateClose": "2018-11-30",
     "link": "https://en.wikipedia.org/wiki/Google_Pinyin",
-    "description": "Google Pinyin IME era un método de entrada que permitía a los usuarios en múltiples sistemas operativos introducir caracteres a partir de pinyin, la romanización del chino mandarín estándar.",
+    "description": "Google Pinyin IME era un metodo di input che permetteva agli utenti su diversi sistemi operativi di inserire caratteri dal pinyin, la romanizzazione del cinese mandarino standard.",
     "type": "service"
   },
   {
@@ -2156,7 +2156,7 @@
     "dateOpen": "2018-06-15",
     "dateClose": "2021-07-31",
     "link": "https://ubunlog.com/en/vr180-creator-edito-videovr/",
-    "description": "VR180 Creator permitió a los usuarios editar videos tomados en dispositivos de 180 grados y 360 grados en múltiples sistemas operativos.",
+    "description": "Il creatore VR180 ha permesso agli utenti di modificare video realizzati con dispositivi a 180 gradi e 360 gradi su diversi sistemi operativi.",
     "type": "app"
   },
   {
@@ -2164,7 +2164,7 @@
     "dateOpen": "2008-02-28",
     "dateClose": "2021-11-30",
     "link": "https://en.wikipedia.org/wiki/Google_Sites",
-    "description": "Google Sites (Classic) permitía a los usuarios construir y editar sitios web y portales wiki para uso privado y público.",
+    "description": "Google Sites (Classic) permetteva agli utenti di creare e modificare siti web e portali wiki per uso privato e pubblico.",
     "type": "service"
   },
   {
@@ -2172,7 +2172,7 @@
     "dateOpen": "2017-12-11",
     "dateClose": "2020-08-20",
     "link": "https://www.xda-developers.com/google-no-longer-offer-playground-ar-stickers-future-pixel-phones-starting-pixel-4a/",
-    "description": "Playground AR (también conocido como AR Stickers) permitía a los usuarios colocar personajes y objetos virtuales en realidad aumentada a través de la aplicación de la cámara en teléfonos Pixel.",
+    "description": "Il Playground AR (alias AR Stickers) permetteva agli utenti di posizionare personaggi e oggetti virtuali in realtà aumentata tramite l'app Fotocamera sui telefoni Pixel.",
     "type": "app"
   },
   {
@@ -2180,7 +2180,7 @@
     "dateOpen": "2011-02-01",
     "dateClose": "2019-08-01",
     "link": "https://searchengineland.com/google-finally-discontinues-the-blocked-sites-feature-152885",
-    "description": "Personal Blocklist era una extensión web de Chrome de Google que permitía a los usuarios bloquear ciertos sitios web para que no aparecieran en los resultados de búsqueda de Google.",
+    "description": "Personal Blocklist era un'estensione Web di Chrome di Google che permetteva agli utenti di bloccare determinati siti web in modo che non comparissero nei risultati di ricerca di Google.",
     "type": "service"
   },
   {
@@ -2188,7 +2188,7 @@
     "dateOpen": "2013-07-31",
     "dateClose": "2019-12-31",
     "link": "https://9to5google.com/2019/07/15/google-killing-adsense-apps/",
-    "description": "AdSense (aplicación móvil) permitía a los usuarios gestionar sus cuentas de AdSense en una aplicación nativa para iOS y Android.",
+    "description": "AdSense (app mobile) permetteva agli utenti di gestire i propri account AdSense tramite un'app nativa per iOS e Android.",
     "type": "app"
   },
   {
@@ -2196,7 +2196,7 @@
     "dateOpen": "2012-06-26",
     "dateClose": "2015-03-20",
     "link": "https://www.ign.com/articles/2015/01/28/sony-to-end-ps-vita-support-for-maps-near-and-youtube",
-    "description": "YouTube para PlayStation Vita era una aplicación nativa de navegación y visualización de YouTube para las consolas de juegos PS Vita y PSTV.",
+    "description": "YouTube per PlayStation Vita era un'applicazione nativa per la navigazione e la visualizzazione di YouTube per le console di gioco PS Vita e PSTV.",
     "type": "app"
   },
   {
@@ -2204,7 +2204,7 @@
     "dateOpen": "2012-05-16",
     "dateClose": "2021-07-31",
     "link": "https://www.seroundtable.com/google-posts-knowledge-panels-discontinued-31755.html",
-    "description": "Las publicaciones en Google permitían a individuos destacados con paneles de conocimiento autorizar contenido específico que aparecería en los resultados de búsqueda de Google.",
+    "description": "I post su Google hanno permesso a persone di spicco con pannelli di conoscenza di creare contenuti specifici che apparirebbero nei risultati di ricerca di Google.",
     "type": "service"
   },
   {
@@ -2212,7 +2212,7 @@
     "dateOpen": "2016-01-01",
     "dateClose": "2020-09-28",
     "link": "https://www.engadget.com/youtube-community-contributions-saying-goodbye-141205281.html",
-    "description": "Las Contribuciones de la Comunidad de YouTube permitían a los usuarios contribuir con traducciones para los títulos de los videos o enviar descripciones, subtítulos o leyendas en el contenido de YouTube.",
+    "description": "Le Contributi della Community di YouTube permettevano agli utenti di contribuire con traduzioni per i titoli dei video o inviare descrizioni, sottotitoli o didascalie per i contenuti su YouTube.",
     "type": "service"
   },
   {
@@ -2220,7 +2220,7 @@
     "dateOpen": "2019-04-10",
     "dateClose": "2023-03-31",
     "link": "https://www.theverge.com/2022/2/10/22928042/google-plus-replacement-wind-down-currents-spaces",
-    "description": "Google Currents era un servicio que ofrecía funciones de redes sociales similares a Google+ para los clientes de Google Workspace.",
+    "description": "Google Currents era un servizio che forniva funzionalità di social media simili a Google+ per i clienti di Google Workspace.",
     "type": "service"
   },
   {
@@ -2228,7 +2228,7 @@
     "dateOpen": "2018-07-17",
     "dateClose": "2022-04-13",
     "link": "https://www.droid-life.com/2022/03/03/googles-assistant-snapshot-is-going-away/",
-    "description": "Google Assistant Snapshot fue el sucesor de Google Now que proporcionaba tarjetas predictivas con información y actualizaciones diarias en la aplicación de Google para Android e iOS.",
+    "description": "Google Assistant Snapshot è stato il successore di Google Now che forniva carte predittive con informazioni e aggiornamenti giornalieri nell'app Google per Android e iOS.",
     "type": "service"
   },
   {
@@ -2236,7 +2236,7 @@
     "dateOpen": "2010-05-31",
     "dateClose": "2018-04-30",
     "link": "https://www.infoq.com/news/2017/06/google-drops-prediction-api/",
-    "description": "Google Cloud Prediction API era una plataforma como servicio (PaaS) para funcionalidades de aprendizaje automático (ML) que ayudaba a los desarrolladores a construir modelos de ML para crear características de aplicaciones como sistemas de recomendación, detección de spam y predicción de compras.",
+    "description": "Google Cloud Prediction API era una piattaforma come servizio (PaaS) per la funzionalità di machine learning (ML) che aiutava gli sviluppatori a creare modelli di ML per creare funzionalità dell'applicazione come sistemi di raccomandazione, rilevamento dello spam e previsione degli acquisti.",
     "type": "service"
   },
   {
@@ -2244,7 +2244,7 @@
     "dateOpen": "2016-10-04",
     "dateClose": "2023-06-13",
     "link": "https://web.archive.org/web/20230430231035/https://developers.google.com/assistant/conversational/overview",
-    "description": "Conversational Actions amplió la funcionalidad de Google Assistant al permitir que desarrolladores de terceros crearan experiencias personalizadas, o conversaciones, para los usuarios de Google Assistant.",
+    "description": "Le Azioni di Conversazione hanno esteso la funzionalità di Google Assistant permettendo ai developer di terze parti di creare esperienze personalizzate, o conversazioni, per gli utenti di Google Assistant.",
     "type": "service"
   },
   {
@@ -2252,7 +2252,7 @@
     "dateOpen": "2019-08-15",
     "dateClose": "2022-06-30",
     "link": "https://www2.staffingindustry.com/row/Editorial/Daily-News/Asia-Google-shuts-down-its-Kormo-jobs-site-in-Asia-62393",
-    "description": "Kormo Jobs era una aplicación que permitía a los usuarios, principalmente en India, Indonesia y Bangladesh, encontrar trabajos cercanos que se ajustaran a sus habilidades e intereses.",
+    "description": "Kormo Jobs era un'app che permetteva agli utenti principalmente in India, Indonesia e Bangladesh di trovare lavori nelle vicinanze che corrispondessero alle loro abilità e interessi.",
     "type": "app"
   },
   {
@@ -2260,7 +2260,7 @@
     "dateOpen": "2013-05-15",
     "dateClose": "2022-11-30",
     "link": "https://arstechnica.com/gadgets/2022/06/google-hangouts-finally-gets-a-shutdown-date-november-2022/",
-    "description": "Google Hangouts era un servicio de mensajería instantánea multiplataforma.",
+    "description": "Google Hangouts era un servizio di messaggistica istantanea multipiattaforma.",
     "type": "service"
   },
   {
@@ -2268,7 +2268,7 @@
     "dateOpen": "2018-02-21",
     "dateClose": "2023-08-16",
     "link": "https://www.iotworldtoday.com/2022/08/23/google-cloud-to-shut-down-iot-core-service/",
-    "description": "Google Cloud IoT Core era un servicio gestionado diseñado para permitir a los clientes conectar de forma segura, administrar e ingresar datos de dispositivos dispersos globalmente.",
+    "description": "Google Cloud IoT Core era un servizio gestito progettato per consentire ai clienti di connettersi, gestire e acquisire dati in modo sicuro da dispositivi dispersi globalmente.",
     "type": "service"
   },
   {
@@ -2276,7 +2276,7 @@
     "dateOpen": "2021-03-18",
     "dateClose": "2022-12-19",
     "link": "https://9to5google.com/2022/10/19/google-workspace-threadit/",
-    "description": "Threadit era una herramienta para grabar y compartir videos cortos.",
+    "description": "Threadit era uno strumento per registrare e condividere brevi video.",
     "type": "app"
   },
   {
@@ -2284,7 +2284,7 @@
     "dateOpen": "2019-05-07",
     "dateClose": "2022-12-01",
     "link": "https://techcrunch.com/2022/12/02/google-shuts-down-duplex-on-the-web-its-attempt-to-bring-ai-smarts-to-retail-sites-and-more/",
-    "description": "Duplex on the Web fue una tecnología de Google Assistant que automatizaba tareas en la web en nombre de un usuario; como reservar boletos de cine o hacer reservas en restaurantes.",
+    "description": "Duplex on the Web era una tecnologia di Google Assistant che automatizzava compiti sul web per conto dell'utente; come prenotare biglietti per il cinema o effettuare prenotazioni in ristoranti.",
     "type": "service"
   },
   {
@@ -2292,7 +2292,7 @@
     "dateOpen": "2015-05-29",
     "dateClose": "2021-04-20",
     "link": "http://polymer-project.org",
-    "description": "Polymer era una biblioteca de JS de código abierto para componentes web.",
+    "description": "Polymer era una libreria JS open-source per i componenti web.",
     "type": "service"
   },
   {
@@ -2300,7 +2300,7 @@
     "dateOpen": "2014-01-28",
     "dateClose": "2017-01-31",
     "link": "https://brickipedia.fandom.com/wiki/Build_with_Chrome",
-    "description": "Build with Chrome fue una colaboración entre Chrome y el Grupo LEGO que permitió a los usuarios construir y publicar creaciones de LEGO en cualquier parcela digital del mundo a través de Google Maps.",
+    "description": "Build with Chrome è stata una collaborazione tra Chrome e il Gruppo LEGO che ha permesso agli utenti di costruire e pubblicare creazioni LEGO su qualsiasi terreno digitale nel mondo attraverso Google Maps.",
     "type": "service"
   },
   {
@@ -2308,7 +2308,7 @@
     "dateOpen": "2010-09-09",
     "dateClose": "2023-03-21",
     "link": "https://9to5google.com/2022/11/01/google-street-view-app-shutting-down/",
-    "description": "La aplicación Google Street View era una aplicación para Android e iOS que permitía a las personas obtener una vista de 360 grados de ubicaciones en todo el mundo.",
+    "description": "L'app Google Street View era un'app per Android e iOS che permetteva alle persone di ottenere una vista a 360 gradi di luoghi in tutto il mondo.",
     "type": "app"
   },
   {
@@ -2316,7 +2316,7 @@
     "dateOpen": "2012-06-01",
     "dateClose": "2023-09-30",
     "link": "https://web.archive.org/web/20230120214459/https://support.google.com/optimize/answer/12979939",
-    "description": "Google Optimize era una herramienta de análisis web y pruebas que permitía a los usuarios realizar experimentos con el objetivo de aumentar las tasas de conversión de visitantes y la satisfacción general.",
+    "description": "Google Optimize era uno strumento di analisi e test web che consentiva agli utenti di eseguire esperimenti mirati a aumentare i tassi di conversione dei visitatori e la soddisfazione complessiva.",
     "type": "service"
   },
   {
@@ -2324,7 +2324,7 @@
     "dateOpen": "2018-04-18",
     "dateClose": "2023-06-15",
     "link": "https://www.androidpolice.com/google-grasshopper-code-learning-shut-down-date-revealed/",
-    "description": "Grasshopper era una aplicación móvil y web gratuita para programadores principiantes que enseñaba JavaScript introductorio y fundamentos de codificación utilizando rompecabezas divertidos y de tamaño reducido.",
+    "description": "Grasshopper era un'app mobile e web gratuita per aspiranti programmatori che insegnava JavaScript introduttivo e fondamenti di codifica utilizzando divertenti rompicapi di piccole dimensioni.",
     "type": "app"
   },
   {
@@ -2332,7 +2332,7 @@
     "dateOpen": "2021-10-28",
     "dateClose": "2023-08-29",
     "link": "https://www.theverge.com/2023/8/30/23851107/google-graveyard-pixel-pass-subscription-phone-upgrades",
-    "description": "Pixel Pass era un programa que permitía a los usuarios pagar un cargo mensual por su teléfono Pixel y actualizarlo inmediatamente después de dos años.",
+    "description": "Pixel Pass era un programma che permetteva agli utenti di pagare una tariffa mensile per il loro telefono Pixel e di effettuare un aggiornamento immediatamente dopo due anni.",
     "type": "service"
   },
   {
@@ -2340,7 +2340,7 @@
     "dateOpen": "2018-06-18",
     "dateClose": "2024-04-02",
     "link": "https://9to5google.com/2023/09/26/google-podcasts-youtube-music/",
-    "description": "Google Podcasts era una plataforma de alojamiento de podcasts y una aplicación para escuchar podcasts en Android.",
+    "description": "Google Podcasts era una piattaforma di hosting di podcast e un'app per ascoltare podcast su Android.",
     "type": "app"
   },
   {
@@ -2348,7 +2348,7 @@
     "dateOpen": "2017-05-23",
     "dateClose": "2024-09-30",
     "link": "https://9to5google.com/2023/09/28/google-jamboard/",
-    "description": "Jamboard era un dispositivo digital de pizarra blanca con pantalla táctil 4K que permitía colaborar utilizando los servicios de Google Workspace.",
+    "description": "Jamboard era un dispositivo lavagna digitale touchscreen 4K che permetteva di collaborare utilizzando i servizi di Google Workspace.",
     "type": "hardware"
   },
   {
@@ -2356,7 +2356,7 @@
     "dateOpen": "2016-10-25",
     "dateClose": "2024-12-31",
     "link": "https://9to5google.com/2023/09/28/google-jamboard/",
-    "description": "Google Jamboard era una aplicación de pizarra web y nativa que ofrecía una experiencia colaborativa enriquecedora.",
+    "description": "Google Jamboard era un'applicazione lavagna web e nativa che offriva un'esperienza collaborativa ricca.",
     "type": "app"
   },
   {
@@ -2364,7 +2364,7 @@
     "dateOpen": "2020-06-18",
     "dateClose": "2024-03-24",
     "link": "https://www.androidpolice.com/google-keen-shutdown-area-120-experiment/",
-    "description": "Keen era una plataforma al estilo de Pinterest con recomendaciones de ML.",
+    "description": "Keen era una piattaforma simile a Pinterest con raccomandazioni di ML.",
     "type": "app"
   }
 ]

@@ -1,0 +1,2370 @@
+[
+  {
+    "name": "Chromecast",
+    "dateOpen": "2013-07-24",
+    "dateClose": "2024-08-06",
+    "link": "https://www.theverge.com/2024/8/6/24214471/google-chromecast-line-discontinued",
+    "description": "كان Chromecast سلسلة من مشغلات الوسائط الرقمية التي سمحت للمستخدمين بتشغيل المحتوى عبر الإنترنت على التلفزيون.",
+    "type": "hardware"
+  },
+  {
+    "name": "VPN by Google One",
+    "dateClose": "2024-06-20",
+    "dateOpen": "2020-10-29",
+    "description": "كانت خدمة VPN التي قدمتها Google One خدمة شبكة خاصة افتراضية توفر للمستخدمين نقل بياناتهم ونشاط شبكتهم بتشفيرها وتسمح لهم بإخفاء عنوان IP الخاص بهم.",
+    "link": "https://9to5google.com/2024/04/11/google-one-vpn-discontinued/",
+    "type": "service"
+  },
+  {
+    "dateClose": "2023-06-26",
+    "dateOpen": "2017-11-29",
+    "description": "سمحت قصص يوتيوب (المعروفة أصلا بـ لفتات يوتيوب) للمبدعين بنشر مقاطع فيديو مؤقتة ستنتهي صلاحيتها بعد سبعة أيام.",
+    "link": "https://www.theverge.com/2023/5/25/23736246/youtube-ending-stories-shorts-community-posts",
+    "name": "YouTube Stories",
+    "type": "service"
+  },
+  {
+    "dateClose": "2023-07-19",
+    "dateOpen": "2016-08-05",
+    "description": "كان Google Album Archive منصة تسمح للمستخدمين بالوصول إلى صورهم ومقاطع الفيديو المؤرشفة وإدارتها من خدمات Google المختلفة، مثل Hangouts وPicasa Web Albums.",
+    "link": "https://cordcuttersnews.com/google-is-shutting-down-album-archive/",
+    "name": "Google Album Archive",
+    "type": "service"
+  },
+  {
+    "dateClose": "2023-09-30",
+    "dateOpen": "2014-06-13",
+    "description": "كانت Google Domains مسجل نطاقات يديرها Google.",
+    "link": "https://9to5google.com/2023/06/15/google-domains-squarespace/",
+    "name": "Google Domains",
+    "type": "service"
+  },
+  {
+    "dateClose": "2023-03-17",
+    "dateOpen": "2014-01-01",
+    "description": "كان جاكارد علامة صغيرة لتسهيل التفاعل وجعله أكثر بديهية للناس مع التكنولوجيا في حياتهم اليومية، دون الحاجة المستمرة إلى سحب أجهزتهم أو لمس الشاشات.",
+    "link": "https://www.androidpolice.com/google-project-jacquard-shutting-down/",
+    "name": "Jacquard",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2022-11-01",
+    "dateOpen": "2012-03-29",
+    "description": "كانت استطلاعات Google منتجًا تجاريًا من Google يهدف إلى تسهيل أبحاث السوق المخصصة.",
+    "link": "https://www.searchenginejournal.com/google-surveys-is-shutting-down/465287/",
+    "name": "Google Surveys",
+    "type": "service"
+  },
+  {
+    "dateClose": "2023-02-23",
+    "dateOpen": "2003-10-01",
+    "description": "كانت Google Code Jam و Kick Start و Hash Code منافسات برمجة تنافسية مفتوحة للمبرمجين في جميع أنحاء العالم.",
+    "link": "https://en.wikipedia.org/wiki/Google_Code_Jam",
+    "name": "Google Code Competitions",
+    "type": "service"
+  },
+  {
+    "dateClose": "2023-01-18",
+    "dateOpen": "2019-11-19",
+    "description": "كان Google Stadia خدمة ألعاب سحابية تجمع بين وحدة تحكم لاسلكية للألعاب وتسمح للمستخدمين ببث الألعاب عبر متصفح الويب والتلفزيون وتطبيقات الهواتف المحمولة وجهاز Chromecast.",
+    "link": "https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023/",
+    "name": "Google Stadia",
+    "type": "service"
+  },
+  {
+    "dateClose": "2022-06-01",
+    "dateOpen": "2016-08-16",
+    "description": "كان Google Duo تطبيقًا للمكالمات الفيديوية يسمح للأشخاص بالاتصال بشخص ما من قائمة جهات الاتصال الخاصة بهم.",
+    "link": "https://en.wikipedia.org/wiki/Google_Duo",
+    "name": "Google Duo",
+    "type": "service"
+  },
+  {
+    "dateClose": "2022-06-21",
+    "dateOpen": "2019-11-04",
+    "description": "أندرويد أوتو لشاشات الهواتف كان تطبيقًا يسمح باستخدام شاشة الهاتف كواجهة أندرويد أوتو أثناء القيادة، مخصص للمركبات التي لا تحتوي على شاشة متوافقة مدمجة.",
+    "link": "https://www.androidpolice.com/google-kills-android-auto-for-phone-screens/",
+    "name": "Android Auto for phone screens",
+    "type": "app"
+  },
+  {
+    "dateClose": "2022-07-31",
+    "dateOpen": "2018-11-18",
+    "description": "كان Google My Business تطبيق يسمح للشركات بإدارة ملفاتها الشخصية على خرائط Google Business.",
+    "link": "https://rizenmetrics.com/news-google-my-business-app-will-be-replaced/",
+    "name": "Google My Business (app)",
+    "type": "app"
+  },
+  {
+    "dateClose": "2022-02-17",
+    "dateOpen": "2018-08-19",
+    "description": "سمحت Cameos on Google للمشاهير والشخصيات العامة الأخرى بتسجيل ردود فيديو على الأسئلة الأكثر شيوعًا التي يتم طرحها حولهم والتي ستُعرض للمستخدمين في نتائج البحث على Google.",
+    "link": "https://techcrunch.com/2018/08/09/google-launches-cameos-a-video-qa-app-aimed-at-celebs/",
+    "name": "Cameos on Google",
+    "type": "service"
+  },
+  {
+    "dateClose": "2022-08-09",
+    "dateOpen": "2017-02-15",
+    "description": "كان تطبيق YouTube Go مصممًا لجعل الوصول إلى YouTube أسهل على الأجهزة المحمولة في الأسواق الناشئة من خلال ميزات خاصة مثل تحميل الفيديو عبر الواي فاي لمشاهدته لاحقًا.",
+    "link": "https://9to5google.com/2022/05/03/youtube-go-shutting-down/",
+    "name": "YouTube Go",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-04-23",
+    "dateOpen": "2014-11-20",
+    "description": "كان Google Contributor برنامج يديره Google يسمح لمستخدمي الشبكة الخاصة بـ Google للمواقع الإلكترونية بعرض المواقع دون أي إعلانات تديرها وتصنفها وتحافظ عليها Google.",
+    "link": "https://en.wikipedia.org/wiki/Google_Contributor",
+    "name": "Google Contributor",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-02-21",
+    "dateOpen": "2012-06-21",
+    "description": "كان Google Maps Coordinate خدمة لإدارة القوى العاملة المتنقلة بمساعدة تطبيقات الهواتف المحمولة ولوحة تحكم مبنية على الويب.",
+    "link": "https://techcrunch.com/2015/01/21/google-shuts-down-maps-coordinate-its-mobile-workforce-management-service/",
+    "name": "Google Maps Coordinate",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-07-30",
+    "dateOpen": "2013-07-01",
+    "description": "تطبيق Fitbit Coach (السابق Fitstar) كان تطبيق تمارين الوزن الجسدي القائم على الفيديو الذي استخدم الذكاء الاصطناعي لتخصيص التمارين بناءً على تغذية ردود المستخدمين.",
+    "link": "https://help.fitbit.com/articles/en_US/Help_article/2279.htm",
+    "name": "Fitbit Coach",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-07-30",
+    "dateOpen": "2014-09-01",
+    "description": "كان تطبيق Fitstar Yoga تطبيقًا لليوغا قائمًا على الفيديو يقوم بإنشاء جلسات يوغا فريدة استنادًا إلى تفضيلات المستخدم ومستوى مهارته.",
+    "link": "https://help.fitbit.com/articles/en_US/Help_article/2279.htm#FitStarY",
+    "name": "Fitstar Yoga",
+    "type": "app"
+  },
+  {
+    "dateClose": "2023-01-11",
+    "dateOpen": "2015-08-31",
+    "description": "كان Google OnHub سلسلة من أجهزة توجيه لاسلكية للمنازل تم تصنيعها بواسطة Asus و TP-Link وكانت تعمل ببرامج Google وتُدار بواسطة تطبيقات Google، وكانت تقدم ميزات خاصة محسنة مثل Google Assistant.",
+    "link": "https://en.wikipedia.org/wiki/Google_OnHub",
+    "name": "Google OnHub",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2021-09-27",
+    "dateOpen": "2017-11-01",
+    "description": "منصة تحليلات للروبوت الدردشة Dialogflow التابعة لشركة Google وغيرها، بدأت من قبل حاضنة Area120 الممولة من قبل Google ثم تم إيقافها ودمج جزئيا في Dialogflow نفسه.",
+    "link": "https://web.archive.org/web/20210701153646/https://chatbase.com/documentation/docs-overview",
+    "name": "Chatbase",
+    "type": "service"
+  },
+  {
+    "dateClose": "2024-04-08",
+    "dateOpen": "2009-01-15",
+    "description": "كانت Dropcam سلسلة من كاميرات البث المباشر عبر الواي فاي التي تم استحواذ عليها من قبل جوجل في عام 2014.",
+    "link": "https://en.wikipedia.org/wiki/Dropcam",
+    "name": "DropCam",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2021-12-11",
+    "dateOpen": "2000-12-11",
+    "description": "كان شريط أدوات Google شريط أدوات متصفح الويب الذي قدم مربع بحث في متصفحات الويب مثل إنترنت إكسبلورر وفايرفوكس.",
+    "link": "https://en.wikipedia.org/wiki/Google_Toolbar",
+    "name": "Google Toolbar",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-10-15",
+    "dateOpen": "2014-10-31",
+    "description": "كان تطبيق My Maps تطبيقًا لنظام التشغيل أندرويد يمكن المستخدمين من إنشاء خرائط مخصصة للاستخدام الشخصي أو مشاركتها على جهازهم المحمول.",
+    "link": "https://9to5google.com/2021/07/20/google-my-maps-android-shutdown/",
+    "name": "Google My Maps",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-06-01",
+    "dateOpen": "2014-08-26",
+    "description": "كانت Zync render منصة عمليات الرندر السحابية للرسوم المتحركة والتأثيرات البصرية.",
+    "link": "https://www.reddit.com/r/vfx/comments/gur4lc/zync_render_will_shut_down_june_1_2021/",
+    "name": "Zync Render",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-07-01",
+    "dateOpen": "2009-11-05",
+    "description": "كانت خدمة بحث Google Commerce Search خدمة بحث مؤسسي تشغل متاجر التجزئة عبر الإنترنت ومواقع التجارة الإلكترونية التي تعزز السرعة والدقة.",
+    "link": "https://techcrunch.com/2012/07/03/google-shutdowns-continue-igoogle-google-video-google-mini-others-are-killed/",
+    "name": "Google Commerce Search",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-04-09",
+    "dateOpen": "2019-05-14",
+    "description": "تطبيق Google Shopping Mobile، الذي امتص تطبيق Google Express عند إطلاقه، قدم تجربة تسوق أصلية مع صفحة رئيسية شخصية لمستخدمي الهواتف المحمولة. تمت إحالته الآن للتقاعد وتواصل الوظائف في علامة التسوق.",
+    "link": "https://9to5google.com/2021/04/09/google-shopping-app/",
+    "name": "Google Shopping Mobile App",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-06-15",
+    "dateOpen": "2011-05-10",
+    "description": "تم تحويل تطبيق Google Play Movies & TV، الذي كان في الأصل تطبيق Google TV، إلى تطبيق يُستخدم لعرض الوسائط المشتراة والمستأجرة وتم استبداله في النهاية بتطبيق YouTube.",
+    "link": "https://en.wikipedia.org/wiki/Google_TV_(service)",
+    "name": "Google Play Movies & TV",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-04-01",
+    "dateOpen": "2012-10-30",
+    "description": "كانت Google Public Alerts خدمة إشعارات عبر الإنترنت تمتلكها Google.org تُرسل إنذارات السلامة إلى مختلف الدول.",
+    "link": "https://en.wikipedia.org/wiki/Google_Public_Alerts",
+    "name": "Google Public Alerts",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-03-31",
+    "dateOpen": "2010-01-01",
+    "description": "(المعروف أيضًا باسم روابط Google المختصرة) كان خدمة تقصير عناوين URL. كما دعم أيضًا نطاقًا مخصصًا لعملاء Google Workspace (السابقًا G Suite (السابقًا تطبيقات Google)).",
+    "link": "https://github.com/codyogden/killedbygoogle/issues/865",
+    "name": "Google Go Links",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-01-26",
+    "dateOpen": "2016-04-05",
+    "description": "كان Tilt Brush تطبيق واقع افتراضي للرسم ثلاثي الأبعاد على نطاق الغرفة متاح من Google، تم تطويره أصلاً من قبل Skillman & Hackett.",
+    "link": "https://www.tiltbrush.com/",
+    "name": "Tilt Brush",
+    "type": "app"
+  },
+  {
+    "dateClose": "2022-01-05",
+    "dateOpen": "2015-05-28",
+    "description": "كان Android Things نظام تشغيل مضمن مبني على نظام Android (المسمى في الأصل Brillo) مصمم لتشغيل على أجهزة الإنترنت من الأشياء (IoT).",
+    "link": "https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html",
+    "name": "Android Things",
+    "type": "service"
+  },
+  {
+    "dateClose": "2020-12-10",
+    "dateOpen": "2017-12-14",
+    "description": "سمحت لك YouTube VR بالعثور بسهولة على مقاطع فيديو بزاوية 360 درجة ومحتوى الواقع الافتراضي ومشاهدته مع السماعات الافتراضية المتوافقة مع SteamVR.",
+    "link": "https://steamdb.info/app/755770/history/",
+    "name": "YouTube VR (SteamVR)",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-06-08",
+    "dateOpen": "2016-06-01",
+    "description": "سمحت التطبيقة للمستخدمين بأخذ قياسات لأشياء الحياة اليومية باستخدام كاميرا جهازهم وتقنية ARCore.",
+    "link": "https://www.androidpolice.com/2021/06/08/google-kills-measure-its-ar-based-measurement-taking-app/",
+    "name": "Measure",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-03-31",
+    "dateOpen": "2011-09-25",
+    "description": "كان Google Crisis Map موقع ويب يسمح بإنشاء ونشر ومشاركة الخرائط عن طريق دمج الطبقات من أي مكان على الويب.",
+    "link": "https://web.archive.org/web/20211209021628/https://support.google.com/maps/answer/10394155",
+    "name": "Google Crisis Map",
+    "type": "service"
+  },
+  {
+    "dateClose": "2020-06-24",
+    "dateOpen": "2018-09-01",
+    "description": "كان تطبيق Pigeon Transit تطبيق نقل يستخدم معلومات مشتركة من الجمهور حول التأخيرات، والقطارات المزدحمة، وانقطاعات المصاعد، والعروض المباشرة، والظروف القذرة أو غير الآمنة.",
+    "link": "https://www.slashgear.com/pigeon-crowdsourced-transit-app-experiment-is-shutting-down-11624401/",
+    "name": "Pigeon Transit",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-05-13",
+    "dateOpen": "2008-08-19",
+    "description": "كانت مكتبة JavaScript لصفحات الخطأ 404 المحسنة التي أضافت عناوين URL المقترحة وصندوق بحث إلى صفحة الخطأ 404 Not Found على موقع الويب.",
+    "link": "https://webmasters.googleblog.com/2008/08/make-your-404-pages-more-useful.html",
+    "name": "Enhanced 404 Pages",
+    "type": "service"
+  },
+  {
+    "dateClose": "2010-02-28",
+    "dateOpen": "2006-12-01",
+    "description": "سمحت خدمة YouTube Streams للمستخدمين بمشاهدة فيديو على يوتيوب معًا بينما يتحدثون عن الفيديو في الوقت الحقيقي.",
+    "link": "https://mashable.com/archive/youtube-test-tube",
+    "name": "YouTube Streams",
+    "type": "service"
+  },
+  {
+    "dateClose": "2020-08-31",
+    "dateOpen": "2019-02-05",
+    "description": "أداة فحص كلمة المرور قدمت تحذيرًا للمستخدمين إذا كانوا يستخدمون توازن اسم المستخدم وكلمة المرور تم فحصه ضد أكثر من 4 مليار بيانات اعتبرتها جوجل غير آمنة.",
+    "link": "https://9to5google.com/2020/07/30/password-checkup-chrome-extension/",
+    "name": "Password Checkup extension",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-06-30",
+    "dateOpen": "2020-02-01",
+    "description": "كانت خدمة Google Photos Print خدمة اشتراك تختار تلقائيًا أفضل عشر صور من الثلاثين يومًا الماضية وترسلها بالبريد إلى منازل المستخدمين.",
+    "link": "https://www.forbes.com/sites/paulmonckton/2020/06/20/google-photos-featue-cancellation-auto-print-selection/#19631af66294",
+    "name": "Google Photos Print",
+    "type": "service"
+  },
+  {
+    "dateClose": "2020-10-22",
+    "dateOpen": "2011-11-16",
+    "description": "كان Google Play Music خدمة بث الموسيقى والبودكاست، وخدمة تخزين الموسيقى عبر الإنترنت.",
+    "link": "https://youtube.googleblog.com/2020/05/youtube-music-transfer-google-play-music-library.html",
+    "name": "Google Play Music",
+    "type": "service"
+  },
+  {
+    "dateClose": "2020-05-12",
+    "dateOpen": "2019-06-10",
+    "description": "كانت تطبيق \"Shoelace\" تُستخدم للعثور على أنشطة جماعية مع الآخرين الذين يشتركون في اهتماماتك.",
+    "link": "https://9to5google.com/2020/04/28/shoelace-area-120-shutdown/",
+    "name": "Shoelace",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-05-12",
+    "dateOpen": "2018-05-31",
+    "description": "كان تطبيق Neighbourly تطبيقًا محمولًا مصممًا لمساعدتك على معرفة المزيد عن حيك من خلال طرح الأسئلة على السكان الآخرين، ومعرفة المزيد عن الخدمات المحلية والمرافق في منطقتك من الأشخاص الذين يعيشون من حولك.",
+    "link": "https://thenextweb.com/google/2020/04/02/google-is-shutting-down-its-neighbourly-app/",
+    "name": "Neighbourly",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-03-19",
+    "dateOpen": "2018-05-09",
+    "description": "كان Material Theme Editor إضافة لتطبيق Sketch التي تسمح لك بإنشاء نظام تصميم مستند إلى المواد لتطبيقك.",
+    "link": "https://medium.com/google-design/whats-next-for-material-design-s-theming-tools-f65014ffcce7",
+    "name": "Material Theme Editor",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-02-17",
+    "dateOpen": "2015-09-27",
+    "description": "كانت خدمة Google Station خدمة توفرت للشركاء مجموعة سهلة من الأدوات لنشر نقاط اتصال Wi-Fi في الأماكن العامة. قدمت Google Station البرمجيات والإرشادات حول الأجهزة لتحويل اتصالات الألياف البصرية إلى مناطق Wi-Fi سريعة وموثوقة وآمنة.",
+    "link": "https://india.googleblog.com/2020/02/five-years-400-stations-and-thousands.html",
+    "name": "Google Station",
+    "type": "service"
+  },
+  {
+    "dateClose": "2020-02-06",
+    "dateOpen": "2013-04-18",
+    "description": "كان تطبيق One Today يسمح للمستخدمين بالتبرع بمبلغ دولار واحد لمؤسسات مختلفة واكتشاف كيف سيتم استخدام تبرعهم.",
+    "link": "https://techcrunch.com/2013/04/18/googles-one-today-app-aims-to-make-charitable-donations-a-more-social-and-frequent-experience/",
+    "name": "One Today",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-01-19",
+    "dateOpen": "2016-11-30",
+    "description": "كان App Maker أداة تسمح لمستخدميها ببناء ونشر تطبيقات الأعمال المخصصة بسهولة وبأمان على الويب دون الحاجة إلى كتابة الكثير من الشفرات.",
+    "link": "https://en.wikipedia.org/wiki/Google_App_Maker",
+    "name": "App Maker",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-01-12",
+    "dateOpen": "2016-06-30",
+    "description": "كان SoundStage ساحة موسيقية افتراضية مصممة خصيصًا لتقنية الواقع الافتراضي على نطاق الغرفة.",
+    "link": "https://github.com/googlearchive/soundstagevr",
+    "name": "SoundStage",
+    "type": "service"
+  },
+  {
+    "dateClose": "2020-12-31",
+    "dateOpen": "2010-04-16",
+    "description": "سمحت Google Cloud Print للمستخدمين بـ \"الطباعة من أي مكان\"؛ للطباعة من الويب أو سطح المكتب أو الهاتف المحمول إلى أي طابعة متصلة بخدمة Google Cloud Print.",
+    "link": "https://9to5google.com/2019/11/21/google-cloud-print-dead-2020/",
+    "name": "Google Cloud Print",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-03-13",
+    "dateOpen": "2013-10-01",
+    "description": "كانت Google Spotlight Stories مشروع تطبيق واستوديو محتوى قام بإنشاء قصص غامرة للهواتف المحمولة والواقع الافتراضي.",
+    "link": "https://variety.com/2019/digital/news/google-spotlight-stories-shutting-down-1203163117/",
+    "name": "Google Spotlight Stories",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-10-17",
+    "dateOpen": "2017-06-01",
+    "description": "كانت تطبيق داتالي (سابقاً ترايانجل) تطبيق ذكي من قبل غوغل يساعدك على حفظ، إدارة، ومشاركة بيانات هاتفك المحمول.",
+    "link": "https://thenextweb.com/google/2019/10/17/googles-datally-app-for-saving-on-mobile-data-is-dead/",
+    "name": "Datally",
+    "type": "app"
+  },
+  {
+    "dateClose": "2011-06-05",
+    "dateOpen": "1997-09-15",
+    "description": "سمحت خدمة البحث المتخصصة في جوجل للمستخدمين بالبحث عبر فهرس محدود على الويب لمواضيع متخصصة مثل لينكس، مايكروسوفت، و\"عم السام\".",
+    "link": "https://www.seroundtable.com/google-uncle-sam-13518.html",
+    "name": "Google Specialized Search",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-10-15",
+    "dateOpen": "2017-10-04",
+    "description": "كان Google Clips كاميرا صغيرة يمكن تثبيتها على الملابس تلتقط تلقائيًا مقاطع فيديو مثيرة أو ذات صلة تحددها خوارزميات التعلم الآلي.",
+    "link": "https://en.wikipedia.org/wiki/Google_Clips",
+    "name": "Google Clips",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2019-10-15",
+    "dateOpen": "2016-11-10",
+    "description": "كان Google Daydream منصة واقع افتراضي ومجموعة من أجهزة الأجهزة التي عملت مع بعض هواتف Android معينة.",
+    "link": "https://en.wikipedia.org/wiki/Google_Daydream",
+    "name": "Google Daydream",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2019-11-22",
+    "dateOpen": "2018-01-26",
+    "description": "كان Google Bulletin خدمة أخبار محلية فائقة حيث يمكن للمستخدمين نشر الأخبار من حيهم والسماح للآخرين في نفس المناطق بسماع تلك القصص.",
+    "link": "https://www.androidpolice.com/2019/09/26/googles-hyperlocal-news-app-bulletin-is-shutting-down/",
+    "name": "Google Bulletin",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-11-17",
+    "dateOpen": "2018-09-18",
+    "description": "كانت Touring Bird مشروع حاضنة Area 120 الذي ساعد المستخدمين على مقارنة الأسعار، وحجز الجولات والتذاكر والتجارب، والتعرف على أهم الوجهات في جميع أنحاء العالم.",
+    "link": "https://9to5google.com/2019/10/22/google-touring-bird/",
+    "name": "Touring Bird",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-10-02",
+    "dateOpen": "2010-07-07",
+    "description": "كان YouTube Leanback إصدارًا محسنًا من YouTube يُستخدم لمتصفحات الويب التلفزيونية وتطبيقات WebView.",
+    "link": "https://9to5google.com/2019/09/16/youtube-leanback-tv-interface-disabled-soon/",
+    "name": "YouTube Leanback",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-09-03",
+    "dateOpen": "2013-11-29",
+    "description": "يسمح تطبيق YouTube لجهاز Nintendo 3DS للمستخدمين بمشاهدة مقاطع الفيديو على جهاز الألعاب المحمول.",
+    "link": "https://9to5google.com/2019/08/26/youtube-nintendo-3ds-app-shut-down/",
+    "name": "YouTube for Nintendo 3DS",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-09-01",
+    "dateOpen": "2017-07-18",
+    "description": "كان Google Hire نظام تتبع المتقدمين للمساعدة في توزيع الوظائف على الشركات الصغيرة والمتوسطة، وتحديد وجذب المرشحين، وبناء علاقات قوية مع المرشحين، وإدارة عملية المقابلة بكفاءة.",
+    "link": "https://www.theverge.com/2019/8/28/20837004/google-hire-next-tool-shut-down-service-jobs-hiring-recruiting-inbox-allo",
+    "name": "Hire by Google",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-12-15",
+    "dateOpen": "2011-05-25",
+    "description": "كان Google Correlate خدمة توفر للمستخدمين معلومات حول مدى ترابط تكرار عدة مصطلحات بحث مع بعضها البعض على فترة زمنية محددة.",
+    "link": "https://de.wikipedia.org/wiki/Google_Correlate",
+    "name": "Google Correlate",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-09-18",
+    "dateOpen": "2017-08-07",
+    "description": "كانت رسائل يوتيوب ميزة للرسائل المباشرة تتيح للمستخدمين مشاركة ومناقشة مقاطع الفيديو فردًا بفرد وفي مجموعات على يوتيوب.",
+    "link": "https://9to5google.com/2019/08/20/youtube-killing-messages",
+    "name": "YouTube Messages",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-09-30",
+    "dateOpen": "2011-01-27",
+    "description": "سمح تطبيق Follow Your World للمستخدمين بتسجيل نقاط الاهتمام على خرائط Google وتلقي تحديثات عبر البريد الإلكتروني كلما تم تحديث الصور.",
+    "link": "https://maps.googleblog.com/2011/01/sign-up-for-imagery-update-alert.html",
+    "name": "Follow Your World",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-06-15",
+    "dateOpen": "2018-09-07",
+    "description": "كان برنامج Blog Compass أداة إدارة مدونة تتكامل مع ووردبريس وبلوجر متوفرة فقط في الهند.",
+    "link": "https://9to5google.com/2019/07/15/google-kills-blog-compass/",
+    "name": "Blog Compass",
+    "type": "app"
+  },
+  {
+    "dateClose": "2009-08-05",
+    "dateOpen": "2007-01-01",
+    "description": "كانت Google Radio Automation خدمة عتادية وبرمجية تستخدمها مشغلو الراديو لتلقيم الأغاني تلقائيًا بين وظائف أخرى لمحطة الراديو.",
+    "link": "https://en.wikipedia.org/wiki/List_of_Google_products#2018",
+    "name": "Google Radio Automation",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2021-03-03",
+    "dateOpen": "2014-06-25",
+    "description": "كانت \"جوجل كاردبورد\" منصة واقع افتراضي منخفضة التكلفة تم اطلاقها باسم المشاهد المصنوعة من الورق المقوى المطوي التي يتم ادخال الهاتف الذكي فيها.",
+    "link": "https://en.wikipedia.org/wiki/Google_Cardboard",
+    "name": "Google Cardboard",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2017-09-20",
+    "dateOpen": "2010-06-15",
+    "description": "كان محرر الفيديو على يوتيوب أداة مبنية على الويب لتحرير ودمج وإضافة تأثيرات خاصة إلى محتوى الفيديو.",
+    "link": "https://mashable.com/2017/07/23/youtube-kills-video-editor-tool/",
+    "name": "YouTube Video Editor",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-05-15",
+    "dateOpen": "2012-05-02",
+    "description": "كان Revolv نظام مراقبة وتحكم يسمح للمستخدمين بالتحكم في أجهزتهم المتصلة من خلال مركز واحد.",
+    "link": "https://www.zdnet.com/article/revolv-is-dead-google-killed-it-long-live-innovation/",
+    "name": "Revolv",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2019-01-11",
+    "dateOpen": "2015-09-29",
+    "description": "كان Chromecast Audio جهازًا يسمح للمستخدمين ببث الصوت من أي جهاز إلى أي مكبر صوت يحتوي على مدخل صوت.",
+    "link": "https://en.wikipedia.org/wiki/Chromecast#Chromecast_Audio",
+    "name": "Chromecast Audio",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2019-03-13",
+    "dateOpen": "2016-09-21",
+    "description": "كانت Google Allo تطبيقًا للرسائل الفورية على الهواتف المحمولة لنظام التشغيل Android و iOS والويب مع ميزات خاصة مثل المساعد الافتراضي والوضع المشفر.",
+    "link": "https://en.wikipedia.org/wiki/Google_Allo",
+    "name": "Google Allo",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-07-22",
+    "dateOpen": "2019-05-01",
+    "description": "كان CallJoy مشروعًا تابعًا للمنطقة 120 والذي قدم أتمتة هاتفية للشركات الصغيرة والمتوسطة، مما يتيح لهم تدريب وكيل الروبوت باستجابات لأسئلة العملاء الشائعة.",
+    "link": "https://techcrunch.com/2019/05/01/google-launches-calljoy-a-virtual-customer-service-phone-agent-for-small-businesses/",
+    "name": "CallJoy",
+    "type": "app"
+  },
+  {
+    "dateClose": "2015-12-21",
+    "dateOpen": "2005-09-14",
+    "description": "كان Google Blog Search API وسيلة للبحث في المدونات باستخدام جوجل.",
+    "link": "https://en.wikipedia.org/wiki/Google_Blog_Search",
+    "name": "Google Blog Search API",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-07-02",
+    "dateOpen": "2009-12-07",
+    "description": "قدمت خدمة البحث الحي لـ Google Real-Time Search نتائج بحث مباشرة من تويتر وفيسبوك ومواقع الأخبار.",
+    "link": "https://en.wikipedia.org/wiki/Google_Real-Time_Search",
+    "name": "Google Real-Time Search",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-04-02",
+    "dateOpen": "2015-05-28",
+    "description": "هدفت Inbox by Gmail إلى تحسين البريد الإلكتروني من خلال عدة ميزات رئيسية.",
+    "link": "https://en.wikipedia.org/wiki/Inbox_by_Gmail",
+    "name": "Inbox by Gmail",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-10-05",
+    "dateOpen": "2011-02-09",
+    "description": "كان Sparrow عميل بريد إلكتروني لنظام التشغيل OS X و iOS. اشترته Google ثم أوقفته.",
+    "link": "https://en.wikipedia.org/wiki/Sparrow_(email_client)",
+    "name": "Sparrow",
+    "type": "app"
+  },
+  {
+    "dateClose": "2006-12-01",
+    "dateOpen": "2002-04-18",
+    "description": "كانت Google Answers سوقًا للمعرفة عبر الإنترنت.",
+    "link": "https://en.wikipedia.org/wiki/Google_Answers",
+    "name": "Google Answers",
+    "type": "service"
+  },
+  {
+    "dateClose": "2006-05-08",
+    "dateOpen": "2003-11-10",
+    "description": "كان Google Deskbar نافذة مدمجة صغيرة على شريط الأدوات في نظام التشغيل Windows وكان يسمح للمستخدمين بإجراء عمليات بحث دون مغادرة سطح المكتب.",
+    "link": "https://web.archive.org/web/20210225060348/https://www.computerweekly.com/news/2240053391/Google-launches-Deskbar-software",
+    "name": "Google Deskbar",
+    "type": "service"
+  },
+  {
+    "dateClose": "2006-10-10",
+    "dateOpen": "2005-08-01",
+    "description": "كان \"رايتلي\" معالج نصوص مبني على الويب.",
+    "link": "https://en.wikipedia.org/wiki/Writely",
+    "name": "Writely",
+    "type": "service"
+  },
+  {
+    "dateClose": "2007-12-01",
+    "dateOpen": "2004-01-01",
+    "description": "سمحت خاصية Google Click-to-Call للمستخدم بالتحدث مباشرة عبر الهاتف مع الشركات الموجودة في نتائج البحث.",
+    "link": "https://en.wikipedia.org/wiki/AdWords#Google_Click-to-Call",
+    "name": "Google Click-to-Call",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-07-01",
+    "dateOpen": "2005-10-07",
+    "description": "كان Google Reader عبارة عن مجمع لتغذية RSS/Atom.",
+    "link": "https://en.wikipedia.org/wiki/Google_Reader",
+    "name": "Google Reader",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-04-30",
+    "dateOpen": "2009-09-01",
+    "description": "كانت جوجل ويف أداة تحرير في الوقت الحقيقي للتواصل عبر الإنترنت والتعاون.",
+    "link": "https://en.wikipedia.org/wiki/Google_Wave",
+    "name": "Google Wave",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-11-11",
+    "dateOpen": "2008-08-10",
+    "description": "سمحت Google Notebook للمستخدمين بحفظ وتنظيم مقاطع المعلومات أثناء إجراء الأبحاث عبر الإنترنت.",
+    "link": "https://en.wikipedia.org/wiki/Google_Notebook",
+    "name": "Google Notebook",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-08-31",
+    "dateOpen": "2012-11-28",
+    "description": "استضافة الويب في Google Drive تسمح للمستخدمين بنشر مواقع الويب الحية عن طريق رفع ملفات HTML و CSS وغيرها.",
+    "link": "https://gsuite-developers.googleblog.com/2015/08/deprecating-web-hosting-support-in.html",
+    "name": "Web Hosting in Google Drive",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-04-30",
+    "dateOpen": "2010-05-31",
+    "description": "توفر البحث المشفر للمستخدمين البحث على الإنترنت بشكل مجهول.",
+    "link": "https://en.wikipedia.org/wiki/Google_Search#Dedicated_encrypted_search_page",
+    "name": "Encrypted Search",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-08-20",
+    "dateOpen": "2010-10-05",
+    "description": "كانت Google Goggles تُستخدم للبحث بناءً على الصور التي تم التقاطها بواسطة الأجهزة المحمولة.",
+    "link": "https://en.wikipedia.org/wiki/Google_Goggles",
+    "name": "Google Goggles",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-11-01",
+    "dateOpen": "2005-05-19",
+    "description": "كان iGoogle صفحة بداية قابلة للتخصيص تعتمد على تقنية Ajax أو بوابة ويب شخصية.",
+    "link": "https://en.wikipedia.org/wiki/IGoogle",
+    "name": "iGoogle",
+    "type": "service"
+  },
+  {
+    "dateClose": "2017-02-16",
+    "dateOpen": "2016-05-16",
+    "description": "كان تطبيق Google Spaces تطبيقًا لمناقشات المجموعات والرسائل.",
+    "link": "https://en.wikipedia.org/wiki/Google_Spaces_(service)",
+    "name": "Google Spaces",
+    "type": "service"
+  },
+  {
+    "dateClose": "2017-03-31",
+    "dateOpen": "2008-06-23",
+    "description": "كان Google Map Maker خدمة لإنشاء الخرائط وتحريرها حيث كان بإمكان المستخدمين رسم المعالم مباشرة على الخريطة.",
+    "link": "https://en.wikipedia.org/wiki/Google_Map_Maker",
+    "name": "Google Map Maker",
+    "type": "service"
+  },
+  {
+    "dateClose": "2017-09-01",
+    "dateOpen": "2007-03-01",
+    "description": "كان Trendalyzer منصة لعرض اتجاهات البيانات.",
+    "link": "https://en.wikipedia.org/wiki/Trendalyzer",
+    "name": "Trendalyzer",
+    "type": "service"
+  },
+  {
+    "dateClose": "2015-10-09",
+    "dateOpen": "2002-10-15",
+    "description": "كانت بيكاسا برنامجًا لتنظيم الصور وعرضها لتنظيم وتحرير الصور الرقمية.",
+    "link": "https://en.wikipedia.org/wiki/Picasa",
+    "name": "Picasa",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-01-15",
+    "dateOpen": "2005-03-17",
+    "description": "كان Google Code خدمة توفرت فيها التحكم في التعديلات، ومتتبع للمشاكل، وويكي لتوثيق الشفرات.",
+    "link": "https://en.wikipedia.org/wiki/Google_Developers#Google_Code",
+    "name": "Google Code",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-07-01",
+    "dateOpen": "2011-07-01",
+    "description": "كان Google Swiffy أداة مبنية على الويب تحول ملفات SWF إلى HTML5.",
+    "link": "https://en.wikipedia.org/wiki/Google_Swiffy",
+    "name": "Google Swiffy",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-11-04",
+    "dateOpen": "2005-10-23",
+    "description": "كان بانوراميو منتجًا للتسمية الجغرافية ومشاركة الصور.",
+    "link": "https://en.wikipedia.org/wiki/Panoramio",
+    "name": "Panoramio",
+    "type": "service"
+  },
+  {
+    "dateClose": "2015-04-20",
+    "dateOpen": "2013-11-15",
+    "description": "كانت خدمة Google Helpouts خدمة تعاون عبر الإنترنت حيث يمكن للمستخدمين مشاركة خبراتهم من خلال الفيديو المباشر.",
+    "link": "https://en.wikipedia.org/wiki/Google_Helpouts",
+    "name": "Google Helpouts",
+    "type": "service"
+  },
+  {
+    "dateClose": "2015-06-30",
+    "dateOpen": "2008-09-01",
+    "description": "كان Google Moderator خدمة تستخدم الحشد لتصنيف الأسئلة المقدمة من المستخدمين والاقتراحات والأفكار.",
+    "link": "https://en.wikipedia.org/wiki/Google_Moderator",
+    "name": "Google Moderator",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-06-23",
+    "dateOpen": "2007-06-28",
+    "description": "كانت \"Google Questions and Answers\" سوقًا للمعرفة مجانيًا يسمح للمستخدمين بالعثور على إجابات لأسئلتهم بشكل تعاوني.",
+    "link": "https://en.wikipedia.org/wiki/Google_Questions_and_Answers",
+    "name": "Google Questions and Answers",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-09-30",
+    "dateOpen": "2004-01-24",
+    "description": "كانت أوركوت شبكة اجتماعية مصممة لمساعدة المستخدمين على لقاء أصدقاء جدد وقدامى والحفاظ على العلاقات القائمة.",
+    "link": "https://en.wikipedia.org/wiki/Orkut",
+    "name": "Orkut",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-06-25",
+    "dateOpen": "2013-09-19",
+    "description": "كان Quickoffice مجموعة أدوات إنتاجية لأجهزة الجوال تسمح بعرض وإنشاء وتحرير المستندات والعروض التقديمية وجداول البيانات.",
+    "link": "https://en.wikipedia.org/wiki/Quickoffice",
+    "name": "Quickoffice",
+    "type": "app"
+  },
+  {
+    "dateClose": "2014-01-31",
+    "dateOpen": "2005-01-01",
+    "description": "أعلم Google Notifier المستخدمين بوجود رسائل بريد إلكتروني جديدة في حساب Gmail الخاص بهم.",
+    "link": "https://www.theverge.com/2014/1/16/5316748/google-quietly-kills-off-its-notifier-service-for-mail-and-calendar",
+    "name": "Google Notifier",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-07-11",
+    "dateOpen": "2005-09-14",
+    "description": "كانت Meebo تطبيق مراسلة فورية مستند إلى المتصفح يدعم خدمات متعددة للرسائل الفورية.",
+    "link": "https://en.wikipedia.org/wiki/Meebo",
+    "name": "Meebo",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-12-31",
+    "dateOpen": "2007-12-06",
+    "description": "كان Google Chart API خدمة ويب تفاعلية تُنشئ رسوم بيانية من البيانات التي يقدمها المستخدم.",
+    "link": "https://en.wikipedia.org/wiki/Google_Chart_API",
+    "name": "Google Chart API",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-12-31",
+    "dateOpen": "2007-12-06",
+    "description": "كان Google Mini نسخة أصغر من جهاز بحث Google Search Appliance.",
+    "link": "https://en.wikipedia.org/wiki/Google_Search_Appliance#Google_Mini",
+    "name": "Google Mini",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2018-12-31",
+    "dateOpen": "2002-01-01",
+    "description": "كان جهاز Google Search Appliance جهازًا مثبتًا على الرف يوفر وظيفة فهرسة المستندات.",
+    "link": "https://en.wikipedia.org/wiki/Google_Search_Appliance",
+    "name": "Google Search Appliance",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2019-03-30",
+    "dateOpen": "2009-12-01",
+    "description": "خدمة تقصير الروابط على جوجل، المعروفة أيضًا باسم goo.gl، كانت خدمة لتقصير الروابط.",
+    "link": "https://en.wikipedia.org/wiki/Google_URL_Shortener",
+    "name": "Google URL Shortener",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-12-15",
+    "dateOpen": "2010-02-09",
+    "description": "كان Google Buzz أداة للتواصل الاجتماعي والمدونات الصغيرة والرسائل التي تم دمجها مع Gmail.",
+    "link": "https://en.wikipedia.org/wiki/Google_Buzz",
+    "name": "Google Buzz",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-09-01",
+    "dateOpen": "2008-01-01",
+    "description": "سمحت جوجل ديسكتوب بالبحث المحلي في رسائل البريد الإلكتروني للمستخدم، والملفات على الكمبيوتر، والموسيقى، والصور، والدردشات، وصفحات الويب التي تمت مشاهدتها.",
+    "link": "https://en.wikipedia.org/wiki/Google_Desktop",
+    "name": "Google Desktop",
+    "type": "service"
+  },
+  {
+    "dateClose": "2022-06-30",
+    "dateOpen": "2010-12-06",
+    "description": "تم استضافة تطبيقات Google Chrome أو تعبئتها كتطبيقات ويب تعمل على متصفح Google Chrome.",
+    "link": "https://en.wikipedia.org/wiki/Google_Chrome_App",
+    "name": "Google Chrome Apps",
+    "type": "service"
+  },
+  {
+    "dateClose": "2006-09-15",
+    "dateOpen": "2002-01-01",
+    "description": "توفر خدمة البحث العام لجوجل نتائج البحث الخاصة بالجهات الحكومية والغير ربحية والأكاديمية دون الإعلانات.",
+    "link": "https://webmasters.googleblog.com/2006/09/for-those-wondering-about-public.html",
+    "name": "Google Public Service Search",
+    "type": "service"
+  },
+  {
+    "dateClose": "2007-08-11",
+    "dateOpen": "2006-01-07",
+    "description": "كان Google Video Marketplace خدمة تتضمن متجرًا يمكن شراء واستئجار الفيديوهات من خلاله.",
+    "link": "https://www.hexus.net/tech/news/software/4324-google-video-marketplace/",
+    "name": "Google Video Marketplace",
+    "type": "service"
+  },
+  {
+    "dateClose": "2008-06-30",
+    "dateOpen": "2006-06-08",
+    "description": "كان Google Browser Sync إضافة لمتصفح Firefox تزامنت المعلومات مثل كلمات المرور وسجل التصفح.",
+    "link": "https://en.wikipedia.org/wiki/Google_Browser_Sync",
+    "name": "Google Browser Sync",
+    "type": "service"
+  },
+  {
+    "dateClose": "2008-12-31",
+    "dateOpen": "2008-07-08",
+    "description": "كان Google Lively بيئة افتراضية على الويب توفر طريقة جديدة للوصول إلى المعلومات.",
+    "link": "https://en.wikipedia.org/wiki/Google_Lively",
+    "name": "Google Lively",
+    "type": "service"
+  },
+  {
+    "dateClose": "2008-05-15",
+    "dateOpen": "2002-08-01",
+    "description": "كان \"هيلو\" خدمة تقدمها بيكاسا تتيح للمستخدمين مشاركة الصور \"كما لو كنت جالسًا بجانب الآخر\".",
+    "link": "https://en.wikipedia.org/wiki/Picasa#Hello",
+    "name": "Hello",
+    "type": "service"
+  },
+  {
+    "dateClose": "2008-11-24",
+    "dateOpen": "2006-10-01",
+    "description": "كان SearchMash محرك بحث تجريبي غير مميز كانت تستخدمه Google لاختبار تقنيات البحث الجديدة والمفاهيم والواجهات.",
+    "link": "https://techcrunch.com/2008/11/24/why-did-google-discontinue-searchmash/",
+    "name": "SearchMash",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-02-28",
+    "dateOpen": "2003-06-30",
+    "description": "كانت لعبة كرة الطائرة موقعًا اجتماعيًا مستندًا إلى الموقع حيث يرسل المستخدمون موقعهم عبر الرسائل النصية إلى الخدمة، وتعلمهم بوجود الأصدقاء ونقاط الاهتمام القريبة.",
+    "link": "https://en.wikipedia.org/wiki/Dodgeball_(service)",
+    "name": "Dodgeball",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-07-31",
+    "dateOpen": "2007-05-30",
+    "description": "كان Google Mashup Editor خدمة إنشاء مشاركة ويب عبر الإنترنت تتضمن نشر، تحديد الصيغة، وتصحيح الأخطاء.",
+    "link": "https://en.wikipedia.org/wiki/Google_Mashup_Editor",
+    "name": "Google Mashup Editor",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-10-31",
+    "dateOpen": "2005-05-01",
+    "description": "كان Google Ride Finder خدمة تستخدم بيانات نظام تحديد المواقع العالمي (GPS) لتحديد موقع ورسم خريطة التاكسي والليموزين وسيارات الشاتل المتاحة للتأجير في 10 مناطق حضرية في الولايات المتحدة.",
+    "link": "https://searchenginewatch.com/sew/news/2062429/new-from-google-labs-google-ride-finder#",
+    "name": "Google Ride Finder",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-01-01",
+    "dateOpen": "2008-05-20",
+    "description": "كانت خدمة Google Health خدمة تركيز معلومات الصحة الشخصية التي قدمت للمستخدمين سجل صحي مدمج من مصادر متعددة.",
+    "link": "https://en.wikipedia.org/wiki/Google_Health",
+    "name": "Google Health",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-08-21",
+    "dateOpen": "1999-07-01",
+    "description": "كانت بوستيني خدمة للبريد الإلكتروني وأمان الويب والأرشفة التي كانت تقوم بتصفية البريد العشوائي والبرامج الضارة (قبل تسليمها إلى خادم البريد الإلكتروني للعميل)، وكذلك الأرشفة الإلكترونية.",
+    "link": "https://en.wikipedia.org/wiki/Postini",
+    "name": "Postini",
+    "type": "service"
+  },
+  {
+    "dateClose": "2010-02-19",
+    "dateOpen": "1998-11-30",
+    "description": "كانت شركة Marratech شركة سويدية تقوم بتصنيع برامج للاجتماعات الإلكترونية (على سبيل المثال، الاجتماعات عبر الويب، مؤتمرات الفيديو).",
+    "link": "https://en.wikipedia.org/wiki/Marratech",
+    "name": "Marratech e-meetings",
+    "type": "service"
+  },
+  {
+    "dateClose": "2010-03-03",
+    "dateOpen": "2008-11-20",
+    "description": "SearchWiki كانت ميزة في بحث Google تسمح للمستخدمين المسجلين بتعليق وإعادة ترتيب نتائج البحث.",
+    "link": "https://en.wikipedia.org/wiki/Google_SearchWiki",
+    "name": "Google SearchWiki",
+    "type": "service"
+  },
+  {
+    "dateClose": "2010-11-12",
+    "dateOpen": "2007-04-06",
+    "description": "GOOG-411 (أو البحث المحلي بصوت Google Voice) كان خدمة هاتفية توفر بحثًا في دليل الأعمال استنادًا إلى التعرف على الكلام.",
+    "link": "https://en.wikipedia.org/wiki/GOOG-411",
+    "name": "GOOG-411",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-07-15",
+    "dateOpen": "2013-06-30",
+    "description": "سمحت Tour Builder للمستخدمين بإنشاء ومشاركة جولات تفاعلية داخل Google Earth مع الصور ومقاطع الفيديو للمواقع.",
+    "link": "https://knowledgequest.aasl.org/so-long-google-tour-builder-hello-google-earth/",
+    "name": "Tour Builder",
+    "type": "service"
+  },
+  {
+    "dateClose": "2010-12-17",
+    "dateOpen": "2005-10-25",
+    "description": "كان Google Base قاعدة بيانات قدمتها Google والتي يمكن لأي مستخدم إضافة معظم أنواع المحتوى إليها، مثل النصوص والصور والمعلومات المنظمة.",
+    "link": "https://en.wikipedia.org/wiki/Google_Base",
+    "name": "Google Base",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-07-31",
+    "dateOpen": "2002-05-20",
+    "description": "كانت Google Labs ملعب تقني استخدمته Google لعرض واختبار مشاريع جديدة.",
+    "link": "https://en.wikipedia.org/wiki/Google_Labs",
+    "name": "Google Labs",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-09-16",
+    "dateOpen": "2009-10-05",
+    "description": "كان Google PowerMeter مشروع برمجي من جهاز Google الخيري الذي ساعد المستهلكين على تتبع استخدام الكهرباء في منازلهم.",
+    "link": "https://en.wikipedia.org/wiki/Google_PowerMeter",
+    "name": "Google PowerMeter",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-04-02",
+    "dateOpen": "2011-06-28",
+    "description": "كان Google+ شبكة اجتماعية مبنية على الإنترنت.",
+    "link": "https://en.wikipedia.org/wiki/Google%2B",
+    "name": "Google+",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-02-07",
+    "dateOpen": "2011-07-01",
+    "description": "كان Google Schemer خدمة من Google لمشاركة واكتشاف الأشياء التي يمكن القيام بها.",
+    "link": "https://en.wikipedia.org/wiki/Google_Schemer",
+    "name": "Google Schemer",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-08-09",
+    "dateOpen": "2009-02-05",
+    "description": "كان Google Latitude ميزة تدرك الموقع في خرائط Google، خليفة لخدمة Dodgeball السابقة المعتمدة على الرسائل النصية.",
+    "link": "https://en.wikipedia.org/wiki/Google_Latitude",
+    "name": "Google Latitude",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-04-13",
+    "dateOpen": "2007-01-01",
+    "description": "كانت بيكنيك خدمة تحرير الصور عبر الإنترنت تتيح للمستخدمين تحرير الصور، تنسيقها، قصها، وتغيير حجمها.",
+    "link": "https://en.wikipedia.org/wiki/Picnik",
+    "name": "Picnik",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-11-01",
+    "dateOpen": "2005-09-23",
+    "description": "كان Google Showtimes صفحة نتائج بحث مستقلة للأفلام.",
+    "link": "https://techcrunch.com/2016/11/07/google-quietly-shutters-standalone-google-showtimes-movie-site/",
+    "name": "Google Showtimes",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-01-31",
+    "dateOpen": "2009-03-27",
+    "description": "كان تطبيق Bump! تطبيقًا محمولًا على نظامي التشغيل iOS و Android يمكّن مستخدمي الهواتف الذكية من نقل معلومات الاتصال والصور والملفات بين الأجهزة.",
+    "link": "https://en.wikipedia.org/wiki/Bump_(application)",
+    "name": "Bump!",
+    "type": "app"
+  },
+  {
+    "dateClose": "2016-10-04",
+    "dateOpen": "2010-01-05",
+    "description": "كان Google Nexus سلسلة هواتف Android الرئيسية وأجهزة اللوحي والإكسسوارات التابعة لشركة Google.",
+    "link": "https://en.wikipedia.org/wiki/Google_Nexus",
+    "name": "Google Nexus",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2012-01-15",
+    "dateOpen": "2006-02-01",
+    "description": "كان Jaiku خدمة للتواصل الاجتماعي والمدونات الصغيرة وبث الحياة المقارنة بتويتر.",
+    "link": "https://en.wikipedia.org/wiki/Jaiku",
+    "name": "Jaiku",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-05-01",
+    "dateOpen": "2008-07-23",
+    "description": "كان Knol مشروعًا تابعًا لشركة Google يهدف إلى تضمين مقالات مكتوبة من قبل المستخدمين حول مجموعة متنوعة من المواضيع.",
+    "link": "https://en.wikipedia.org/wiki/Knol",
+    "name": "Knol",
+    "type": "service"
+  },
+  {
+    "dateClose": "2015-01-18",
+    "dateOpen": "2013-05-15",
+    "description": "أجهزة Google Play Edition كانت سلسلة من الهواتف الذكية والأجهزة اللوحية التي تم بيعها من قبل Google.",
+    "link": "https://arstechnica.com/gadgets/2015/01/dont-cry-for-the-google-play-edition-program-it-was-already-dead/",
+    "name": "Google Play Edition",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2016-03-01",
+    "dateOpen": "2015-01-01",
+    "description": "سمحت Google Compare للمستهلكين بمقارنة عدة عروض تتراوح بين التأمين، الرهن العقاري، وبطاقات الائتمان.",
+    "link": "https://www.gadgetsnow.com/year-in-review-2016/Google-Compare/yearendershow2016/55617272.cms",
+    "name": "Google Compare",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-04-03",
+    "dateOpen": "2009-11-12",
+    "description": "كانت Gizmo5 شبكة اتصالات VOIP وهاتف ناعم مجاني مملوك للشبكة.",
+    "link": "https://en.wikipedia.org/wiki/Gizmo5",
+    "name": "Gizmo5",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-01-15",
+    "dateOpen": "2006-10-05",
+    "description": "كان برنامج Google Code Search منتج تجريبي مجاني يسمح للمستخدمين بالبحث عن رموز المصدر المفتوحة على الإنترنت.",
+    "link": "https://en.wikipedia.org/wiki/Google_Code_Search",
+    "name": "Google Code Search",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-02-17",
+    "dateOpen": "2013-07-13",
+    "description": "كانت SlickLogin شركة ناشئة إسرائيلية قامت بتطوير بدائل لكلمات المرور الصوتية، تم استحواذها من قبل شركة Google ولم تصدر أي شيء منذ ذلك الحين.",
+    "link": "https://en.wikipedia.org/wiki/SlickLogin",
+    "name": "SlickLogin",
+    "type": "service"
+  },
+  {
+    "dateClose": "2008-08-31",
+    "dateOpen": "2006-07-13",
+    "description": "كان Google Page Creator خدمة إنشاء واستضافة مواقع الويب التي سمحت للمستخدمين ببناء مواقع أساسية دون الحاجة إلى معرفة HTML.",
+    "link": "https://en.wikipedia.org/wiki/Google_Page_Creator",
+    "name": "Google Page Creator",
+    "type": "service"
+  },
+  {
+    "dateClose": "2017-12-15",
+    "dateOpen": "2014-12-01",
+    "description": "تم إيقاف Project Tango وهو واجهة برمجة تطبيقات الواقع المعزز واستبدل بـ ARCore.",
+    "link": "https://en.wikipedia.org/wiki/Tango_(platform)",
+    "name": "Project Tango",
+    "type": "service"
+  },
+  {
+    "dateClose": "2020-05-04",
+    "dateOpen": "2014-10-01",
+    "description": "كانت Fabric منصة تساعد فرق التطبيقات المحمولة على ببناء تطبيقات أفضل، فهم مستخدميهم، وتطوير أعمالهم.",
+    "link": "https://get.fabric.io/roadmap",
+    "name": "Fabric",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-07-01",
+    "dateOpen": "2012-06-27",
+    "description": "كان Nexus Q جهاز تشغيل وسائط رقمية يسمح لمستخدمي أجهزة Android ببث المحتوى من الخدمات المدعومة إلى تلفاز متصل أو مكبرات الصوت عبر مضخم صوت مدمج.",
+    "link": "https://en.wikipedia.org/wiki/Nexus_Q",
+    "name": "Nexus Q",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2015-08-04",
+    "dateOpen": "2011-08-16",
+    "description": "كانت Google Catalogs تطبيق تسوق يقدم كتالوجات البيع بالتجزئة الكبيرة إلى المستخدمين.",
+    "link": "https://en.wikipedia.org/wiki/Google_Catalogs",
+    "name": "Google Catalogs",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-04-08",
+    "dateOpen": "2010-11-15",
+    "description": "كان Google Hotpot محرك توصيات محلي يسمح للأشخاص بتقييم المطاعم والفنادق وما إلى ذلك ومشاركتها مع الأصدقاء.",
+    "link": "https://mashable.com/2011/04/08/google-hotpot-goes-cold/",
+    "name": "Google Hotpot",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-09-02",
+    "dateOpen": "2009-09-23",
+    "description": "كانت جوجل سايدويكي أداة شريط جانبي للمتصفح تسمح للمستخدمين بالمساهمة بالمعلومات في أي صفحة ويب.",
+    "link": "https://en.wikipedia.org/wiki/Google_Sidewiki",
+    "name": "Google Sidewiki",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-12-03",
+    "dateOpen": "2008-08-05",
+    "description": "كان AdSense for Feeds خدمة معتمدة على تقنية RSS لـ AdSense تسمح للناشرين بالإعلان على تغذياتهم الرقمية.",
+    "link": "https://adsenseforfeeds.blogspot.com/",
+    "name": "AdSense for Feeds",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-09-02",
+    "dateOpen": "2009-03-14",
+    "description": "كانت Aardvark خدمة بحث اجتماعية تربط المستخدمين مباشرة بأصدقائهم أو أصدقاء أصدقائهم الذين كانوا قادرين على الإجابة على أسئلتهم.",
+    "link": "https://en.wikipedia.org/wiki/Aardvark_(search_engine)",
+    "name": "Aardvark",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-03-30",
+    "dateOpen": "2007-09-30",
+    "description": "كان Google Shared Stuff نظام مشاركة صفحات الويب الذي سمح للمستخدمين بحفظ الصفحات ومشاركتها.",
+    "link": "https://web.archive.org/web/20080904000312/https://www.google.com/s2/sharing/stuff",
+    "name": "Google Shared Stuff",
+    "type": "service"
+  },
+  {
+    "dateClose": "2007-12-31",
+    "dateOpen": "2001-01-01",
+    "description": "كان Google Zeitgeist لمحة أسبوعية وشهرية وسنوية في الزمن عن ما كان الناس يبحثون عنه على جوجل في جميع أنحاء العالم.",
+    "link": "https://web.archive.org/web/20210312230138/https://www.lifewire.com/google-zeitgeist-3481903",
+    "name": "Zeitgeist",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-09-02",
+    "dateOpen": "2013-10-29",
+    "description": "كان مشروع أرا مشروع هواتف ذكية قابلة للتخصيص تحت التطوير من قبل غوغل.",
+    "link": "https://en.wikipedia.org/wiki/Project_Ara",
+    "name": "Project Ara",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2013-05-15",
+    "dateOpen": "2005-08-22",
+    "description": "غالبًا ما يتذكر باسم \"Gchat\"، كان Google Talk خدمة رسائل فورية للنصوص والصوت باستخدام بروتوكول XMPP.",
+    "link": "https://en.wikipedia.org/wiki/Google_Talk",
+    "name": "Google Talk",
+    "type": "service"
+  },
+  {
+    "dateClose": "2015-03-15",
+    "dateOpen": "2013-04-30",
+    "description": "كان BebaPay نوعًا من منصة التذاكر الإلكترونية في نيروبي، كينيا تم تطويرها بواسطة Google بالتعاون مع Equity Bank.",
+    "link": "https://en.wikipedia.org/wiki/BebaPay",
+    "name": "BebaPay",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-09-01",
+    "dateOpen": "2009-09-14",
+    "description": "كان Google Fast Flip مجمع أخبار على الإنترنت، شيء ما يشبه الميكروفيش التكنولوجي المتقدم.",
+    "link": "https://en.wikipedia.org/wiki/Google_Fast_Flip",
+    "name": "Google Fast Flip",
+    "type": "service"
+  },
+  {
+    "dateClose": "2008-01-20",
+    "dateOpen": "2005-05-04",
+    "description": "كان Google Web Accelerator برنامجًا على الجانب العميل يزيد سرعة تحميل صفحات الويب.",
+    "link": "https://en.wikipedia.org/wiki/Google_Web_Accelerator",
+    "name": "Google Web Accelerator",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-10-11",
+    "dateOpen": "2018-02-01",
+    "description": "كان تطبيق Reply تطبيقًا محمولًا يتيح للمستخدمين إدراج ردود ذكية (ردود محددة مسبقًا) في المحادثات على تطبيقات المراسلة.",
+    "link": "https://en.wikipedia.org/wiki/Reply_(Google)",
+    "name": "Reply",
+    "type": "app"
+  },
+  {
+    "dateClose": "2011-09-05",
+    "dateOpen": "2009-06-03",
+    "description": "كان Google Squared منتجًا لاستخراج المعلومات واستخراج العلاقات الذي جمع البيانات المهيكلة في تنسيق يشبه جدول البيانات.",
+    "link": "https://en.wikipedia.org/wiki/Google_Squared",
+    "name": "Google Squared",
+    "type": "service"
+  },
+  {
+    "dateClose": "2015-01-15",
+    "dateOpen": "2013-04-15",
+    "description": "كانت نسخة Google Glass Explorer Edition جهاز كمبيوتر قابل للارتداء يحتوي على شاشة بصرية مركبة على الرأس وكاميرا تسمح للمرتدي بالتفاعل مع تطبيقات مختلفة والإنترنت عبر أوامر صوتية طبيعية.",
+    "link": "https://en.wikipedia.org/wiki/Google_Glass",
+    "name": "Google Glass Explorer Edition",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2014-02-21",
+    "dateOpen": "2012-11-30",
+    "description": "كانت BufferBox شركة ناشئة كندية توفر للمستهلكين الراحة على مدار الساعة طوال أيام الأسبوع لاستلام مشترياتهم عبر الإنترنت.",
+    "link": "https://en.wikipedia.org/wiki/BufferBox",
+    "name": "BufferBox",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-03-11",
+    "dateOpen": "2005-01-01",
+    "description": "تم استحواذ شركة Google على خدمة الصوت عبر بروتوكول الإنترنت Grand Central، وتحويلها إلى Google Voice.",
+    "link": "https://en.wikipedia.org/wiki/Google_Voice",
+    "name": "Grand Central",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-05-24",
+    "dateOpen": "2014-11-03",
+    "description": "كان Nexus Player جهاز تشغيل وسائط رقمي يسمح للمستخدمين بتشغيل الموسيقى، ومشاهدة الفيديو من خدمات الإنترنت أو الشبكة المحلية، ولعب الألعاب.",
+    "link": "https://en.wikipedia.org/wiki/Nexus_Player",
+    "name": "Nexus Player",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2012-11-01",
+    "dateOpen": "2009-08-20",
+    "description": "كان تطبيق Google Listen تطبيقًا لنظام Android يتيح لك البحث والاشتراك والتنزيل والبث المباشر للبودكاست والصوت عبر الويب.",
+    "link": "https://googleblog.blogspot.com/2012/08/giving-you-better-google.html",
+    "name": "Google Listen",
+    "type": "app"
+  },
+  {
+    "dateClose": "2011-07-20",
+    "dateOpen": "2000-04-07",
+    "description": "كانت \"Google Directory\" دليل مواقع الإنترنت مُنظمًا إلى 14 فئة رئيسية تسمح للمستخدمين باستكشاف الويب.",
+    "link": "https://en.wikipedia.org/wiki/Google_Directory",
+    "name": "Google Directory",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-11-22",
+    "dateOpen": "2007-05-31",
+    "description": "كانت Gears (المعروفة أيضًا باسم Google Gears) برنامجًا أداة يهدف إلى إنشاء تطبيقات الويب الأكثر قوة من خلال إضافة تخزين دون اتصال وميزات إضافية أخرى إلى متصفحات الويب.",
+    "link": "https://en.wikipedia.org/wiki/Gears_(software)",
+    "name": "Gears",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-06-04",
+    "dateOpen": "2009-10-13",
+    "description": "سمح تطبيق Building Maker للمستخدمين بإنشاء نماذج ثلاثية الأبعاد للمباني على Google Earth عبر المتصفح.",
+    "link": "https://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html",
+    "name": "Building Maker",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-08-05",
+    "dateOpen": "2009-12-01",
+    "description": "كان Google Dictionary خدمة قاموس عبر الإنترنت مستقلة.",
+    "link": "https://en.wikipedia.org/wiki/Google_Dictionary",
+    "name": "Google Dictionary",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-03-01",
+    "dateOpen": "2008-05-28",
+    "description": "كان Google Friend Connect موقع تواصل اجتماعي مجاني من عام 2008 إلى 2012.",
+    "link": "https://en.wikipedia.org/wiki/Google_Friend_Connect",
+    "name": "Google Friend Connect",
+    "type": "service"
+  },
+  {
+    "dateClose": "2017-06-20",
+    "dateOpen": "2013-04-11",
+    "description": "نظام التشغيل Glass OS (Google XE) كان إصدارًا من نظام التشغيل Android الخاص بشركة Google مصمم خصيصًا لنظارة Google Glass.",
+    "link": "https://en.wikipedia.org/wiki/Glass_OS",
+    "name": "Glass OS",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-08-28",
+    "dateOpen": "2017-09-19",
+    "description": "كان Tez خدمة دفع محمولة من قبل Google، مستهدفة للمستخدمين في الهند. تمت إعادة تسميتها إلى Google Pay.",
+    "link": "https://en.wikipedia.org/wiki/Tez_(software)",
+    "name": "Tez",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-01-01",
+    "dateOpen": "2011-05-26",
+    "description": "كانت خدمة Google Offers تقدم تخفيضات وقسائم. في البداية، كانت موقعًا لصفقة اليوم مشابهًا لـ Groupon.",
+    "link": "https://en.wikipedia.org/wiki/Google_Offers",
+    "name": "Google Offers",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-04-30",
+    "dateOpen": "2009-02-12",
+    "description": "كانت تطبيق MyTracks تطبيق تتبع GPS لنظام Android الذي سمح للمستخدمين بتتبع مسارهم وسرعتهم والمسافة والارتفاع.",
+    "link": "https://en.wikipedia.org/wiki/MyTracks",
+    "name": "MyTracks",
+    "type": "app"
+  },
+  {
+    "dateClose": "2016-02-18",
+    "dateOpen": "2013-06-01",
+    "description": "كان Pie موقع وتطبيق للدردشة الجماعية موجه نحو العمل، يمكن مقارنته بتطبيق Slack.",
+    "link": "https://www.pie.co",
+    "name": "Pie",
+    "type": "service"
+  },
+  {
+    "dateClose": "2017-11-15",
+    "dateOpen": "2006-03-21",
+    "description": "كانت محافظ ميزة متاحة في Google Finance لتتبع الأوراق المالية الشخصية.",
+    "link": "https://en.wikipedia.org/wiki/Google_Finance",
+    "name": "Google Portfolios",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-04-01",
+    "dateOpen": "2008-11-13",
+    "description": "كان بحث Google على المواقع خدمة تمكن أي موقع من إضافة حقل بحث مخصص يعمل بواسطة Google.",
+    "link": "https://web.archive.org/web/20180804001326/https://enterprise.google.com/search/products/gss.html",
+    "name": "Google Site Search",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-11-20",
+    "dateOpen": "2011-12-08",
+    "description": "كان Google Currents تطبيق مجلة اجتماعية من قبل Google، والذي تم استبداله بتطبيق Google Play Newsstand.",
+    "link": "https://en.wikipedia.org/wiki/Google_Currents_(2011-2013)",
+    "name": "Google Currents",
+    "type": "app"
+  },
+  {
+    "dateClose": "2010-04-30",
+    "dateOpen": "2008-04-13",
+    "description": "كان BumpTop تطبيق بيئة سطح مكتب يحاكي السلوك العادي والخصائص الفيزيائية لمكتب في العالم الحقيقي ويعززه بأدوات تلقائية لتنظيم محتوياته.",
+    "link": "https://github.com/BumpTop/BumpTop",
+    "name": "BumpTop",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-11-20",
+    "dateOpen": "2006-06-28",
+    "description": "كانت خدمة Google Checkout خدمة معالجة دفع عبر الإنترنت تهدف إلى تبسيط عملية الدفع للمشتريات عبر الإنترنت.",
+    "link": "https://en.wikipedia.org/wiki/Google_Checkout",
+    "name": "Google Checkout",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-09-02",
+    "dateOpen": "2006-01-06",
+    "description": "كان Google Pack مجموعة من أدوات البرمجيات التي قدمتها Google للتنزيل في أرشيف واحد. تم الإعلان عنه في معرض الإلكترونيات الاستهلاكي لعام 2006، في 6 يناير. كان Google Pack متاحًا فقط لنظام التشغيل Windows XP وWindows Vista وWindows 7.",
+    "link": "https://en.wikipedia.org/wiki/Google_Pack",
+    "name": "Google Pack",
+    "type": "service"
+  },
+  {
+    "dateClose": "2015-12-11",
+    "dateOpen": "2012-01-01",
+    "description": "كان Timeful تطبيق قائمة المهام والتقويم لنظام iOS، تم تطويره لإعادة ابتكار الطريقة التي يدير بها الناس أثمن مورد لديهم وهو الوقت.",
+    "link": "https://www.crunchbase.com/organization/timeful#section-overview",
+    "name": "Timeful",
+    "type": "app"
+  },
+  {
+    "dateClose": "2011-07-31",
+    "dateOpen": "2007-02-28",
+    "description": "كانت ريبانغ خدمة تشبه روح العصر مركزة على تقديم خدمات لجمهور صيني. تم دمجها في مختبرات جوجل في أواخر عام 2010، وتم إلغاؤها في وقت لاحق مع مشروعها الأصلي.",
+    "link": "https://www.zdnet.com/article/google-rebang-now-live/",
+    "name": "Google Rebang",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-03-06",
+    "dateOpen": "2005-05-01",
+    "description": "كان Slide برنامجًا لمشاركة الصور لخدمات التواصل الاجتماعي مثل MySpace وFacebook. في وقت لاحق، بدأ Slide في تطوير تطبيقات وأصبح أكبر مطور لتطبيقات الطرف الثالث لـ Facebook.",
+    "link": "https://en.wikipedia.org/wiki/Slide.com",
+    "name": "Slide",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-02-10",
+    "dateOpen": "2009-07-01",
+    "description": "تمكنت عقارات على خرائط جوجل المستخدمين من العثور على أماكن للبيع أو الإيجار في المنطقة التي يهتمون بها.",
+    "link": "https://maps.googleblog.com/2011/01/retiring-real-estate-on-google-maps.html",
+    "name": "Real Estate On Google Maps",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-06-01",
+    "dateOpen": "2011-04-01",
+    "description": "كانت Needlebase أداة تعمل بالنقر على النقطة لاستخراج البيانات وتصنيفها وتصويرها من مختلف الصفحات على الويب.",
+    "link": "https://techcrunch.com/2012/01/20/google-trims-the-fat/",
+    "name": "Needlebase",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-04-30",
+    "dateOpen": "2008-04-07",
+    "description": "كان Google Cloud Connect إضافة مجانية للحوسبة السحابية لإصدارات متعددة من Microsoft Office التي كانت تقوم بتخزين الملفات تلقائيًا ومزامنتها مع Google Docs.",
+    "link": "https://en.wikipedia.org/wiki/Google_Cloud_Connect",
+    "name": "Google Cloud Connect",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-05-10",
+    "dateOpen": "2004-10-01",
+    "description": "تتيح لك Google SMS إرسال أسئلة عبر الرسائل النصية - بما في ذلك الطقس، نتائج المباريات الرياضية، تعريفات الكلمات، وغيرها - إلى 466453 والحصول على إجابة.",
+    "link": "https://techcrunch.com/2013/05/12/google-kills-sms-search/",
+    "name": "Google SMS",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-10-16",
+    "dateOpen": "2016-09-12",
+    "description": "كان تطبيق Google News & Weather تطبيقًا لتجميع الأخبار متاحًا على أنظمة التشغيل Android و iOS.",
+    "link": "https://en.wikipedia.org/wiki/Google_News_%26_Weather",
+    "name": "Google News & Weather",
+    "type": "app"
+  },
+  {
+    "dateClose": "2011-07-01",
+    "dateOpen": "2009-11-01",
+    "description": "كان Google Script Converter أداة تحويل نصوص عبر الإنترنت للتحويل بين الهندية والروماناجاري والعديد من النصوص الأخرى. تم إيقافها بسبب إغلاق Google لمختبرات Google وجميع المشاريع المرتبطة بها.",
+    "link": "https://en.wikipedia.org/wiki/Google_Script_Converter",
+    "name": "Google Script Converter",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-08-20",
+    "dateOpen": "2005-01-25",
+    "description": "كان Google Video خدمة استضافة مقاطع الفيديو مجانية من Google، تشبه YouTube، والتي سمحت بإستضافة مقاطع الفيديو على خوادم Google وتضمينها في مواقع الويب الأخرى.",
+    "link": "https://en.wikipedia.org/wiki/Google_Video",
+    "name": "Google Video",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-10-13",
+    "dateOpen": "2010-12-15",
+    "description": "كان ZygoteBody، السابقاً Google Body، تطبيق ويب من قبل مجموعة Zygote Media Group الذي كان يقدم نماذج تشريحية ثلاثية الأبعاد لجسم الإنسان يمكن التحكم فيها.",
+    "link": "https://en.wikipedia.org/wiki/ZygoteBody",
+    "name": "ZygoteBody",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-08-05",
+    "dateOpen": "2008-11-01",
+    "description": "كانت Flix Cloud خدمة ترميز فيديو عبر الإنترنت عالية الطاقة.",
+    "link": "https://en.wikipedia.org/wiki/On2_Technologies#Acquisition_by_Google",
+    "name": "On2 Flix Cloud",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-12-31",
+    "dateOpen": "2009-01-01",
+    "description": "كان \"نووب\" مشروعًا من قِبل مهندسي جوجل أليكس إيغل وكريستيان غروبر بهدف تطوير لغة برمجة جديدة حاولت دمج أفضل ميزات اللغات \"القديمة\" و \"الجديدة\" وأفضل الممارسات.",
+    "link": "https://en.wikipedia.org/wiki/Noop",
+    "name": "Noop Programming Language",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-02-01",
+    "dateOpen": "2013-07-01",
+    "description": "كان Google Maps Engine أداة عبر الإنترنت لإنشاء الخرائط. كانت تمكنك من إنشاء خرائط متعددة الطبقات باستخدام بياناتك الخاصة بالإضافة إلى بيانات Google Maps.",
+    "link": "https://mangomap.com/blog/the-end-of-google-maps-engine-causes-mass-confusion/",
+    "name": "Google Maps Engine",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-08-15",
+    "dateOpen": "2016-04-14",
+    "description": "حفظ لـ Google Chrome Extension يمكنك من حفظ رابط الصفحة بسرعة مع الصورة والعلامات إلى تطبيق مشابه لتطبيق Pocket.",
+    "link": "https://9to5google.com/2018/07/22/google-kills-save-to-google-chrome-material-theme/",
+    "name": "Save to Google Chrome Extension",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-04-20",
+    "dateOpen": "2009-11-10",
+    "description": "كان Google Flu Vaccine Finder تطبيق يجمع بين الخرائط يظهر أماكن التطعيم القريبة في جميع أنحاء الولايات المتحدة.",
+    "link": "https://googleblog.blogspot.com/2012/04/spring-cleaning-in-spring.html",
+    "name": "Google Flu Vaccine Finder",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-04-20",
+    "dateOpen": "2011-03-16",
+    "description": "كان Google One Pass متجرًا عبر الإنترنت تم تطويره من قبل Google لناشري الوسائط الذين يبحثون عن بيع اشتراكات لمحتواهم.",
+    "link": "https://en.wikipedia.org/wiki/Google_One_Pass",
+    "name": "Google One Pass",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-07-20",
+    "dateOpen": "2009-11-17",
+    "description": "كان Google Image Swirl تحسينًا لأداة البحث عن الصور التي نشأت من Google Labs. تم بناؤها على أساس البحث عن الصور من خلال تجميع الصور التي تمتلك خصائص بصرية ودلالية مماثلة.",
+    "link": "https://en.wikipedia.org/wiki/Google_Image_Swirl",
+    "name": "Google Image Swirl",
+    "type": "service"
+  },
+  {
+    "dateClose": "2017-02-08",
+    "dateOpen": "2016-03-02",
+    "description": "كان Google Hands Free نظام دفع محمول يسمح للمستخدمين بدفع فواتيرهم باستخدام تقنية البلوتوث للاتصال بأجهزة الدفع عن طريق قول \"سأدفع باستخدام Google\".",
+    "link": "https://www.slashgear.com/google-shutting-down-hands-free-next-week-02473609/",
+    "name": "Google Hands Free",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-05-02",
+    "dateOpen": "2007-03-03",
+    "description": "كان Freebase قاعدة معرفية تعاونية كبيرة تتألف من بيانات منظمة تتكون أساسًا من أعضاء مجتمعها، تم تطويرها بواسطة Metaweb (التي اشترتها Google).",
+    "link": "https://en.wikipedia.org/wiki/Freebase",
+    "name": "Freebase",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-03-14",
+    "dateOpen": "2012-07-31",
+    "description": "Wildfire من Google كان تطبيق تسويق اجتماعي يمكن الشركات من إنشاء وتحسين وقياس وجودها على شبكات التواصل الاجتماعي.",
+    "link": "https://en.wikipedia.org/wiki/Wildfire_Interactive",
+    "name": "Wildfire Interactive",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-05-02",
+    "dateOpen": "2012-07-09",
+    "description": "كان Google Now ميزة في بحث Google تقدم بطاقات تنبؤية بالمعلومات والتحديثات اليومية في Chrome وتطبيق Google لنظام Android و iOS.",
+    "link": "https://en.wikipedia.org/wiki/Google_Now",
+    "name": "Google Now",
+    "type": "service"
+  },
+  {
+    "dateClose": "2015-08-20",
+    "dateOpen": "2008-11-01",
+    "description": "كانت Google Flu Trends خدمة تحاول عمل توقعات دقيقة حول نشاط الإنفلونزا.",
+    "link": "https://en.wikipedia.org/wiki/Google_Flu_Trends",
+    "name": "Google Flu Trends",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-09-27",
+    "dateOpen": "2008-08-06",
+    "description": "كان Google Insights for Search خدمة تُستخدم لتوفير بيانات حول المصطلحات التي بحث عنها الأشخاص في جوجل وقد دُمجت في Google Trends.",
+    "link": "https://en.wikipedia.org/wiki/Google_Insights_for_Search",
+    "name": "Google Insights for Search",
+    "type": "service"
+  },
+  {
+    "dateClose": "2008-08-28",
+    "dateOpen": "2006-10-24",
+    "description": "كان Google Send to Phone إضافة لإرسال الروابط والمعلومات الأخرى من Firefox إلى هاتفهم عن طريق رسالة نصية.",
+    "link": "https://en.wikipedia.org/wiki/List_of_Google_products",
+    "name": "Send to Phone",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-03-28",
+    "dateOpen": "2005-04-30",
+    "description": "كان برنامج Urchin برنامج تحليل إحصائيات الويب تم تطويره بواسطة شركة Urchin Software Corporation. كان يحلل محتوى ملف سجل خادم الويب ويعرض معلومات حركة المرور على تلك الموقع الإلكتروني استنادًا إلى بيانات السجل.",
+    "link": "https://en.wikipedia.org/wiki/Urchin_(software)",
+    "name": "Urchin",
+    "type": "service"
+  },
+  {
+    "dateClose": "2017-03-01",
+    "dateOpen": "2013-02-21",
+    "description": "كان Chromebook Pixel أول كمبيوتر محمول من نوعه تم بناؤه من قبل جوجل وكان يعمل بنظام التشغيل Chrome OS القائم على نواة Linux.",
+    "link": "https://en.wikipedia.org/wiki/Chromebook_Pixel",
+    "name": "Chromebook Pixel",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2007-08-17",
+    "dateOpen": "2006-08-22",
+    "description": "يقوم مشغل الفيديو من Google بتشغيل ملفات بتنسيق الوسائط الخاص بـ Google Video File (.gvi) والقوائم التشغيل المدعومة بتنسيق 'Google Video Pointer' (.gvp).",
+    "link": "https://en.wikipedia.org/wiki/Google_Video#Google_Video_Player",
+    "name": "Google Video Player",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-04-10",
+    "dateOpen": "2010-07-01",
+    "description": "خدمة قامت جوجل بتطويرها لعملاء السفر طويل المدى. ستقوم شركة ITA Software بإنشاء طريقة جديدة وأسهل للمستخدمين للعثور على معلومات رحلات جوية أفضل عبر الإنترنت، مما يجب أن يشجع المزيد من المستخدمين على إجراء مشتريات رحلاتهم عبر الإنترنت.",
+    "link": "https://web.archive.org/web/20190402190950/https://developers.google.com/qpx-express/",
+    "name": "qpx-express-API",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-01-31",
+    "dateOpen": "2007-11-08",
+    "description": "كانت Songza خدمة بث موسيقى مجانية توصي بقوائم تشغيل مختلفة لمستخدميها استنادًا إلى وقت اليوم والمزاج أو النشاط.",
+    "link": "https://en.wikipedia.org/wiki/Songza",
+    "name": "Songza",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-02-01",
+    "dateOpen": "2010-09-22",
+    "description": "كان Google Chrome Frame إضافة لمتصفح الإنترنت إكسبلورر تسمح بعرض صفحات الويب باستخدام WebKit ومحرك JavaScript V8.",
+    "link": "https://en.wikipedia.org/wiki/Google_Chrome_Frame",
+    "name": "Google Chrome Frame",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-12-20",
+    "dateOpen": "2007-07-01",
+    "description": "كانت Apture خدمة تسمح للناشرين والمدونين بربط ودمج وسائط متعددة في طبقة ديناميكية فوق صفحاتهم.",
+    "link": "https://www.huffingtonpost.com/rory-oconnor/apture-web-30-is-now_b_161608.html",
+    "name": "Apture",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-01-31",
+    "dateOpen": "2010-08-01",
+    "description": "كانت fflick موقع ويب للمراجعات والمعلومات والأخبار الذي استخدم معلومات من التغريدات المجتمعة لتقييم الأفلام كإيجابية أو سلبية.",
+    "link": "https://en.wikipedia.org/wiki/Fflick",
+    "name": "fflick",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-06-30",
+    "dateOpen": "2010-10-06",
+    "description": "كان Google TV منصة تلفزيون ذكيّة دمجت نظام التشغيل Android و Chrome لإنشاء تراكب تلفزيون تفاعلي.",
+    "link": "https://en.wikipedia.org/wiki/Google_TV_(smart_TV_platform)",
+    "name": "Google TV",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2012-10-31",
+    "dateOpen": "2010-11-10",
+    "description": "كان Google Refine تطبيق سطح المكتب المستقل لتنظيف البيانات وتحويلها إلى تنسيقات أخرى.",
+    "link": "https://en.wikipedia.org/wiki/Google_Refine",
+    "name": "Google Refine",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-12-03",
+    "dateOpen": "2009-06-09",
+    "description": "كان Google Fusion Tables خدمة ويب لإدارة البعد التي قدمت وسيلة لتصور البيانات في رسوم بيانية مختلفة وخرائط ومخططات.",
+    "link": "https://en.wikipedia.org/wiki/Google_Fusion_Tables",
+    "name": "Google Fusion Tables",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-12-05",
+    "dateOpen": "2002-04-11",
+    "description": "كانت واجهة برمجة تطبيقات Google Web APIs خدمة SOAP مجانية لإجراء عمليات بحث في Google بحيث يمكن للمطورين استخدام النتائج بالطريقة التي يرغبون فيها تقريبًا.",
+    "link": "https://web.archive.org/web/20021105033319/http://www.google.com/apis/",
+    "name": "Google Web APIs",
+    "type": "service"
+  },
+  {
+    "dateClose": "2011-07-01",
+    "dateOpen": "2002-07-01",
+    "description": "تقوم Google Sets بإنشاء قائمة من العناصر عندما يدخل المستخدمون بضعة أمثلة. على سبيل المثال، عند إدخال \"أخضر، أرجواني، أحمر\"، يصدر القائمة \"أخضر، أرجواني، أحمر، أزرق، أسود، أبيض، أصفر، برتقالي، بني\".",
+    "link": "https://web.archive.org/web/20021105033319/http://www.google.com/apis/",
+    "name": "Google Sets",
+    "type": "service"
+  },
+  {
+    "dateClose": "2015-05-22",
+    "dateOpen": "2011-05-10",
+    "description": "سمحت Android @ Home لجهاز المستخدم بالاكتشاف والاتصال والتواصل مع الأجهزة والأجهزة المنزلية.",
+    "link": "https://bgr.com/2011/05/10/google-announces-android-home/",
+    "name": "Android @ Home",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-10-31",
+    "dateOpen": "2012-05-01",
+    "description": "كانت بيكسيت منصة لإنشاء الرسوم المتحركة والتفاعلات المعقدة، وتنقية تصاميمك من خلال نماذج أصلية بنسبة 100٪ لنظامي التشغيل iOS وAndroid.",
+    "link": "https://techcrunch.com/2015/07/21/google-acquires-mobile-app-prototyping-tool-pixate/",
+    "name": "Pixate",
+    "type": "app"
+  },
+  {
+    "dateClose": "2015-12-12",
+    "dateOpen": "2008-05-28",
+    "description": "سمح إضافة Google Earth Browser Plug-in للمطورين بتضمين Google Earth في صفحات الويب وشملت واجهة برمجة تطبيقات JavaScript للرسم ثلاثي الأبعاد المخصص والتفاعل.",
+    "link": "https://en.wikipedia.org/wiki/Google_Earth#Google_Earth_Plug-in",
+    "name": "Google Earth Browser Plug-in",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-09-01",
+    "dateOpen": "2005-07-19",
+    "description": "شريط أدوات جوجل لفايرفوكس",
+    "link": "https://en.wikipedia.org/wiki/Google_Toolbar",
+    "name": "Google Toolbar for Firefox",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-03-07",
+    "dateOpen": "2015-06-01",
+    "description": "عرض السيد جينجلز (المعروف أيضًا باسم واجهة إشعارات جوجل) تنبيهات وإشعارات من خدمات جوجل المتعددة.",
+    "link": "https://www.engadget.com/2019/02/06/google-is-killing-its-notifications-widget/",
+    "name": "Google Notification Widget (Mr. Jingles)",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-01-15",
+    "dateOpen": "2008-06-04",
+    "description": "سمحت تعليقات الفيديو على يوتيوب لصناع الفيديو بإضافة تعليقات تفاعلية إلى فيديوهاتهم تحتوي على معلومات خلفية، قصص تفرعية (بأسلوب \"اختر مغامرتك الخاصة\")، أو روابط إلى أي فيديو على يوتيوب، قناة، أو صفحة نتائج البحث.",
+    "link": "https://www.theverge.com/2018/11/27/18114581/youtube-annotations-discontinued-january-2019",
+    "name": "YouTube Video Annotations",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-12-06",
+    "dateOpen": "2015-04-01",
+    "description": "كانت إشعارات Google Nearby تعتمد على أداة تسويق الاقتراب باستخدام أجهزة إرسال بلوتوث وبيانات معتمدة على الموقع لتقديم محتوى ذي صلة بموقع مستخدم Android في العالم الحقيقي.",
+    "link": "https://android-developers.googleblog.com/2018/10/discontinuing-support-for-android.html",
+    "name": "Google Nearby Notifications",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-02-12",
+    "dateOpen": "2008-07-08",
+    "description": "خدمة إعلانات Google Audio Ads سمحت للمعلنين بتشغيل حملات إعلانية على محطات الراديو AM/FM في الولايات المتحدة باستخدام واجهة AdWords.",
+    "link": "http://google-tvads.blogspot.com/2009/02/google-exits-radio-but-will-explore.html",
+    "name": "Google Audio Ads",
+    "type": "service"
+  },
+  {
+    "dateClose": "2015-01-14",
+    "dateOpen": "2010-12-06",
+    "description": "ترجمة Word Lens للنصوص في الوقت الحقيقي على الصور عن طريق استخدام محدد العرض لكاميرا الجهاز دون الحاجة إلى اتصال بالإنترنت؛ تم دمج هذه التقنية في تطبيق Google Translate.",
+    "link": "https://en.wikipedia.org/wiki/Word_Lens",
+    "name": "Word Lens",
+    "type": "app"
+  },
+  {
+    "dateClose": "2019-05-29",
+    "dateOpen": "2012-06-27",
+    "description": "خدمة Google Cloud Messaging (GCM) كانت خدمة إشعارات تمكّن المطورين من إرسال رسائل بين الخوادم وتطبيقات العميل التي تعمل على نظام التشغيل Android أو Chrome.",
+    "link": "https://en.wikipedia.org/wiki/Google_Cloud_Messaging",
+    "name": "Google Cloud Messaging (GCM)",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-01-15",
+    "dateOpen": "2013-03-19",
+    "description": "وفرت واجهة برمجة التطبيقات في الوقت الحقيقي من Google طرقًا لمزامنة الموارد بين الأجهزة. كانت تعمل على الملفات المخزنة على Google Drive.",
+    "link": "https://web.archive.org/web/20181220223930/https://developers.google.com/realtime/deprecation",
+    "name": "Google Realtime API",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-04-23",
+    "dateOpen": "2015-03-23",
+    "description": "كان Data Saver امتدادًا لمتصفح Chrome يوجه صفحات الويب عبر خوادم Google لضغط وتقليل عرض النطاق الترددي للمستخدم.",
+    "link": "https://blog.chromium.org/2019/04/data-saver-is-now-lite-mode.html",
+    "name": "Data Saver Extension for Chrome",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-11-11",
+    "dateOpen": "2010-12-09",
+    "description": "كان Google Trader خدمة إعلانات مبوبة تديرها Google في غانا وأوغندا وكينيا ونيجيريا لمساعدة العملاء على تبادل السلع والخدمات عبر الإنترنت.",
+    "link": "https://web.archive.org/web/20130313193605/https://www.google.com.gh/local/trader/",
+    "name": "Google Trader",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-08-31",
+    "dateOpen": "2014-06-23",
+    "description": "كان Works with Nest واجهة برمجة تطبيقات تسمح للخدمات الخارجية بالوصول إلى أجهزة Nest والتحكم بها. وهذا سمح باستخدام الأجهزة مع منصات الأتمتة المنزلية والأجهزة من الأطراف الثالثة.",
+    "link": "https://nest.com/works-with-nest/",
+    "name": "Works with Nest API",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-06-28",
+    "dateOpen": "2015-05-28",
+    "description": "كانت Google Jump حلاً لوسائط الواقع الافتراضي المستندة إلى السحابة التي سمحت بإنتاج وسائط ثلاثية الأبعاد بزاوية 360 درجة من خلال دمج حلول التقاط مخصصة مع تقنية الخياطة الآلية من الطراز الأول.",
+    "link": "https://en.wikipedia.org/wiki/Google_Jump",
+    "name": "Google Jump",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-03-31",
+    "dateOpen": "2010-04-01",
+    "description": "سمحت reCAPTCHA Mailhide للمستخدمين بإخفاء عنوان بريدهم الإلكتروني وراء كود CAPTCHA لمنع الروبوتات من جمع البريد الإلكتروني وإرسال الرسائل غير المرغوب فيها.",
+    "link": "https://github.com/google/recaptcha/issues/221#issuecomment-409586455",
+    "name": "reCAPTCHA Mailhide",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-05-30",
+    "dateOpen": "2015-08-26",
+    "description": "كانت \"يوتيوب جيمنغ\" خدمة وتطبيق متخصصان في ألعاب الفيديو والبث المباشر.",
+    "link": "https://www.androidpolice.com/2018/09/18/youtube-gaming-standalone-app-shut-march-2019-features-migrate-main-app/",
+    "name": "YouTube Gaming",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-08-05",
+    "dateOpen": "2016-09-19",
+    "description": "كان تطبيق Google Trips تطبيقًا محمولًا يسمح للمستخدمين بالتخطيط للسفر القادم عن طريق تسهيل حجوزات الطيران والفنادق والسيارات والمطاعم من البريد الإلكتروني للمستخدم بجانب معلومات ملخصة حول وجهة المستخدم.",
+    "link": "https://en.wikipedia.org/wiki/Google_Trips",
+    "name": "Google Trips",
+    "type": "app"
+  },
+  {
+    "dateClose": "2019-06-14",
+    "dateOpen": "2017-04-12",
+    "description": "كانت Areo تطبيقًا محمولًا يسمح للمستخدمين في بنغالور ومومباي وديلهي وجورجاون وبوني بطلب الوجبات من المطاعم القريبة أو تحديد مواعيد مع محترفي الخدمات المحلية، بما في ذلك الكهربائيين والدهانين والنظافة والسباكين وغيرهم.",
+    "link": "https://techcrunch.com/2017/04/13/google-areo-is-a-new-app-for-ordering-food-or-home-services-in-india/",
+    "name": "Areo",
+    "type": "app"
+  },
+  {
+    "dateClose": "2019-08-01",
+    "dateOpen": "2011-09-20",
+    "description": "سمحت Hangouts on Air للمستخدمين بإجراء مكالمة فيديو متعددة المستخدمين مع تسجيل وبث المكالمة على YouTube.",
+    "link": "https://arstechnica.com/gadgets/2019/06/google-is-killing-youtubes-hangouts-on-air-this-year/",
+    "name": "Hangouts on Air",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-12-04",
+    "dateOpen": "2009-06-08",
+    "description": "كان Google Translator Toolkit تطبيق ويب يسمح للمترجمين بتحرير وإدارة الترجمات التي تم إنشاؤها بواسطة Google Translate.",
+    "link": "https://web.archive.org/web/20191115163453/https://support.google.com/translatortoolkit/answer/9462068",
+    "name": "Google Translator Toolkit",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-09-30",
+    "dateOpen": "2013-04-18",
+    "description": "تقدم تدريب G Suite (المعروف سابقًا باسم Synergyse) تدريبًا تفاعليًا ومبنيًا على الفيديو لـ 20 منتجًا من Google G Suite بتسع لغات مختلفة من خلال موقع وامتداد Chrome.",
+    "link": "https://web.archive.org/web/20190929005809/https://support.google.com/a/answer/7039472",
+    "name": "G Suite Training",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-04-01",
+    "dateOpen": "2015-12-07",
+    "description": "كان uWeave (يُنطق \"مايكرو ويف\") تنفيذًا لبروتوكول Weave مُصمم للاستخدام على أجهزة المتحكم المصغرة.",
+    "link": "https://weave.googlesource.com/weave/libweave/+log/master/third_party/libuweave",
+    "name": "uWeave",
+    "type": "app"
+  },
+  {
+    "dateClose": "2016-06-30",
+    "dateOpen": "2013-11-01",
+    "description": "كانت بطاقة Google Wallet Card بطاقة مدفوعة مسبقًا تتيح للمستخدمين دفع الأمور شخصيًا وعبر الإنترنت باستخدام رصيدهم في Wallet في أي تاجر يقبل بطاقات MasterCard.",
+    "link": "https://www.androidauthority.com/google-wallet-cards-stop-working-june-30-683270/",
+    "name": "Google Wallet Card",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2021-12-31",
+    "dateOpen": "2010-10-20",
+    "description": "كان AngularJS إطار عمل ويب أمامي مفتوح المصدر مبني على نمط MVC باستخدام تقنية حقن الاعتماد.",
+    "link": "https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a",
+    "name": "AngularJS",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-12-31",
+    "dateOpen": "2012-09-27",
+    "description": "كان تطبيق Field Trip تطبيقًا محمولًا يعمل كدليل سياحي افتراضي عن طريق مقارنة مصادر متعددة للمعلومات لتزويد المستخدمين بمعلومات حول نقاط الاهتمام القريبة منهم.",
+    "link": "https://en.wikipedia.org/wiki/Field_Trip_(application)",
+    "name": "Field Trip",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-07-31",
+    "dateOpen": "2019-01-24",
+    "description": "كانت النظارات الذكية Focals منتجًا مصممًا حسب الطلب بشاشة شفافة هولوغرافية تسمح للمستخدمين بقراءة والرد على رسائل النص، والتنقل بتوجيهات دورية، والتحقق من الطقس، والتكامل مع خدمات الطرف الثالث مثل أوبر وأمازون أليكسا.",
+    "link": "https://techcrunch.com/2020/06/30/google-acquires-smart-glasses-company-north-whose-focals-2-0-wont-ship/",
+    "name": "Focals by North",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2019-07-05",
+    "dateOpen": "2018-08-01",
+    "description": "كان Dragonfly محرك بحث مصمم ليكون متوافقًا مع أحكام الرقابة الحكومية في الصين.",
+    "link": "https://en.wikipedia.org/wiki/Dragonfly_(search_engine)",
+    "name": "Dragonfly",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-04-20",
+    "dateOpen": "2011-08-17",
+    "description": "تم تقديم Google Related كمساعد تنقل تجريبي تم إطلاقه لمساعدة الأشخاص على العثور على معلومات مفيدة ومثيرة أثناء تصفح الويب.",
+    "link": "https://googleblog.blogspot.com/2012/04/spring-cleaning-in-spring.html",
+    "name": "Google Related",
+    "type": "service"
+  },
+  {
+    "dateClose": "2020-02-04",
+    "dateOpen": "2012-12-12",
+    "description": "كانت خدمة Google Fiber TV خدمة IPTV كانت مجمعة مع خدمة Google Fiber.",
+    "link": "https://www.theverge.com/2020/2/4/21123050/google-fiber-tv-package-removed-internet-service-high-speed",
+    "name": "Google Fiber TV",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-10-01",
+    "dateOpen": "2013-11-21",
+    "description": "كان مركز الرسائل واجهة ويب حيث يمكن لمستخدمي Gmail عرض وإدارة رسائل البريد العشوائي.",
+    "link": "https://web.archive.org/web/20200806193905/https://support.google.com/a/answer/9275489",
+    "name": "Message Center",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-05-08",
+    "dateOpen": "2013-11-20",
+    "description": "كانت Google Play Newsstand خدمة تجميع الأخبار والصحف الرقمية.",
+    "link": "https://en.wikipedia.org/wiki/Google_Play_Newsstand",
+    "name": "Google Play Newsstand",
+    "type": "app"
+  },
+  {
+    "dateClose": "2016-09-30",
+    "dateOpen": "2015-08-20",
+    "description": "كانت Together واجهة ساعة لنظام Android Wear تسمح لمستخدمين بربط ساعاتهم معًا لمشاركة رسائل بصرية صغيرة.",
+    "link": "http://web.archive.org/web/20160417063132/https://www.android.com/wear/together/",
+    "name": "Together",
+    "type": "app"
+  },
+  {
+    "dateClose": "2013-06-07",
+    "dateOpen": "2011-07-11",
+    "description": "كانت Punchd تطبيق بطاقة ولاء رقمية وخدمة مستهدفة نحو الشركات الصغيرة، نشأت كمشروع طلابي في Cal Poly في عام 2009 واستحوذت عليها Google في عام 2011.",
+    "link": "http://getpunchd.com/",
+    "name": "Punchd",
+    "type": "service"
+  },
+  {
+    "dateClose": "2020-02-06",
+    "dateOpen": "2011-02-08",
+    "description": "أتاح تطبيق Androidify للمستخدمين إنشاء شخصية أندرويد مخصصة لأنفسهم وللآخرين.",
+    "link": "https://9to5google.com/2020/02/06/google-removes-androidify-app/",
+    "name": "Androidify",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-12-01",
+    "dateOpen": "2016-12-05",
+    "description": "كان تطبيق Trusted Contacts يسمح للمستخدمين بمشاركة موقعهم وعرض موقع مستخدمين محددين.",
+    "link": "https://arstechnica.com/gadgets/2020/10/google-shuts-down-trusted-contacts-its-emergency-location-sharing-app/",
+    "name": "Trusted Contacts",
+    "type": "app"
+  },
+  {
+    "dateClose": "2017-01-01",
+    "dateOpen": "2010-03-03",
+    "description": "سمح تطبيق Google Gesture Search للمستخدمين بالبحث عن جهات الاتصال والتطبيقات والإعدادات والموسيقى والعلامات المرجعية على جهاز Android الخاص بهم عن طريق رسم الحروف أو الأرقام على الشاشة.",
+    "link": "https://en.wikipedia.org/wiki/Google_Gesture_Search",
+    "name": "Gesture Search",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-10-19",
+    "dateOpen": "2017-11-15",
+    "description": "نيست سيكيور كانت نظام أمان يحتوي على جهاز إنذار ولوحة مفاتيح وجهاز استشعار حركة مع ميكروفون مدمج.",
+    "link": "https://www.androidpolice.com/2020/10/19/google-confirms-the-nest-secure-has-been-discontinued/",
+    "name": "Nest Secure",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2021-06-30",
+    "dateOpen": "2015-08-01",
+    "description": "كانت برنامج الرحلات برنامجًا لتوفير تجارب الواقع الافتراضي لفصول الدراسة في المدارس من خلال مشاهدة Google Cardboard، مما يتيح للمعلمين أخذ طلابهم في رحلات افتراضية.",
+    "link": "https://en.wikipedia.org/wiki/Google_Expeditions",
+    "name": "Expeditions",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-12-11",
+    "dateOpen": "2016-05-23",
+    "description": "كان تطبيق Science Journal تطبيقًا محمولًا يساعدك على إجراء تجارب علمية باستخدام هاتفك الذكي باستخدام أجهزة الاستشعار المدمجة في الجهاز.",
+    "link": "https://sciencejournal.withgoogle.com",
+    "name": "Science Journal",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-06-30",
+    "dateOpen": "2018-05-09",
+    "description": "سمحت Tour Creator للمستخدمين بإنشاء جولات مرشدة ثلاثية الأبعاد وبزاوية 360 درجة يمكن مشاهدتها باستخدام أجهزة الواقع الافتراضي.",
+    "link": "https://www.theverge.com/2020/11/13/21564279/google-expeditions-vr-cardboard-tours-shutdown-arts-culture-app-migration",
+    "name": "Tour Creator",
+    "type": "app"
+  },
+  {
+    "dateClose": "2019-11-07",
+    "dateOpen": "2019-06-13",
+    "description": "كان Game Builder بيئة لعب متعددة اللاعبين ثلاثية الأبعاد لإنشاء ألعاب جديدة بدون خبرة في البرمجة.",
+    "link": "https://steamcommunity.com/games/929860/announcements/detail/1608276251516057010",
+    "name": "Game Builder",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-06-30",
+    "dateOpen": "2017-11-01",
+    "description": "كان Poly منصة توزيع للمبدعين لمشاركة الأجسام ثلاثية الأبعاد.",
+    "link": "https://web.archive.org/web/20201202153708/https://support.google.com/poly/answer/10192635",
+    "name": "Poly",
+    "type": "service"
+  },
+  {
+    "dateClose": "2020-12-14",
+    "dateOpen": "2017-12-11",
+    "description": "كان Google Home Max سماعة ذكية استريو كبيرة تحتوي على مكبرات صوت عالية التردد ومضخمات صوت، مدخل aux، ومدخل USB-C (للإيثرنت السلكي) مع تقنية تعلم الآلة Smart Sound.",
+    "link": "https://9to5google.com/2020/12/14/google-home-max-discontinued/",
+    "name": "Google Home Max",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2021-05-31",
+    "dateOpen": "2013-08-18",
+    "description": "كان تطبيق Timely Alarm Clock تطبيقًا لنظام Android يوفر وظيفة المنبه والساعة الزمنية والمؤقت مع مزامنة عبر الأجهزة.",
+    "link": "http://www.bitspin.ch/google",
+    "name": "Timely",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-01-22",
+    "dateOpen": "2014-06-14",
+    "description": "كان Loon خدمة لتوفير الوصول إلى الإنترنت عبر مجموعة من البالونات عالية الارتفاع تحوم في الطبقة الستراتوسفيرية للأرض.",
+    "link": "https://www.theverge.com/2021/1/21/22243484/alphabet-google-shutting-down-loon-internet-balloon-company-x",
+    "name": "Loon",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-02-12",
+    "dateOpen": "2018-04-22",
+    "description": "سويفت لتنسورفلو (S4TF) كانت منصة الجيل القادم لتعلم الآلة مع التركيز على البرمجة قابلة للتفاضل.",
+    "link": "https://github.com/tensorflow/swift",
+    "name": "Swift for TensorFlow",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-09-30",
+    "dateOpen": "2005-10-10",
+    "description": "كانت خدمة Google Bookmarks خدمة إشارات مرجعية عبر الويب خاصة لم تكن متكاملة مع أي خدمات أخرى من Google.",
+    "link": "https://en.wikipedia.org/wiki/Google_Bookmarks",
+    "name": "Google Bookmarks",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-12-16",
+    "dateOpen": "2018-05-08",
+    "description": "كانت Material Gallery أداة تعاون لمصممي واجهات المستخدم، مُحسّنة لتصميم المواد الخاص بشركة Google، مع تطبيقات معاينة على الهواتف المحمولة وإضافة لبرنامج Sketch.",
+    "link": "https://web.archive.org/web/20230706151910/https://support.google.com/materialgallery/answer/11044972",
+    "name": "Material Gallery",
+    "type": "service"
+  },
+  {
+    "dateClose": "2022-05-01",
+    "dateOpen": "2006-08-28",
+    "description": "كانت G Suite (الإصدار المجاني القديم) عبارة عن طبقة مجانية تقدم بعض الخدمات المدرجة في مجموعة أدوات الإنتاجية من Google.",
+    "link": "https://9to5google.com/2022/01/19/g-suite-legacy-free-edition/",
+    "name": "G Suite (Legacy Free Edition)",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-10-01",
+    "dateOpen": "2017-07-01",
+    "description": "كان \"النسخ الاحتياطي والمزامنة\" أداة برمجية لسطح المكتب على نظامي التشغيل ويندوز وماكوس، تسمح للمستخدمين بمزامنة الملفات من Google Drive إلى جهازهم المحلي.",
+    "link": "https://9to5google.com/2021/02/04/google-drive-for-desktop-replace/",
+    "name": "Backup and Sync",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-12-31",
+    "dateOpen": "2017-12-01",
+    "description": "كان تطبيق Streams تطبيقًا لدعم الأطباء الذي كان يهدف إلى تحسين اتخاذ القرارات السريرية وسلامة المرضى في جميع المستشفيات في المملكة المتحدة.",
+    "link": "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/",
+    "name": "Streams",
+    "type": "app"
+  },
+  {
+    "dateClose": "2022-12-31",
+    "dateOpen": "2016-09-01",
+    "description": "كانت \"يوتيوب أوريجينالز\" مجموعة متنوعة من المحتوى الأصلي بما في ذلك سلاسل مكتوبة مسبقًا، ومقاطع فيديو تعليمية، وبرامج موسيقية وبرامج ترفيهية تتضمن مشاهير.",
+    "link": "https://arstechnica.com/gadgets/2022/01/google-kills-youtube-originals-its-original-video-content-group/",
+    "name": "YouTube Originals",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-11-05",
+    "dateOpen": "2019-11-19",
+    "description": "كان تحديث الأخبار الخاص بك خدمة تقدم ملخصًا صوتيًا لمزيج من قصص الأخبار القصيرة التي تم اختيارها في ذلك الوقت استنادًا إلى اهتمامات المستخدم، وموقعه، وتاريخه، وتفضيلاته، بالإضافة إلى أهم قصص الأخبار المتاحة.",
+    "link": "https://9to5google.com/2021/11/05/google-assistant-your-news-update/",
+    "name": "Your News Update",
+    "type": "service"
+  },
+  {
+    "name": "Google Pinyin IME",
+    "dateOpen": "2007-04-04",
+    "dateClose": "2018-11-30",
+    "link": "https://en.wikipedia.org/wiki/Google_Pinyin",
+    "description": "كان Google Pinyin IME طريقة إدخال نص تسمح لمستخدمي أنظمة التشغيل المتعددة بإدخال الحروف من البينين، وهو نظام الكتابة الصوتية للصينية القياسية القياسية.",
+    "type": "service"
+  },
+  {
+    "name": "VR180 Creator",
+    "dateOpen": "2018-06-15",
+    "dateClose": "2021-07-31",
+    "link": "https://ubunlog.com/en/vr180-creator-edito-videovr/",
+    "description": "سمحت منصة VR180 Creator للمستخدمين بتحرير الفيديو الذي تم التقاطه على أجهزة بزاوية 180 درجة و 360 درجة على أنظمة تشغيل متعددة.",
+    "type": "app"
+  },
+  {
+    "name": "Google Sites (Classic)",
+    "dateOpen": "2008-02-28",
+    "dateClose": "2021-11-30",
+    "link": "https://en.wikipedia.org/wiki/Google_Sites",
+    "description": "سمحت Google Sites (Classic) للمستخدمين ببناء وتحرير مواقع الويب وبوابات الويكي للاستخدام الخاص والعام.",
+    "type": "service"
+  },
+  {
+    "name": "Playground AR",
+    "dateOpen": "2017-12-11",
+    "dateClose": "2020-08-20",
+    "link": "https://www.xda-developers.com/google-no-longer-offer-playground-ar-stickers-future-pixel-phones-starting-pixel-4a/",
+    "description": "سمح تطبيق Playground AR (المعروف أيضًا بـ AR Stickers) للمستخدمين بوضع شخصيات افتراضية وأشياء في الواقع المعزز عبر تطبيق الكاميرا على هواتف Pixel.",
+    "type": "app"
+  },
+  {
+    "name": "Personal Blocklist",
+    "dateOpen": "2011-02-01",
+    "dateClose": "2019-08-01",
+    "link": "https://searchengineland.com/google-finally-discontinues-the-blocked-sites-feature-152885",
+    "description": "كانت Personal Blocklist إضافة لمتصفح Chrome من Google تسمح للمستخدمين بحظر بعض المواقع الإلكترونية من الظهور في نتائج البحث في Google.",
+    "type": "service"
+  },
+  {
+    "name": "AdSense (mobile app)",
+    "dateOpen": "2013-07-31",
+    "dateClose": "2019-12-31",
+    "link": "https://9to5google.com/2019/07/15/google-killing-adsense-apps/",
+    "description": "أتاح تطبيق AdSense للهواتف المحمولة للمستخدمين إدارة حساباتهم في AdSense في تطبيق أصلي لنظامي التشغيل iOS و Android.",
+    "type": "app"
+  },
+  {
+    "name": "YouTube for PS Vita",
+    "dateOpen": "2012-06-26",
+    "dateClose": "2015-03-20",
+    "link": "https://www.ign.com/articles/2015/01/28/sony-to-end-ps-vita-support-for-maps-near-and-youtube",
+    "description": "كانت YouTube لجهاز PlayStation Vita تطبيقًا مخصصًا لتصفح ومشاهدة YouTube على أجهزة PS Vita و PSTV.",
+    "type": "app"
+  },
+  {
+    "name": "Posts on Google",
+    "dateOpen": "2012-05-16",
+    "dateClose": "2021-07-31",
+    "link": "https://www.seroundtable.com/google-posts-knowledge-panels-discontinued-31755.html",
+    "description": "سمحت المشاركات على غوغل للأفراد المميزين الذين يمتلكون لوحات المعرفة بكتابة محتوى محدد يظهر في نتائج البحث على غوغل.",
+    "type": "service"
+  },
+  {
+    "name": "YouTube Community Contributions",
+    "dateOpen": "2016-01-01",
+    "dateClose": "2020-09-28",
+    "link": "https://www.engadget.com/youtube-community-contributions-saying-goodbye-141205281.html",
+    "description": "سمحت مساهمات مجتمع YouTube للمستخدمين بالمساهمة في ترجمة عناوين الفيديو أو تقديم وصف لها، وكذلك إضافة ترجمات مغلقة أو ترجمات للمحتوى على YouTube.",
+    "type": "service"
+  },
+  {
+    "name": "Google Currents (2019)",
+    "dateOpen": "2019-04-10",
+    "dateClose": "2023-03-31",
+    "link": "https://www.theverge.com/2022/2/10/22928042/google-plus-replacement-wind-down-currents-spaces",
+    "description": "كان Google Currents خدمة توفر ميزات وسائل التواصل الاجتماعي المشابهة لـ Google+ لعملاء Google Workspace.",
+    "type": "service"
+  },
+  {
+    "name": "Google Assistant Snapshot",
+    "dateOpen": "2018-07-17",
+    "dateClose": "2022-04-13",
+    "link": "https://www.droid-life.com/2022/03/03/googles-assistant-snapshot-is-going-away/",
+    "description": "كان Google Assistant Snapshot خليفة Google Now التي قدمت بطاقات تنبؤية بالمعلومات والتحديثات اليومية في تطبيق Google لنظام Android وiOS.",
+    "type": "service"
+  },
+  {
+    "name": "Google Cloud Prediction API",
+    "dateOpen": "2010-05-31",
+    "dateClose": "2018-04-30",
+    "link": "https://www.infoq.com/news/2017/06/google-drops-prediction-api/",
+    "description": "كان Google Cloud Prediction API منصة خدمات سحابية لوظائف تعلم الآلة (ML) لمساعدة المطورين على بناء نماذج ML لإنشاء ميزات تطبيق مثل أنظمة التوصيات، وكشف الرسائل العشوائية، وتوقعات الشراء.",
+    "type": "service"
+  },
+  {
+    "name": "Conversational Actions",
+    "dateOpen": "2016-10-04",
+    "dateClose": "2023-06-13",
+    "link": "https://web.archive.org/web/20230430231035/https://developers.google.com/assistant/conversational/overview",
+    "description": "توسعت الإجراءات الحوارية وظيفة مساعد Google عن طريق السماح للمطورين من الأطراف الثالثة بإنشاء تجارب مخصصة، أو محادثات، لمستخدمي مساعد Google.",
+    "type": "service"
+  },
+  {
+    "name": "Kormo Jobs",
+    "dateOpen": "2019-08-15",
+    "dateClose": "2022-06-30",
+    "link": "https://www2.staffingindustry.com/row/Editorial/Daily-News/Asia-Google-shuts-down-its-Kormo-jobs-site-in-Asia-62393",
+    "description": "كانت تطبيق كورمو جوبز تطبيقًا يسمح للمستخدمين في الهند وإندونيسيا وبنغلاديش بالعثور على وظائف قريبة تتناسب مع مهاراتهم واهتماماتهم.",
+    "type": "app"
+  },
+  {
+    "name": "Google Hangouts",
+    "dateOpen": "2013-05-15",
+    "dateClose": "2022-11-30",
+    "link": "https://arstechnica.com/gadgets/2022/06/google-hangouts-finally-gets-a-shutdown-date-november-2022/",
+    "description": "كان Google Hangouts خدمة مراسلة فورية متعددة المنصات.",
+    "type": "service"
+  },
+  {
+    "name": "Google Cloud IoT Core",
+    "dateOpen": "2018-02-21",
+    "dateClose": "2023-08-16",
+    "link": "https://www.iotworldtoday.com/2022/08/23/google-cloud-to-shut-down-iot-core-service/",
+    "description": "كان Google Cloud IoT Core خدمة مُدارة مصممة للسمح للعملاء بالاتصال بشكل آمن وإدارة واستيعاب البيانات من الأجهزة المنتشرة عالميًا.",
+    "type": "service"
+  },
+  {
+    "name": "Threadit",
+    "dateOpen": "2021-03-18",
+    "dateClose": "2022-12-19",
+    "link": "https://9to5google.com/2022/10/19/google-workspace-threadit/",
+    "description": "كان Threadit أداة لتسجيل ومشاركة مقاطع الفيديو القصيرة.",
+    "type": "app"
+  },
+  {
+    "name": "Duplex on the Web",
+    "dateOpen": "2019-05-07",
+    "dateClose": "2022-12-01",
+    "link": "https://techcrunch.com/2022/12/02/google-shuts-down-duplex-on-the-web-its-attempt-to-bring-ai-smarts-to-retail-sites-and-more/",
+    "description": "كان Duplex on the Web تقنية مساعد جوجل التي كانت تقوم بتأ automat تلك المهام على الويب نيابة عن المستخدم؛ مثل حجز تذاكر السينما أو عمل حجوزات في المطاعم.",
+    "type": "service"
+  },
+  {
+    "name": "Polymer",
+    "dateOpen": "2015-05-29",
+    "dateClose": "2021-04-20",
+    "link": "http://polymer-project.org",
+    "description": "كان بوليمر مكتبة جافا سكريبت مفتوحة المصدر لمكونات الويب",
+    "type": "service"
+  },
+  {
+    "name": "Build with Chrome",
+    "dateOpen": "2014-01-28",
+    "dateClose": "2017-01-31",
+    "link": "https://brickipedia.fandom.com/wiki/Build_with_Chrome",
+    "description": "كان \"Build with Chrome\" تعاونًا بين Chrome ومجموعة LEGO يسمح للمستخدمين ببناء ونشر إبداعات LEGO على أي قطعة أرض رقمية في العالم من خلال خرائط Google.",
+    "type": "service"
+  },
+  {
+    "name": "Google Street View (standalone app)",
+    "dateOpen": "2010-09-09",
+    "dateClose": "2023-03-21",
+    "link": "https://9to5google.com/2022/11/01/google-street-view-app-shutting-down/",
+    "description": "تطبيق Google Street View كان تطبيقًا لنظامي التشغيل Android و iOS يمكن الأشخاص من الحصول على عرض بزاوية 360 درجة للمواقع في جميع أنحاء العالم.",
+    "type": "app"
+  },
+  {
+    "name": "Google Optimize",
+    "dateOpen": "2012-06-01",
+    "dateClose": "2023-09-30",
+    "link": "https://web.archive.org/web/20230120214459/https://support.google.com/optimize/answer/12979939",
+    "description": "كان Google Optimize أداة تحليل الويب واختبار تسمح للمستخدمين بتشغيل تجارب تهدف إلى زيادة معدلات تحويل الزوار والرضا العام.",
+    "type": "service"
+  },
+  {
+    "name": "Grasshopper",
+    "dateOpen": "2018-04-18",
+    "dateClose": "2023-06-15",
+    "link": "https://www.androidpolice.com/google-grasshopper-code-learning-shut-down-date-revealed/",
+    "description": "كان Grasshopper تطبيق مجاني على الهواتف المحمولة والويب للمبرمجين الطامحين الذين يدرسون JavaScript المقدمة والأساسيات في البرمجة باستخدام ألغاز ممتعة وصغيرة.",
+    "type": "app"
+  },
+  {
+    "name": "Pixel Pass",
+    "dateOpen": "2021-10-28",
+    "dateClose": "2023-08-29",
+    "link": "https://www.theverge.com/2023/8/30/23851107/google-graveyard-pixel-pass-subscription-phone-upgrades",
+    "description": "كان برنامج Pixel Pass يسمح للمستخدمين بدفع رسوم شهرية لهواتفهم Pixel والترقية على الفور بعد مرور عامين.",
+    "type": "service"
+  },
+  {
+    "name": "Google Podcasts",
+    "dateOpen": "2018-06-18",
+    "dateClose": "2024-04-02",
+    "link": "https://9to5google.com/2023/09/26/google-podcasts-youtube-music/",
+    "description": "كانت Google Podcasts منصة لاستضافة البودكاست وتطبيق Android للاستماع إلى البودكاست.",
+    "type": "app"
+  },
+  {
+    "name": "Jamboard",
+    "dateOpen": "2017-05-23",
+    "dateClose": "2024-09-30",
+    "link": "https://9to5google.com/2023/09/28/google-jamboard/",
+    "description": "كان جامبورد جهاز لوحة بيضاء رقمية بشاشة تعمل باللمس بدقة 4K يسمح بالتعاون باستخدام خدمات Google Workspace.",
+    "type": "hardware"
+  },
+  {
+    "name": "Google Jamboard",
+    "dateOpen": "2016-10-25",
+    "dateClose": "2024-12-31",
+    "link": "https://9to5google.com/2023/09/28/google-jamboard/",
+    "description": "كان Google Jamboard تطبيق لوحة بيضاء عبر الويب والتطبيق الأصلي يقدم تجربة تعاونية غنية.",
+    "type": "app"
+  },
+  {
+    "name": "Keen",
+    "dateOpen": "2020-06-18",
+    "dateClose": "2024-03-24",
+    "link": "https://www.androidpolice.com/google-keen-shutdown-area-120-experiment/",
+    "description": "كان Keen منصة بنمط Pinterest مع توصيات ML.",
+    "type": "app"
+  }
+]
