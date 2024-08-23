@@ -2,15 +2,11 @@ import React from 'react';
 import dynamic from 'next/dynamic';
 import {
   format,
-  formatDistance,
   parseISO,
-  formatDistanceToNow,
 } from 'date-fns';
 
 import { ProductWithSlug } from 'types/Product';
 import Badge from 'components/Badge'; 
-
-const DeathIdiom = dynamic(() => import('./LeadPhrase'), { ssr: false });
 
 // Import Styled Components
 import {
@@ -24,22 +20,11 @@ import {
 
 export default function Item(props: ProductWithSlug) {
 
-  const isPast = () => {
-    return new Date() > new Date(props.dateClose);
-  };
-
-
   const dateOpen = parseISO(props.dateOpen);
   const dateClose = parseISO(props.dateClose);
-  const relativeDate = formatDistanceToNow(dateClose);
 
-  const getYears = () => {
-    const duration = formatDistance(dateClose, dateOpen);
-
-    if (!isPast()) {
-      return ` It will be ${duration} old.`;
-    }
-    return ` It was ${duration} old.`;
+  const isPast = () => {
+    return new Date() > new Date(props.dateClose);
   };
 
   const getIcon = () => {
@@ -77,6 +62,7 @@ export default function Item(props: ProductWithSlug) {
       </AgeRange>
     );
   };
+
   return (
     <ListItem>
       <IconContainer>
@@ -91,12 +77,9 @@ export default function Item(props: ProductWithSlug) {
           </a>
         </h2>
         <Description>
-          {(isPast()) ? `Killed ${relativeDate} ago, ` : <DeathIdiom relativeDate={relativeDate} /> }
           {props.description}
-          {getYears()}
         </Description>
       </ContentContainer>
     </ListItem>
   );
 }
-

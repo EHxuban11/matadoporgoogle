@@ -20,15 +20,15 @@ const Filter: React.FC<Props> = ({ items, filterHandler }) => {
   const selectOptions: Option[] = [
     {
       value: FilterType.ALL,
-      label: `All (${items.length})`,
+      label: `Todos (${items.length})`,
     },
     {
       value: FilterType.APP,
-      label: `Apps (${getCount('app')})`,
+      label: `Aplicaciones (${getCount('app')})`,
     },
     {
       value: FilterType.SERVICE,
-      label: `Services (${getCount('service')})`,
+      label: `Servicios (${getCount('service')})`,
     },
     {
       value: FilterType.HARDWARE,

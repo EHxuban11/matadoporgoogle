@@ -19,7 +19,7 @@ const HomePage: React.FC<{ items: ProductWithSlug[] }> = ({ items }) => {
             <Head>
                 <meta charSet="UTF-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
-                <meta name="description" content="Killed by Google is the Google Graveyard. A full list of dead products killed by Google in the Google Cemetery." />
+                <meta name="description" content="Matado por google es el cementerio de Google. Una lista completa de productos matados por google se puede enocontrar aquí" />
                 <link rel="shortcut icon" href="favicon.png" />
                 <title>Google Graveyard - Killed by Google</title>
                 <meta name="theme-color" content="#FAFAFA" />

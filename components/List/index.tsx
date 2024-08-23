@@ -129,7 +129,7 @@ type Props = {
 const List: React.FC<Props> = ({ items }) => (
     <ListContainer>
         <AdContainer>
-            <SRT>Advertisement</SRT>
+            <SRT>Anuncio</SRT>
             {showAd()}
         </AdContainer>
         {items.map(item => (

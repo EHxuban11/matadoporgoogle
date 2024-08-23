@@ -19,11 +19,11 @@ export default function Search({ searchCallback }: SearchProps) {
 
   return (
     <SearchContainer>
-      <label htmlFor="searchBox" aria-label="Search">
+      <label htmlFor="searchBox" aria-label="Buscar">
         <SRT>Search</SRT>
         <SearchBox
           id="searchBox"
-          placeholder="Search"
+          placeholder="Buscar"
           type="text"
           value={searchValue}
           onChange={(event: React.FormEvent<HTMLInputElement>) => updateValue(event.currentTarget.value)}

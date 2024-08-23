@@ -6,29 +6,30 @@ interface Props {
 
 const soonToDieIdiom = () => {
     const items = [
-        'Sentenced to death',
-        '"Off with their heads!"',
-        'Kicking the bucket',
-        'Dead as a doorknob',
-        'Done for',
-        'Expiring',
-        'Biting the big one',
-        'Off to the glue factory',
-        'Another one bites the dust',
-        'To be turned off',
-        'Like a fork stuck in the outlet',
-        'Scheduled to be killed',
-        'To be exterminated',
-        'To be flushed',
-        'Getting unplugged',
-        'Vanishing',
-        'Going poof',
-        'Turning to ashes',
-        'Getting KO\'d',
-        'Running out of juice',
-        'Fading into darkness',
-        'Floating belly up'
+        'Sentenciado a muerte',
+        '¡Que les corten la cabeza!',
+        'Estirar la pata',
+        'Muerto como un clavo',
+        'Está acabado',
+        'Expirando',
+        'Colgar los tenis',
+        'Camino del matadero',
+        'Otro que muerde el polvo',
+        'Apagar el interruptor',
+        'Como un tenedor en el enchufe',
+        'Programado para ser eliminado',
+        'Ser exterminado',
+        'Tirado por el inodoro',
+        'Desenchufado',
+        'Desapareciendo',
+        'Haciendo ¡puf!',
+        'Volverse cenizas',
+        'Recibir un KO',
+        'Quedarse sin energía',
+        'Desvaneciéndose en la oscuridad',
+        'Flotando boca arriba'
     ];
+    
     return items[Math.floor(Math.random() * items.length)];
 };
 
